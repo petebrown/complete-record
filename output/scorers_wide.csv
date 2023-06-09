@@ -1,0 +1,671 @@
+season,game_no,scorers
+1965/66,1,Barry Dyson 2
+1965/66,2,Alan King
+1965/66,3,Frank Twist
+1965/66,4,"John Manning, Barry Dyson"
+1965/66,5,Barry Dyson 2
+1965/66,6,"Barry Dyson, Bruce Crawford"
+1965/66,7,"Joe Pritchard, Bruce Crawford"
+1965/66,8,Barry Dyson
+1965/66,10,Barry Dyson 2
+1965/66,11,"Alan King, John Manning 2, Barry Dyson, OG"
+1965/66,14,Roy Parnell
+1965/66,15,"Jack Lornie 2, John Manning, Barry Dyson 2"
+1965/66,16,Alan King
+1965/66,17,"Alan King, John Manning 2, Barry Dyson 2, OG"
+1965/66,18,"Joe Pritchard, John Manning"
+1965/66,19,John Manning
+1965/66,22,"Bruce Crawford, John Manning, Barry Dyson"
+1965/66,24,"John Manning, Barry Dyson 2, Roy Sinclair 3"
+1965/66,25,Barry Dyson
+1965/66,27,"John Manning 2, Barry Dyson, Bruce Crawford, Alan A'Court 2"
+1965/66,28,"Jack Lornie, Bruce Crawford, Graham Stanley"
+1965/66,30,"Alan King 2, Barry Dyson, Roy Sinclair, Alan A'Court"
+1965/66,31,"Mandy Hill, Barry Dyson, Alan A'Court"
+1965/66,32,"Joe Pritchard, Barry Dyson 2"
+1965/66,33,"John Manning, Alan A'Court 3"
+1965/66,34,Barry Dyson
+1965/66,35,OG
+1965/66,36,Barry Dyson
+1965/66,37,John Manning
+1965/66,38,John Manning
+1965/66,39,Alan King
+1965/66,40,Jack Lornie
+1965/66,42,Roy Parnell
+1965/66,44,Alan King
+1965/66,45,"Mandy Hill, John Manning 2, Barry Dyson 2, Frank Twist"
+1965/66,46,"Mandy Hill, Barry Dyson, Frank Twist"
+1965/66,47,"John Manning, Barry Dyson 3, Joe Pritchard"
+1965/66,48,"John Manning, OG"
+1980/81,1,"Elfyn Edwards, John Kelly, Steve Craven"
+1980/81,3,Jim Lumby
+1980/81,6,Clive Evans
+1980/81,7,"Clive Evans, Jim Lumby 2"
+1980/81,8,"John Bramhall, John Kerr"
+1980/81,9,Jim Lumby
+1980/81,11,Kenny Beamish
+1980/81,12,Jim Lumby
+1980/81,13,"Jim Lumby 2, Kenny Beamish"
+1980/81,14,"Steve Peplow, Jim Lumby 3, Kenny Beamish"
+1980/81,15,"Clive Evans, Jim Lumby, Kenny Beamish"
+1980/81,16,Jim Lumby
+1980/81,17,Steve Peplow
+1980/81,18,"Steve Peplow, Steve Mungall, John Kerr"
+1980/81,19,"Steve Mungall, Jim Lumby"
+1980/81,20,Jim Lumby
+1980/81,22,"Clive Evans, Jim Lumby 2"
+1980/81,23,Jim Lumby
+1980/81,27,"Kenny Beamish, Steve Craven"
+1980/81,28,Steve Craven
+1980/81,29,"Jim Lumby, John Kerr"
+1980/81,32,John Kerr
+1980/81,34,John Kelly
+1980/81,35,"Les Parry, John Kelly, Kenny Beamish"
+1980/81,36,John Kerr
+1980/81,37,"Clive Evans, John Kelly"
+1980/81,39,Neville Powell
+1980/81,41,Clive Evans
+1980/81,42,OG
+1980/81,43,John Bramhall
+1980/81,44,"Kenny Beamish, John Kerr"
+1980/81,45,Clive Evans
+1980/81,46,"Steve Mungall, John Kelly"
+1980/81,47,"Les Parry, Clive Evans"
+1980/81,48,"Clive Evans 2, John Williams"
+1980/81,49,Steve Craven
+1980/81,51,John Williams
+1980/81,52,"Steve Peplow, John Kelly"
+1981/82,2,"John Kerr, Owen Brown 2, OG"
+1981/82,5,"John Kelly, John Kerr, Owen Brown"
+1981/82,6,Steve Mungall
+1981/82,7,"John Bramhall, Owen Brown"
+1981/82,9,John Williams
+1981/82,10,"Derek Mountfield, John Williams"
+1981/82,11,Owen Brown 2
+1981/82,12,Bryan Hamilton
+1981/82,13,Owen Brown 2
+1981/82,14,Owen Brown
+1981/82,15,"Brian Morley, Owen Brown"
+1981/82,16,"Bobby Hutchinson, John Kerr"
+1981/82,20,Bobby Hutchinson
+1981/82,21,Owen Brown
+1981/82,22,Owen Brown
+1981/82,23,John Williams
+1981/82,24,Owen Brown
+1981/82,26,"Bryan Hamilton, Bobby Hutchinson"
+1981/82,28,"Bobby Hutchinson, Steve Craven"
+1981/82,29,"John Kerr 2, Steve Craven"
+1981/82,30,"John Williams, Bobby Hutchinson, John Kerr"
+1981/82,33,John Kerr
+1981/82,34,John Bramhall
+1981/82,35,"John Kerr, Steve Craven"
+1981/82,36,John Bramhall
+1981/82,37,John Kerr
+1981/82,39,"John Kerr, Steve Craven"
+1981/82,40,John Kerr
+1981/82,43,John Kerr 2
+1981/82,44,John Williams
+1981/82,45,John Kerr 2
+1981/82,46,Ian Griffiths
+1981/82,47,"David Burgess, John Kerr, Steve Craven"
+1981/82,48,Steve Craven
+1981/82,50,John Williams
+1981/82,51,"Steve Craven, Mark Ferguson"
+1981/82,52,"Bobby Hutchinson, Owen Brown"
+1981/82,53,Brian Morley
+1981/82,54,Steve Craven 2
+1982/83,2,Bobby Hutchinson
+1982/83,3,"Bryan Hamilton, John Kerr"
+1982/83,4,"Bryan Hamilton, Neville Powell, Bobby Hutchinson"
+1982/83,5,Bryan Hamilton
+1982/83,7,Ian Griffiths
+1982/83,11,Owen Brown
+1982/83,13,Bryan Hamilton
+1982/83,14,"Bobby Hutchinson, Owen Brown"
+1982/83,15,Owen Brown
+1982/83,16,John Aspinall
+1982/83,18,"John Kerr, Owen Brown"
+1982/83,20,"Steve Mungall, John Kerr"
+1982/83,21,"John Kerr, Owen Brown 3"
+1982/83,22,"Mark Ferguson, John Aspinall"
+1982/83,23,OG
+1982/83,24,Owen Brown
+1982/83,25,"John Aspinall, Ian Griffiths"
+1982/83,26,Mark Ferguson 2
+1982/83,27,"Ian Griffiths, Neville Powell"
+1982/83,28,Owen Brown 2
+1982/83,29,John Aspinall
+1982/83,30,"Mark Ferguson, John Kerr"
+1982/83,33,"Mark Ferguson, Owen Brown"
+1982/83,34,Ian Griffiths
+1982/83,35,"Gavin Oliver, John Aspinall, John Kerr"
+1982/83,36,John Kerr
+1982/83,38,"Barry Wellings, Owen Brown"
+1982/83,40,"John Aspinall, Barry Wellings"
+1982/83,42,Mark Ferguson
+1982/83,44,"Mark Ferguson, Owen Brown"
+1982/83,45,"John Aspinall, Owen Brown, Ian Griffiths"
+1982/83,46,Owen Brown
+1982/83,49,John Kerr
+1982/83,50,John Kerr
+1982/83,52,Owen Brown
+1982/83,53,Barry Wellings
+1983/84,1,John Aspinall
+1983/84,3,Mark Palios
+1983/84,5,"John Aspinall, Mark Hilditch"
+1983/84,9,"Mark Ferguson, Gary Williams"
+1983/84,10,John Aspinall
+1983/84,11,Owen Brown
+1983/84,12,"Gary Williams, OG"
+1983/84,13,"Mark Ferguson, OG"
+1983/84,15,Mark Hilditch
+1983/84,17,"Dave Philpotts, Gary Williams"
+1983/84,18,"Mark Ferguson, John Aspinall"
+1983/84,19,"John Aspinall, Neville Powell"
+1983/84,20,Mark Allen
+1983/84,21,"Ray Mathias, John Aspinall"
+1983/84,22,"Mark Palios, John Williams, Mark Ferguson"
+1983/84,23,Mark Hilditch
+1983/84,24,"John Aspinall 2, OG"
+1983/84,25,Dave Philpotts
+1983/84,26,John Aspinall 2
+1983/84,28,"John Aspinall, Mark Hilditch 2"
+1983/84,29,Dave Philpotts
+1983/84,32,Dave Philpotts
+1983/84,34,John Aspinall
+1983/84,35,"Mark Hilditch, Bobby Hutchinson"
+1983/84,37,OG
+1983/84,38,"Mark Palios, John Aspinall, Bobby Hutchinson"
+1983/84,39,"Neville Powell, John Aspinall, Mark Hilditch"
+1983/84,40,"Mark Hilditch 3, Ronnie Goodlass"
+1983/84,41,"Mark Hilditch, Bobby Hutchinson 2"
+1983/84,43,Bobby Hutchinson
+1983/84,44,John Aspinall
+1983/84,45,Mark Palios
+1983/84,47,"Dave Philpotts, Mark Hilditch"
+1983/84,48,Mark Hilditch
+1983/84,51,"Dave Philpotts, Ray Woods"
+1983/84,53,Ray Woods
+1983/84,54,Bobby Hutchinson
+1983/84,55,Dave Philpotts
+1985/86,1,Frank Worthington
+1985/86,2,"Frank Worthington 3, John Clayton 3"
+1985/86,3,"John Clayton, Doug Anderson"
+1985/86,4,Frank Worthington
+1985/86,5,"Frank Worthington, Doug Anderson"
+1985/86,7,OG
+1985/86,8,"Nick Sinclair, Ian Muir, Frank Worthington"
+1985/86,9,Frank Worthington
+1985/86,10,"Frank Worthington 2, Ian Muir"
+1985/86,12,"Johnny Morrissey, Frank Worthington"
+1985/86,13,Johnny Morrissey
+1985/86,14,"Ian Muir, Doug Anderson"
+1985/86,15,Billy Rodaway
+1985/86,16,"Billy Rodaway, Ian Muir"
+1985/86,17,"Johnny Morrissey, Frank Worthington 2, Ian Muir 4"
+1985/86,18,Dave Miller
+1985/86,19,"Billy Rodaway, Frank Worthington"
+1985/86,20,"Ian Muir, Doug Anderson"
+1985/86,21,"Billy Rodaway, Frank Worthington"
+1985/86,22,Ian Muir
+1985/86,24,"Gary Williams, Billy Ashcroft"
+1985/86,25,Johnny Morrissey
+1985/86,26,Doug Anderson
+1985/86,27,"Gary Williams, Johnny Morrissey, Doug Anderson, Billy Ashcroft"
+1985/86,28,"Frank Worthington, Liam Robinson"
+1985/86,29,"Gary Williams, Doug Anderson"
+1985/86,30,"Steve Edwards, Liam Robinson 2"
+1985/86,33,"Johnny Morrissey, Doug Anderson"
+1985/86,34,"Steve Mungall, Mark Hilditch"
+1985/86,35,Doug Anderson 2
+1985/86,37,Ian Muir
+1985/86,38,"Dave Miller, Gary Williams"
+1985/86,40,Doug Anderson
+1985/86,41,Ian Muir
+1985/86,42,Mark Hughes
+1985/86,44,Ian Muir
+1985/86,45,Billy Rodaway
+1985/86,46,"Frank Worthington, Ian Muir"
+1985/86,48,Ian Muir
+1985/86,49,Mark Hilditch
+1985/86,50,Frank Worthington 2
+1985/86,51,Frank Worthington
+1985/86,52,"Johnny Morrissey, Steve Edwards, Doug Anderson 2"
+1985/86,53,Gary Williams
+1985/86,55,Mark Hilditch
+1986/87,1,Ian Muir
+1986/87,2,Frank Worthington
+1986/87,3,"Frank Worthington, Ian Muir"
+1986/87,4,"Steve Mungall, Steve Vickers 2"
+1986/87,5,"Mark Hughes, Ian Muir, Doug Anderson"
+1986/87,6,Johnny Morrissey 2
+1986/87,8,Johnny Morrissey
+1986/87,9,"Gary Williams, Johnny Morrissey"
+1986/87,10,Ian Muir 2
+1986/87,11,Ian Muir 2
+1986/87,12,Steve Vickers
+1986/87,14,Ronnie Moore
+1986/87,15,Ian Muir
+1986/87,16,Ian Muir
+1986/87,17,Johnny Morrissey
+1986/87,18,Adrian Thorpe
+1986/87,19,Ian Muir 3
+1986/87,20,"Ian Muir, Adrian Thorpe 2"
+1986/87,21,Steve Vickers
+1986/87,22,"Graham Bell, Ian Muir"
+1986/87,25,Ronnie Moore
+1986/87,27,"Ronnie Moore 2, Ian Muir"
+1986/87,28,Ian Muir 2
+1986/87,29,Frank Worthington
+1986/87,30,Frank Worthington
+1986/87,32,Ian Muir 2
+1986/87,33,Ian Muir
+1986/87,34,Johnny Morrissey
+1986/87,35,Ian Muir
+1986/87,36,"Steve Vickers, Ian Muir"
+1986/87,37,"Graham Bell, Ian Muir"
+1986/87,38,"Johnny Morrissey, Doug Anderson"
+1986/87,40,"Ronnie Moore, Graham Bell, Ian Muir"
+1986/87,42,"Graham Bell, Ineil Horwood"
+1986/87,45,Gary Williams
+1986/87,47,Ronnie Moore
+1986/87,48,Steve Bullock
+1986/87,50,Chris Camden
+1986/87,51,Ian Muir
+1986/87,52,Gary Williams
+1987/88,2,Steve Mungall
+1987/88,4,Andy Thorpe
+1987/88,5,"Kenny McKenna, Ian Muir"
+1987/88,6,"Mark McCarrick, OG"
+1987/88,10,Kenny McKenna
+1987/88,13,"Steve Vickers, Johnny Morrissey, Jimmy Harvey, Ian Muir 3"
+1987/88,16,John Aspinall
+1987/88,17,"Johnny Morrissey, Ian Muir"
+1987/88,18,Ronnie Moore
+1987/88,21,Dave Martindale
+1987/88,22,"Dave Martindale, Ian Muir"
+1987/88,23,Ian Muir
+1987/88,24,"Dave Martindale, OG"
+1987/88,25,"Jim Steel, Ian Muir 2, Eddie Murray"
+1987/88,26,Kenny McKenna
+1987/88,27,"Jimmy Harvey, Jim Steel"
+1987/88,30,"Dave Martindale, Johnny Morrissey, Ian Muir"
+1987/88,31,"Mark McCarrick, Jim Steel, Ian Muir 2"
+1987/88,32,Dave Martindale
+1987/88,33,Ian Muir
+1987/88,34,"Johnny Morrissey, Ian Muir"
+1987/88,35,Ian Muir
+1987/88,36,Ian Muir
+1987/88,37,Ian Muir
+1987/88,38,Ian Muir
+1987/88,39,"Jimmy Harvey, OG"
+1987/88,41,"Mark McCarrick, Jim Steel, Ian Muir"
+1987/88,43,Ian Muir
+1987/88,44,"Mark McCarrick, Jim Steel, Ian Muir"
+1987/88,46,"Jim Steel, Ian Muir 2"
+1987/88,47,"Mark McCarrick, Ian Muir"
+1987/88,48,Ian Muir
+1987/88,49,Ian Muir 2
+1987/88,50,"Eddie Bishop, Ian Muir 2"
+1987/88,51,"Dave Higgins, Jim Steel"
+1988/89,2,Ian Muir
+1988/89,4,Ian Muir
+1988/89,5,Jim Steel
+1988/89,6,Ian Muir
+1988/89,7,Eddie Bishop
+1988/89,8,"Dave Higgins, Ian Muir 2"
+1988/89,10,"Jim Steel, Ian Muir"
+1988/89,13,Mark Hughes
+1988/89,15,"Eddie Bishop, Jimmy Harvey 2"
+1988/89,16,Ian Muir
+1988/89,17,"Jim Steel, Ian Muir"
+1988/89,18,Eddie Bishop
+1988/89,19,"Eddie Bishop, Johnny Morrissey"
+1988/89,20,Ian Muir
+1988/89,21,Eddie Bishop
+1988/89,22,OG
+1988/89,23,Ian Muir 3
+1988/89,24,Ian Muir
+1988/89,26,"Mark McCarrick, Johnny Morrissey"
+1988/89,27,"Jim Steel, Steve Mungall"
+1988/89,28,"Jim Steel, Ian Muir"
+1988/89,29,Ian Muir
+1988/89,30,Ian Muir 2
+1988/89,32,OG
+1988/89,33,"Dave Martindale, Jim Steel"
+1988/89,34,Steve Vickers
+1988/89,35,Ian Muir
+1988/89,36,"Mark McCarrick, Steve Vickers, Jimmy Harvey"
+1988/89,38,Eddie Bishop
+1988/89,39,Johnny Morrissey
+1988/89,40,Chris Malkin
+1988/89,41,"Eddie Bishop, Steve Vickers"
+1988/89,42,Ian Muir
+1988/89,44,Ian Muir
+1988/89,45,"Jim Steel, Ian Muir"
+1988/89,46,Chris Malkin
+1988/89,47,"Chris Malkin 2, OG"
+1988/89,49,Ian Muir 2
+1988/89,50,Eddie Bishop 2
+1988/89,51,"Jimmy Harvey, Jim Steel, Steve Mungall"
+1988/89,52,"Tony Thomas, Steve Vickers"
+1988/89,53,Tony Thomas
+1988/89,54,"Johnny Morrissey, Ian Muir"
+1988/89,55,"Jim Steel, Ian Muir"
+1988/89,56,Ian Muir
+1988/89,57,Ian Muir
+1988/89,59,"Mark McCarrick, Mark Hughes, Ian Muir"
+1988/89,60,Ian Muir
+1989/90,1,"Eddie Bishop, Chris Malkin"
+1989/90,2,"Eddie Bishop, Chris Malkin 2, Ian Muir"
+1989/90,3,"Mark McCarrick, Johnny Morrissey, Jimmy Harvey"
+1989/90,4,"Chris Malkin, Ian Muir 2"
+1989/90,6,"Chris Malkin, David Fairclough"
+1989/90,7,Ian Muir
+1989/90,8,Ian Muir
+1989/90,9,"Dave Higgins, Johnny Morrissey, Chris Malkin, Ian Muir"
+1989/90,10,"Mark Hughes, Ian Muir 2"
+1989/90,11,"Johnny Morrissey, Chris Malkin 2, Ian Muir, Eddie Bishop 2"
+1989/90,12,Chris Malkin
+1989/90,13,"Chris Malkin, Ian Muir 2"
+1989/90,15,Ian Muir
+1989/90,17,"Mark McCarrick, Eddie Bishop, Jim Steel"
+1989/90,18,Ian Muir
+1989/90,19,Mark Hughes
+1989/90,20,"Jimmy Harvey 2, Jim Steel, Ian Muir"
+1989/90,21,Ian Muir
+1989/90,22,"Mark McCarrick, Eddie Bishop"
+1989/90,24,"Steve Vickers, Jim Steel"
+1989/90,25,"Dave Martindale, Steve Vickers, OG"
+1989/90,27,"Dave Martindale, Chris Malkin"
+1989/90,28,Ian Muir
+1989/90,30,"Jimmy Harvey, Jim Steel"
+1989/90,32,Ian Muir
+1989/90,33,"Mark McCarrick, Chris Malkin"
+1989/90,35,Johnny Morrissey 2
+1989/90,38,"Neil McNab, Johnny Morrissey, Ian Muir"
+1989/90,39,"Neil McNab, Mark Hughes, Jim Steel, Ian Muir, Chris Malkin"
+1989/90,40,"Jimmy Harvey, Jim Steel, Ian Muir"
+1989/90,41,"Chris Malkin, Ian Muir"
+1989/90,42,"Jim Steel, Ian Muir"
+1989/90,43,"Mark McCarrick, Steve Vickers, Chris Malkin 2"
+1989/90,44,"Eddie Bishop 2, Mark Hughes, Ian Muir"
+1989/90,45,"Mark McCarrick, Eddie Bishop, Ian Muir"
+1989/90,46,"Ian Muir, Tony Thomas"
+1989/90,47,"Chris Malkin, Ian Muir"
+1989/90,48,Chris Malkin
+1989/90,49,Chris Malkin 2
+1989/90,51,"Chris Malkin, Jimmy Harvey, Tony Thomas"
+1989/90,52,Ian Muir
+1989/90,53,"Jim Steel, Ian Muir"
+1989/90,54,"Steve Vickers, Jimmy Harvey, OG"
+1989/90,55,Ian Muir
+1989/90,56,"Steve Mungall, Ian Muir"
+1989/90,57,"Chris Malkin, Ian Muir"
+1989/90,58,Ian Muir
+1989/90,59,Chris Malkin
+1989/90,61,"Steve Mungall, Ian Muir"
+1989/90,63,"Chris Malkin, Ian Muir"
+1989/90,64,"Jim Steel, Ian Muir"
+1990/91,1,Ian Muir 2
+1990/91,2,Steve Vickers
+1990/91,3,Ian Muir
+1990/91,4,Jim Steel
+1990/91,5,"Johnny Morrissey 2, Jim Steel, Ian Muir"
+1990/91,6,Jimmy Harvey
+1990/91,7,"Mark Hughes, Ian Muir 2"
+1990/91,8,"Neil McNab 2, Ian Muir"
+1990/91,9,Johnny Morrissey
+1990/91,10,Neil McNab
+1990/91,11,Mark Hughes
+1990/91,13,"Mark McCarrick, Eddie Bishop 3, Jim Steel, Chris Malkin"
+1990/91,14,"Mark McCarrick, Chris Malkin"
+1990/91,18,Jim Steel
+1990/91,19,"Johnny Morrissey, Jim Steel"
+1990/91,20,"Dave Higgins, Jimmy Harvey"
+1990/91,21,"Johnny Morrissey, Jim Steel, Ian Muir 2"
+1990/91,22,Jimmy Harvey
+1990/91,23,"Steve Vickers, Kenny Irons"
+1990/91,25,Kenny Irons
+1990/91,26,Jim Steel
+1990/91,27,Dave Higgins
+1990/91,28,"Ian Muir, Tony Thomas, Johnny Morrissey"
+1990/91,29,"Jim Steel, Kenny Irons"
+1990/91,30,Ged Brannan
+1990/91,31,"Johnny Morrissey, Jim Steel 2"
+1990/91,32,"Kenny Irons, Ian Muir"
+1990/91,33,"Ian Muir, Tony Thomas"
+1990/91,35,Ian Muir 2
+1990/91,36,OG
+1990/91,37,"Jim Steel, Ian Muir 2"
+1990/91,38,Kenny Irons
+1990/91,39,Steve Mungall
+1990/91,40,Tony Thomas
+1990/91,41,"Jimmy Harvey, Ian Muir 3"
+1990/91,43,Ian Muir
+1990/91,44,"Ian Muir, Johnny Morrissey"
+1990/91,45,Shaun Garnett
+1990/91,46,"Johnny Morrissey, Chris Malkin"
+1990/91,47,Tony Thomas
+1990/91,48,"Kenny Irons, Chris Malkin"
+1990/91,50,Johnny Morrissey
+1990/91,53,Johnny Morrissey
+1990/91,54,"Johnny Morrissey, Jim Steel"
+1990/91,55,"Steve Vickers, Steve Cooper"
+1990/91,56,"Kenny Irons, OG"
+1990/91,57,Steve Cooper
+1990/91,58,Steve Cooper 2
+1990/91,59,Ged Brannan
+1990/91,60,"Jim Steel, Steve Cooper"
+1990/91,61,Chris Malkin
+1991/92,1,John Aldridge 2
+1991/92,2,"Kenny Irons, John Aldridge 3"
+1991/92,3,"John Aldridge, Jim Steel"
+1991/92,4,"John Aldridge 2, Jim Steel 2"
+1991/92,5,"John Aldridge, Tony Thomas"
+1991/92,6,"Mark Hughes, Chris Malkin"
+1991/92,7,"Steve Vickers, Chris Malkin, Tony Thomas"
+1991/92,8,"Ged Brannan, Kenny Irons"
+1991/92,10,"Dave Higgins, John Aldridge"
+1991/92,11,John Aldridge
+1991/92,13,"John Aldridge 3, Jim Steel, Dave Martindale, Neil McNab"
+1991/92,14,Jim Steel
+1991/92,15,"John Aldridge, Jim Steel, Chris Malkin"
+1991/92,17,John Aldridge
+1991/92,18,"John Aldridge 3, Jim Steel, Dave Martindale"
+1991/92,19,Jim Steel
+1991/92,20,John Aldridge
+1991/92,21,John Aldridge
+1991/92,22,"Kenny Irons, John Aldridge"
+1991/92,23,John Aldridge
+1991/92,24,"Kenny Irons, John Aldridge 2"
+1991/92,26,John Aldridge
+1991/92,28,Johnny Morrissey
+1991/92,30,Steve Cooper
+1991/92,31,"Kenny Irons, John Aldridge"
+1991/92,32,Kenny Irons
+1991/92,33,John Aldridge
+1991/92,35,Chris Malkin
+1991/92,37,Ian Muir
+1991/92,38,Johnny Morrissey
+1991/92,40,"Johnny Morrissey 2, John Aldridge, Chris Malkin"
+1991/92,41,John Aldridge
+1991/92,44,"Jimmy Harvey, John Aldridge"
+1991/92,45,"Johnny Morrissey, John Aldridge 2"
+1991/92,46,"Kenny Irons, John Aldridge 3"
+1991/92,49,Ian Muir
+1991/92,50,"Ian Nolan, Jim Steel"
+1991/92,51,"Johnny Morrissey, John Aldridge 2"
+1991/92,52,"Kenny Irons, Tony Thomas"
+1991/92,53,Ian Muir
+1991/92,55,Ian Muir
+1991/92,56,"Kenny Irons, Ian Muir"
+1991/92,57,Kenny Irons
+1991/92,58,John Aldridge
+1991/92,59,John Aldridge
+1992/93,1,"John Aldridge, Chris Malkin"
+1992/93,2,"Shaun Garnett, John Aldridge 2"
+1992/93,5,"Shaun Garnett, Ian Muir"
+1992/93,7,"John Aldridge, Pat Nevin, Ian Muir"
+1992/93,8,Pat Nevin
+1992/93,9,John Aldridge 2
+1992/93,11,"Johnny Morrissey, Pat Nevin"
+1992/93,12,"Ged Brannan, Steve Mungall, John Aldridge"
+1992/93,13,"John Aldridge 2, Pat Nevin"
+1992/93,15,"Kenny Irons, Steve Mungall, John Aldridge 2"
+1992/93,16,"Johnny Morrissey, OG"
+1992/93,17,Chris Malkin
+1992/93,18,"Johnny Morrissey, John Aldridge, Neil McNab"
+1992/93,19,Pat Nevin
+1992/93,21,"Kenny Irons, Pat Nevin 2"
+1992/93,23,Chris Malkin
+1992/93,24,John Aldridge 2
+1992/93,25,"Kenny Irons, John Aldridge 3, Chris Malkin"
+1992/93,26,Kenny Irons
+1992/93,27,"Kenny Irons, Johnny Morrissey"
+1992/93,28,John Aldridge 3
+1992/93,29,Johnny Morrissey
+1992/93,30,Steve Mungall
+1992/93,31,"John Aldridge, Pat Nevin"
+1992/93,32,"John Aldridge, Pat Nevin"
+1992/93,33,"Steve Vickers, Johnny Morrissey 2"
+1992/93,34,"Dave Higgins, John Aldridge 2, OG"
+1992/93,35,Pat Nevin
+1992/93,36,Dave Higgins
+1992/93,37,Neil McNab
+1992/93,42,"Chris Malkin 2, Pat Nevin"
+1992/93,43,Pat Nevin
+1992/93,44,"Johnny Morrissey, Chris Malkin"
+1992/93,48,"Dave Martindale, Tommy Coyne"
+1992/93,49,Pat Nevin 2
+1992/93,50,Kenny Irons 3
+1992/93,52,"Dave Higgins, Kenny Irons"
+1992/93,53,"Dave Higgins, Mark Proctor"
+1992/93,55,John Aldridge 2
+1992/93,56,"Dave Martindale, Pat Nevin"
+1992/93,57,Chris Malkin
+1992/93,58,Johnny Morrissey
+1992/93,59,"Kenny Irons, Mark Proctor, Pat Nevin"
+1993/94,2,Chris Malkin
+1993/94,3,Ged Brannan
+1993/94,6,"John Aldridge, Ian Muir, Jon Kenworthy"
+1993/94,7,Chris Malkin
+1993/94,8,"Ian Muir, Tony Thomas"
+1993/94,9,"John Aldridge, Ian Muir, Ged Brannan, Tony Thomas"
+1993/94,11,"John Aldridge 2, Pat Nevin 3"
+1993/94,12,"Ged Brannan, Pat Nevin"
+1993/94,13,"Jon Kenworthy, Ian Muir"
+1993/94,14,Kenny Irons
+1993/94,15,"Chris Malkin, Pat Nevin"
+1993/94,16,Chris Malkin
+1993/94,17,"Ged Brannan, Pat Nevin"
+1993/94,18,"Kenny Irons, Steve Vickers, John Aldridge 2"
+1993/94,20,"Ian Muir 2, Pat Nevin"
+1993/94,22,"John Aldridge, Pat Nevin 2, Johnny Morrissey"
+1993/94,23,Gary Jones
+1993/94,24,"John Aldridge 2, Chris Malkin"
+1993/94,25,"Ged Brannan 2, John Aldridge"
+1993/94,26,"John Aldridge, Pat Nevin"
+1993/94,27,John Aldridge
+1993/94,29,Kenny Irons
+1993/94,31,"Ged Brannan, Chris Malkin"
+1993/94,34,John Aldridge
+1993/94,35,Chris Malkin
+1993/94,36,Chris Malkin
+1993/94,37,"Pat Nevin, Tony Thomas"
+1993/94,39,"Ged Brannan, John Aldridge, Chris Malkin"
+1993/94,40,"Ian Nolan, Mark Hughes, John Aldridge"
+1993/94,41,John McGreal
+1993/94,42,John Aldridge
+1993/94,43,Chris Malkin
+1993/94,45,John Aldridge 2
+1993/94,47,John Aldridge
+1993/94,48,"Ged Brannan, Liam O'Brien, John Aldridge 2"
+1993/94,49,John Aldridge
+1993/94,50,"Ged Brannan, Shaun Garnett, John Aldridge, Pat Nevin"
+1993/94,51,"John Aldridge, Gary Jones"
+1993/94,53,"Shaun Garnett, Kenny Irons, Ian Muir"
+1993/94,54,"John Aldridge 2, Kenny Irons"
+1993/94,55,"Ged Brannan, John Aldridge"
+1993/94,56,"John Aldridge, Ian Muir"
+1993/94,57,Ian Muir
+1993/94,59,Pat Nevin
+1994/95,2,"John Aldridge 2, Pat Nevin"
+1994/95,3,"John Aldridge, Chris Malkin"
+1994/95,4,John Aldridge
+1994/95,5,"John Aldridge 3, Chris Malkin"
+1994/95,6,"John Aldridge, Chris Malkin"
+1994/95,9,Liam O'Brien
+1994/95,10,"John Aldridge, Chris Malkin 2"
+1994/95,11,Ged Brannan
+1994/95,12,Chris Malkin
+1994/95,14,John Aldridge
+1994/95,16,John Aldridge
+1994/95,17,John Aldridge 3
+1994/95,19,John Aldridge
+1994/95,20,Johnny Morrissey
+1994/95,21,"John Aldridge 4, Chris Malkin 2"
+1994/95,23,"Kenny Irons, Pat Nevin"
+1994/95,25,Chris Malkin
+1994/95,26,"Ian Muir 2, Ged Brannan"
+1994/95,27,"Kenny Irons, Chris Malkin"
+1994/95,29,"Gary Stevens, Steve Mungall"
+1994/95,31,"Gary Jones, Chris Malkin 2"
+1994/95,33,"Kenny Irons, Gary Jones"
+1994/95,35,Ian Muir 2
+1994/95,37,"Liam O'Brien, Ian Muir, Chris Malkin"
+1994/95,38,"Ged Brannan, Ian Muir, Chris Malkin"
+1994/95,40,"Johnny Morrissey, Chris Malkin 2"
+1994/95,41,"Ian Muir, Gary Jones"
+1994/95,42,Ian Muir
+1994/95,43,Pat Nevin
+1994/95,44,"Ian Muir 2, Pat Nevin, John Aldridge"
+1994/95,45,Shaun Garnett
+1994/95,47,"Johnny Morrissey, John Aldridge"
+1994/95,49,Chris Malkin
+1994/95,50,"John Aldridge 2, Chris Malkin, Kenny Irons"
+1994/95,51,John Aldridge
+1994/95,52,Pat Nevin
+1994/95,55,John Aldridge
+1994/95,56,John Aldridge
+1994/95,57,Kenny Irons
+1994/95,58,Chris Malkin
+1995/96,1,"Liam O'Brien, John Aldridge"
+1995/96,2,John Aldridge 2
+1995/96,3,"Liam O'Brien, John Aldridge, Ian Moore"
+1995/96,4,John Aldridge
+1995/96,6,"John Aldridge, Gary Bennett"
+1995/96,8,John Aldridge
+1995/96,9,"Gary Bennett, Pat Nevin"
+1995/96,10,"John Aldridge, Gary Bennett"
+1995/96,11,"Ged Brannan, Gary Jones 2"
+1995/96,12,John Aldridge
+1995/96,13,"Gary Bennett, Ian Moore"
+1995/96,14,"Gary Bennett, Ian Moore 2"
+1995/96,15,Ian Moore
+1995/96,16,Ian Moore
+1995/96,17,"John Aldridge 2, Gary Bennett, Ian Moore, Pat Nevin"
+1995/96,18,John Aldridge
+1995/96,19,Ian Moore
+1995/96,20,John Aldridge 2
+1995/96,22,"Gary Jones, Gary Bennett"
+1995/96,23,Ian Moore
+1995/96,26,John Aldridge 2
+1995/96,29,Ian Moore
+1995/96,30,John Aldridge
+1995/96,33,John Aldridge
+1995/96,34,Graham Branch
+1995/96,35,"John Aldridge, Gary Bennett"
+1995/96,37,"John Aldridge, Pat Nevin"
+1995/96,38,"Alan Rogers, John Aldridge"
+1995/96,39,Graham Branch
+1995/96,40,"John Aldridge, Gary Bennett"
+1995/96,41,"John Aldridge, OG"
+1995/96,43,"Alan Rogers, John Aldridge"
+1995/96,44,John Aldridge
+1995/96,45,"Paul Cook, John Aldridge"
+1995/96,46,OG
+1995/96,47,"John Aldridge, Liam O'Brien, Kenny Irons 2, Alan Morgan"
+1995/96,48,Liam O'Brien
+1995/96,49,John Aldridge
+1995/96,51,"John Aldridge, Kenny Irons"
