@@ -1,0 +1,89 @@
+position,ssn_join,ssn_lve,lge_apps,lge_sub,lge_gls,fac_apps,fac_sub,fac_gls,lc_apps,lc_sub,lc_gls,other_apps,other_sub,other_gls,total_apps,total_subs,total_gls,prev_club,next_club
+CH,60,61,14,0,0,0,0,0,1,0,0,0,0,0,15,0,0,Halifax Town,""
+OR,64,65,33,2,6,1,0,0,2,0,0,0,0,0,36,2,6,Carlisle United,""
+CF,72,73,61,0,22,2,1,0,5,0,3,0,0,0,68,1,25,Chester Highlands Park,""
+F,79,80,43,3,21,6,0,3,8,0,1,0,0,0,57,3,25,Carlisle United,Mansfield Town
+OR,33,33,7,0,1,0,0,0,0,0,0,0,0,0,7,0,1,Sheffield Wednesday,""
+CF,36,36,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Denbigh,""
+OL,71,71,2,5,1,0,0,0,1,0,0,0,0,0,3,5,1,Plymouth Argyle,""
+OR,36,36,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,South Liverpool,""
+MF,95,96,14,13,2,0,0,0,0,2,0,0,0,0,14,15,2,YTS,""
+CH,34,36,7,0,0,0,0,0,0,0,0,0,0,0,7,0,0,New Brighton,""
+HB,47,47,22,0,0,2,0,0,0,0,0,0,0,0,24,0,0,Accrington Stanley,""
+S,87,94,191,51,62,9,4,2,20,5,6,19,5,5,239,65,75,Stork,Millwall
+CF,62,66,130,0,70,4,0,2,8,0,4,0,0,0,142,0,76,Liverpool (amateur),Shrewsbury Town
+CF,71,71,5,0,1,0,0,0,0,0,0,0,0,0,5,0,1,Walsall,Crewe Alexandra
+CF,25,26,70,0,32,4,0,1,0,0,0,0,0,0,74,0,33,Preston North End,Lancaster Town
+LB,65,67,99,4,0,7,0,0,3,0,0,0,0,0,109,4,0,Oldham Athletic,""
+MF,87,93,130,38,9,8,3,1,15,4,0,12,2,2,165,47,12,Caemarfon Town,Doncaster Rovers
+FB,67,84,557,10,6,29,1,0,40,0,0,0,0,0,626,11,6,Local,Wigan Athletic
+CH,25,26,84,0,3,4,0,0,0,0,0,0,0,0,88,0,3,Bolton Wanderers,Sheffield United
+OL,37,37,9,0,2,0,0,0,0,0,0,0,0,0,9,0,2,Hull City,Runcorn
+RH,33,34,57,0,3,5,0,1,0,0,0,0,0,0,62,0,4,Torquay United,Lincoln City
+CH,21,21,16,0,1,2,0,0,0,0,0,0,0,0,18,0,1,Nottingham Forest,""
+OR,29,31,107,0,29,8,0,2,0,0,0,0,0,0,115,0,31,Everton,Newport (Isle of Wight)
+IR,35,36,27,0,1,1,0,0,0,0,0,0,0,0,28,0,1,Barrow,Shrewsbury Town
+MF,85,85,25,4,1,4,0,0,1,0,0,2,0,1,32,4,2,Burnley,Colne Dynamoes
+IR,38,38,11,0,1,1,0,0,0,0,0,0,0,0,12,0,1,Burnley,Falkirk
+CH,50,60,357,0,3,21,0,0,3,0,0,0,0,0,381,0,3,Neston,Ellesmere Port Town
+F,62,62,18,0,3,0,0,0,1,0,1,0,0,0,19,0,4,Accrington Stanley,Sankeys
+CH,21,21,16,0,2,0,0,0,0,0,0,0,0,0,16,0,2,Pontypridd,Rochdale
+F,73,75,77,6,10,1,0,0,3,0,0,0,0,0,81,6,10,Aberdeen,Preston North End
+G,23,24,55,0,0,8,0,0,0,0,0,0,0,0,63,0,0,Liverpool,Blue Circle
+FB,56,56,11,0,3,0,0,0,0,0,0,0,0,0,11,0,3,Everton,Runcorn
+CH,70,72,71,1,0,7,0,0,4,0,0,0,0,0,82,1,0,Plymouth Argyle,Southport
+D,82,82,21,1,0,3,0,0,2,1,0,0,0,0,26,2,0,Telford United,Bangor City
+WH,68,71,107,1,1,7,0,0,9,0,0,0,0,0,123,1,1,Skelmersdale United,""
+LB,57,57,36,0,0,3,0,0,0,0,0,0,0,0,39,0,0,Chesterfield,""
+S,94,96,41,17,12,1,1,0,3,2,1,0,1,0,45,21,13,YTS,Nottingham Forest
+CF,70,72,83,10,21,12,0,4,5,1,1,0,0,0,100,11,26,Sunderland,Hartlepool
+CH,30,30,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,Merthyr Town,Shamrock Rovers
+CF,71,78,248,1,72,13,0,3,18,0,4,0,0,0,279,1,79,Local,Cardiff City
+CF,86,88,75,0,6,8,0,0,5,0,0,4,0,1,92,0,7,Rochdale,""
+OL,21,21,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Leeds United,""
+OR,21,26,148,0,12,11,0,0,0,0,0,0,0,0,159,0,12,Cammell Laird,""
+MF,95,96,0,5,1,0,0,0,0,0,0,0,0,0,0,5,1,YTS,""
+D,81,81,10,6,2,1,0,0,2,0,0,0,0,0,13,6,2,Blackburn Rovers,Northwich Victoria
+OR,85,96,373,45,50,27,0,5,33,2,1,30,3,5,463,50,61,Wolves,""
+CH,80,81,26,0,1,1,0,0,2,0,0,0,0,0,29,0,1,Local,Everton
+S,85,94,286,33,142,17,1,14,22,3,6,26,5,18,351,42,180,Brighton & Hove Albion,Birmingham City
+IF,59,60,38,0,8,1,0,0,2,0,0,0,0,0,41,0,8,Accrington Stanley,Northwich Victoria
+FB,79,95,484,34,14,30,1,0,32,3,2,38,2,1,584,40,17,Motherwell,""
+OL,30,30,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Oldham Athletic,Ellesmere Port Town
+OR,87,88,11,15,1,2,0,0,2,0,0,0,0,0,15,15,1,Stork,Marine
+OR,60,61,10,0,1,1,0,0,0,0,0,0,0,0,11,0,1,Leeds United,""
+IF,52,53,45,0,2,5,0,0,0,0,0,0,0,0,50,0,2,Brentford,Bradford City
+FB,49,51,89,0,0,4,0,0,0,0,0,0,0,0,93,0,0,Liverpool,""
+IR,34,35,81,0,19,7,0,1,0,0,0,0,0,0,88,0,20,Manchester United,Coventry City
+W,67,69,67,5,12,8,1,2,5,0,0,0,0,0,80,6,14,Raith Rovers,""
+OL,73,73,13,0,1,0,0,0,2,0,0,0,0,0,15,0,1,Liverpool (loan),""
+OL,78,78,41,2,0,3,0,1,2,0,1,0,0,0,46,2,2,Charlton Athletic,Carlisle United
+OR,48,49,12,0,1,1,0,0,0,0,0,0,0,0,13,0,1,Cardiff City,Chelmsford
+F,74,74,4,1,0,0,0,0,0,0,0,0,0,0,4,1,0,Bolton Wanderers (loan),""
+LB,87,90,125,0,14,8,0,0,13,1,1,10,0,1,156,1,16,Runcorn,Altrincham
+OR,51,59,237,0,40,12,0,0,0,0,0,0,0,0,249,0,40,Unity BC,""
+IF,57,60,68,0,26,2,0,0,0,0,0,0,0,0,70,0,26,Local,Stockport County
+IF,63,64,45,0,25,1,0,0,2,0,1,0,0,0,48,0,26,Stockport County,Southport
+CH,66,67,35,0,0,3,0,0,3,0,0,0,0,0,41,0,0,Local,Derby County
+LH,25,25,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,Everton,Norwich City
+CD,91,96,119,2,1,4,0,0,10,1,0,3,2,0,136,5,1,YTS,""
+CH,60,61,35,0,0,1,0,0,0,0,0,0,0,0,36,0,0,Leeds United,Cambridge City
+D,82,82,0,4,0,0,0,0,0,1,0,0,0,0,0,5,0,Local,""
+CF,49,49,12,0,1,0,0,0,0,0,0,0,0,0,12,0,1,"",""
+CF,82,82,2,2,0,0,0,0,0,1,0,0,0,0,2,3,0,Poulton Victoria,Telford United
+CF,87,88,13,3,3,0,0,0,1,3,0,0,1,0,14,7,3,Telford United,Altrincham
+RH,35,36,43,0,4,5,0,0,0,0,0,0,0,0,48,0,4,Bradford City,Rochdale
+IF,48,48,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,New Brighton,Morecambe
+FB,83,83,39,1,0,0,0,0,2,0,0,3,0,0,44,1,0,Wigan Athletic,""
+G,86,86,3,0,0,0,0,0,2,0,0,0,0,0,5,0,0,Bradford City,Boston United
+F,84,84,2,0,0,1,1,1,0,0,0,0,1,0,3,2,1,Local,""
+OR,32,32,24,0,4,5,0,0,0,0,0,0,0,0,29,0,4,Millwall,Glenavon
+MF,89,92,97,11,6,6,1,0,3,2,0,19,0,2,125,14,8,Manchester City,Ayr United
+OR,54,54,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Local,""
+D,85,85,7,0,0,0,0,0,1,0,0,0,0,0,8,0,0,St Johnstone,Montrose
+FB,24,30,81,0,2,4,0,0,0,0,0,0,0,0,85,0,2,Prescot Cables,Prescot Cables
+WH,60,62,79,0,2,8,0,0,3,0,0,0,0,0,90,0,2,Bury,Wigan Athletic
+W,91,91,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,Everton (loan),""
+W,92,96,187,12,32,8,0,2,16,0,5,8,0,0,219,12,39,Everton,Kilmarnock
+CH,34,35,59,0,0,4,0,0,0,0,0,0,0,0,63,0,0,Manchester United,""
+RB,46,46,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Local,""
