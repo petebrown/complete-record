@@ -46,8 +46,8 @@ season,game_no,scorers
 1961/62,1,Alan Arnell
 1961/62,2,Les Campbell
 1961/62,3,Tommy Neill
-1961/62,4,"NA, Alan Arnell, Les Campbell"
-1961/62,5,"Ken Finney, Peter Jackson, Ralph Gubbins"
+1961/62,4,"Peter Jackson, Alan Arnell, Les Campbell"
+1961/62,5,"Ken Finney, David Jackson, Ralph Gubbins"
 1961/62,6,Ken Finney
 1961/62,7,Alan Arnell 3
 1961/62,8,"Ralph Gubbins, Alan Arnell 2"
@@ -110,9 +110,9 @@ season,game_no,scorers
 1962/63,36,"Johnny King, Barry Dyson, Dave Hickson"
 1962/63,37,"Barry Dyson, Dave Hickson"
 1962/63,40,"Dave Hickson, OG"
-1962/63,42,"Barry Dyson, Peter Jackson 3, Ronnie Roberts"
+1962/63,42,"Barry Dyson, David Jackson 3, Ronnie Roberts"
 1962/63,43,Barry Dyson
-1962/63,44,"Ralph Gubbins, Peter Jackson"
+1962/63,44,"Ralph Gubbins, David Jackson"
 1962/63,46,Barry Dyson
 1962/63,48,John Manning 2
 1962/63,49,"John Manning, Joe Pritchard 2"
@@ -126,7 +126,7 @@ season,game_no,scorers
 1963/64,9,Barry Dyson
 1963/64,10,"Bobby Conroy, Barry Dyson"
 1963/64,12,"Les Campbell, OG"
-1963/64,14,"NA, John Manning"
+1963/64,14,"Peter Jackson, John Manning"
 1963/64,15,Bernard Evans
 1963/64,16,Barry Dyson
 1963/64,17,Bernard Evans
@@ -145,7 +145,7 @@ season,game_no,scorers
 1963/64,32,"Les Jones, John Manning, Barry Dyson"
 1963/64,33,"John Manning, Barry Dyson 2"
 1963/64,34,John Manning
-1963/64,35,"NA, Les Jones, Barry Dyson"
+1963/64,35,"Peter Jackson, Les Jones, Barry Dyson"
 1963/64,36,"Malcolm Edwards, John Manning"
 1963/64,37,"Les Jones, Barry Dyson"
 1963/64,38,"Les Jones, Barry Dyson"
@@ -236,46 +236,46 @@ season,game_no,scorers
 1965/66,46,"Mandy Hill, Barry Dyson, Frank Twist"
 1965/66,47,"John Manning, Barry Dyson 3, Joe Pritchard"
 1965/66,48,"John Manning, OG"
-1966/67,1,"Barry Ashworth, John Manning 2, Barry Dyson, Roy Sinclair"
-1966/67,3,Graham Williams
-1966/67,4,"John Manning, Barry Dyson 2"
-1966/67,5,"Mandy Hill, John Manning"
-1966/67,6,Joe Pritchard
-1966/67,7,John Manning
-1966/67,9,Graham Williams
-1966/67,10,Roy Sinclair 2
-1966/67,11,"Barry Ashworth, Joe Pritchard"
-1966/67,12,Joe Pritchard
-1966/67,13,"Barry Ashworth, Alan King, John Manning 2, Brian Westlake"
-1966/67,14,"Joe Pritchard, Graham Williams"
-1966/67,16,"Joe Pritchard, Brian Westlake"
-1966/67,18,Brian Westlake
-1966/67,19,Mandy Hill
-1966/67,21,Roy Parnell
-1966/67,22,Graham Williams
-1966/67,24,Joe Pritchard
-1966/67,25,George Yardley
-1966/67,27,"George Yardley 2, Alan King"
-1966/67,28,George Yardley
-1966/67,29,"Barry Ashworth, Graham Williams"
-1966/67,30,Graham Williams
-1966/67,31,"George Yardley, George Hudson, Graham Williams, OG"
-1966/67,33,"George Yardley, Joe Pritchard"
-1966/67,34,George Yardley 2
-1966/67,35,"Teddie Robertson, George Yardley"
-1966/67,36,"George Yardley, George Hudson"
-1966/67,38,George Yardley
-1966/67,39,Joe Pritchard
-1966/67,40,"Johnny King, George Yardley"
-1966/67,42,Dennis Stevens
-1966/67,43,Stan Storton
-1966/67,44,"George Hudson, Roy Sinclair"
-1966/67,45,"George Yardley 2, George Hudson"
-1966/67,46,Joe Pritchard
-1966/67,47,"Alan King, George Yardley, Graham Williams"
-1966/67,48,Graham Williams
-1966/67,50,"Dennis Stevens, George Hudson, Graham Williams"
-1966/67,51,"George Hudson, George Yardley, Joe Pritchard"
+1966/67,2,"Barry Ashworth, John Manning 2, Barry Dyson, Roy Sinclair"
+1966/67,4,Graham Williams
+1966/67,5,"John Manning, Barry Dyson 2"
+1966/67,6,"Mandy Hill, John Manning"
+1966/67,7,Joe Pritchard
+1966/67,8,John Manning
+1966/67,10,Graham Williams
+1966/67,11,Roy Sinclair 2
+1966/67,12,"Barry Ashworth, Joe Pritchard"
+1966/67,13,Joe Pritchard
+1966/67,14,"Barry Ashworth, Alan King, John Manning 2, Brian Westlake"
+1966/67,15,"Joe Pritchard, Graham Williams"
+1966/67,17,"Joe Pritchard, Brian Westlake"
+1966/67,19,Brian Westlake
+1966/67,20,Mandy Hill
+1966/67,22,Roy Parnell
+1966/67,23,Graham Williams
+1966/67,25,Joe Pritchard
+1966/67,26,George Yardley
+1966/67,28,"George Yardley 2, Alan King"
+1966/67,29,George Yardley
+1966/67,30,"Barry Ashworth, Graham Williams"
+1966/67,31,Graham Williams
+1966/67,32,"George Yardley, George Hudson, Graham Williams, OG"
+1966/67,34,"George Yardley, Joe Pritchard"
+1966/67,35,George Yardley 2
+1966/67,36,"Teddie Robertson, George Yardley"
+1966/67,37,"George Yardley, George Hudson"
+1966/67,39,George Yardley
+1966/67,40,Joe Pritchard
+1966/67,41,"Johnny King, George Yardley"
+1966/67,43,Dennis Stevens
+1966/67,44,Stan Storton
+1966/67,45,"George Hudson, Roy Sinclair"
+1966/67,46,"George Yardley 2, George Hudson"
+1966/67,47,Joe Pritchard
+1966/67,48,"Alan King, George Yardley, Graham Williams"
+1966/67,49,Graham Williams
+1966/67,51,"Dennis Stevens, George Hudson, Graham Williams"
+1966/67,52,"George Hudson, George Yardley, Joe Pritchard"
 1967/68,2,"Joe Pritchard, George Yardley"
 1967/68,3,George Yardley
 1967/68,4,George Yardley
@@ -467,7 +467,7 @@ season,game_no,scorers
 1972/73,13,Paul Crossley
 1972/73,15,Alan Duffy
 1972/73,17,Eddie Loyden
-1972/73,18,"Malcolm Moore, NA, Eddie Loyden 2"
+1972/73,18,"Malcolm Moore, Ian St John, Eddie Loyden 2"
 1972/73,19,Malcolm Moore
 1972/73,20,OG
 1972/73,21,"Eddie Flood, Malcolm Moore"
@@ -478,7 +478,7 @@ season,game_no,scorers
 1972/73,27,Eddie Loyden
 1972/73,28,"Eddie Loyden, Tommy Young 2, Paul Crossley 2"
 1972/73,29,"Malcolm Moore, Alan Duffy, Paul Crossley"
-1972/73,32,"Bobby Graham 2, NA, Eddie Loyden, Tommy Young, OG"
+1972/73,32,"Bobby Graham 2, Frank D'Arcy, Eddie Loyden, Tommy Young, OG"
 1972/73,34,Eddie Loyden
 1972/73,35,Eddie Loyden
 1972/73,36,"Eddie Loyden, Tommy Young"
@@ -490,6 +490,245 @@ season,game_no,scorers
 1972/73,44,"Tommy Young, Paul Crossley"
 1972/73,46,Eddie Loyden
 1972/73,49,Eddie Loyden
+1973/74,2,"Bobby Tynan 2, Paul Crossley"
+1973/74,3,"Mark Palios, Hughie McAuley"
+1973/74,4,Eddie Loyden
+1973/74,5,Eddie Loyden
+1973/74,6,Mark Palios
+1973/74,8,"Eddie Loyden, Tommy Young"
+1973/74,9,Tommy Young
+1973/74,11,Eddie Loyden
+1973/74,14,Tommy Young
+1973/74,15,Mark Palios
+1973/74,16,"Ronnie Moore, Russell Allen 2"
+1973/74,18,Eddie Loyden
+1973/74,19,"Ray Mathias, Paul Crossley, Tommy Young"
+1973/74,21,Russell Allen
+1973/74,22,"Bobby Tynan, Tommy Young"
+1973/74,23,"Ronnie Moore, Bobby Tynan"
+1973/74,24,Tommy Young
+1973/74,25,"Ronnie Moore, Paul Crossley, Bobby Tynan, Tommy Young"
+1973/74,27,Russell Allen
+1973/74,29,Paul Crossley
+1973/74,34,"Steve Peplow, Eddie Loyden"
+1973/74,36,Tommy Young
+1973/74,38,"Bobby Tynan, Paul Crossley"
+1973/74,42,Paul Crossley
+1973/74,44,Barrie Mitchell
+1973/74,45,"Ron Yeats, Barrie Mitchell, Paul Crossley"
+1973/74,46,"Mark Palios, OG"
+1973/74,47,Ron Yeats
+1973/74,49,"Russell Allen, Barrie Mitchell, Mark Palios"
+1973/74,51,"Tommy Veitch, Bobby Tynan, Paul Crossley"
+1973/74,52,"Mark Palios 2, Barrie Mitchell, Paul Crossley 2"
+1973/74,53,"Steve Peplow, Bobby Tynan"
+1974/75,2,"Paul Crossley, Tommy Young"
+1974/75,3,Paul Crossley
+1974/75,4,"Steve Coppell, Russell Allen"
+1974/75,6,Russell Allen
+1974/75,8,OG
+1974/75,12,Tommy Young
+1974/75,13,"Tommy Veitch, Steve Coppell, Steve Peplow"
+1974/75,14,"Steve Coppell, Bobby Tynan, Steve Peplow"
+1974/75,16,Tommy Young
+1974/75,17,"Steve Coppell, Tommy Young, Russell Allen"
+1974/75,19,Steve Peplow
+1974/75,20,"Steve Coppell, Bobby Tynan"
+1974/75,21,"Eddie Flood, Steve Coppell, Paul Crossley"
+1974/75,22,"Steve Coppell, Bobby Tynan"
+1974/75,23,"Eddie Flood, Steve Coppell, Bobby Tynan, Tommy Veitch, Paul Crossley 2"
+1974/75,24,Bobby Tynan
+1974/75,25,OG
+1974/75,26,Paul Crossley
+1974/75,29,"Bobby Tynan, Tommy Veitch"
+1974/75,31,"Steve Coppell, Paul Crossley"
+1974/75,33,"Mark Palios, Steve Coppell, Tommy Young"
+1974/75,34,"Steve Coppell, Russell Allen, OG"
+1974/75,35,Russell Allen
+1974/75,36,Paul Crossley
+1974/75,39,Mark Palios
+1974/75,40,Paul Crossley
+1974/75,42,Paul Crossley
+1974/75,43,"Ray Mathias, Barrie Mitchell 2"
+1974/75,44,Russell Allen
+1974/75,47,Ronnie Moore
+1974/75,50,Paul Crossley 2
+1974/75,52,"Russell Allen, Bobby Tynan"
+1974/75,53,"Ronnie Moore, Russell Allen"
+1975/76,1,Ronnie Moore
+1975/76,2,Ronnie Moore
+1975/76,3,"Ray Mathias, OG"
+1975/76,4,Ronnie Moore 2
+1975/76,5,"Ronnie Moore, Russell Allen"
+1975/76,6,Russell Allen
+1975/76,7,"Ronnie Moore, Bobby Tynan"
+1975/76,9,Bobby Tynan
+1975/76,10,"Steve Peplow, Bobby Tynan"
+1975/76,11,"Steve Peplow, Ronnie Moore"
+1975/76,12,"Tommy Young, Barrie Mitchell 2, Ronnie Moore 2, John James 2"
+1975/76,13,"Ronnie Moore, John James"
+1975/76,14,"John James, Billy Kenny"
+1975/76,15,John James
+1975/76,16,"Tommy Young, Steve Peplow 3, Ronnie Moore, John James"
+1975/76,17,John James
+1975/76,18,"Steve Peplow, John James"
+1975/76,19,"Ronnie Moore 4, John James"
+1975/76,22,"Steve Peplow, Ronnie Moore 2"
+1975/76,23,"Steve Peplow, John James 2"
+1975/76,25,"Steve Peplow, Barrie Mitchell"
+1975/76,27,"Steve Peplow, Ronnie Moore 4"
+1975/76,28,"Mark Palios, Ronnie Moore 4"
+1975/76,29,Ronnie Moore
+1975/76,32,"Ronnie Moore, John James"
+1975/76,33,John James
+1975/76,34,"Barrie Mitchell, John James"
+1975/76,35,"Ray Mathias, Dave Philpotts"
+1975/76,36,Mark Palios
+1975/76,38,Ronnie Moore
+1975/76,39,John James
+1975/76,40,"Ronnie Moore, John James"
+1975/76,41,"Ronnie Moore, John James"
+1975/76,42,"Dave Philpotts, Mark Palios, Ronnie Moore"
+1975/76,44,"Mark Palios, Bobby Tynan, Russell Allen"
+1975/76,45,Bobby Tynan
+1975/76,47,"Steve Peplow, Ronnie Moore, John James"
+1975/76,48,Ronnie Moore 3
+1975/76,49,"Dave Philpotts, Ronnie Moore"
+1975/76,50,"Dave Philpotts, Ronnie Moore, John James"
+1976/77,1,John James
+1976/77,2,"Ronnie Moore, John James 2"
+1976/77,4,Ronnie Moore
+1976/77,6,Bobby Tynan
+1976/77,8,"Billy Kenny, Russell Allen"
+1976/77,9,Bobby Tynan
+1976/77,10,Russell Allen
+1976/77,11,Steve Peplow
+1976/77,13,"Bobby Tynan, Russell Allen"
+1976/77,14,"Billy Kenny, Ronnie Moore"
+1976/77,15,Billy Kenny
+1976/77,16,Russell Allen
+1976/77,19,Tommy Young 2
+1976/77,21,"Tommy Young, Russell Allen"
+1976/77,22,Russell Allen
+1976/77,23,"Tommy Young, OG"
+1976/77,24,"Mark Palios, Russell Allen"
+1976/77,26,"Mark Palios, Eddie Cliff, Ronnie Moore, Russell Allen"
+1976/77,28,Russell Allen
+1976/77,29,"Steve Peplow 2, Ronnie Moore, Russell Allen"
+1976/77,33,Billy Kenny
+1976/77,35,John James
+1976/77,37,"Mark Palios, Ronnie Moore, John James, Russell Allen"
+1976/77,39,Ronnie Moore
+1976/77,41,"Ronnie Moore, Russell Allen"
+1976/77,43,"Les Parry, John James"
+1976/77,44,Russell Allen
+1976/77,45,"Eddie Cliff, Ronnie Moore, Russell Allen"
+1976/77,46,"Eddie Flood, Russell Allen"
+1976/77,48,"Ronnie Moore, John James"
+1976/77,49,Russell Allen
+1977/78,2,"Bobby Tynan, Russell Allen"
+1977/78,3,"Mark Palios, Russell Allen 2"
+1977/78,4,Russell Allen
+1977/78,5,Ronnie Moore
+1977/78,7,"Clive Evans, Steve Peplow, Ronnie Moore"
+1977/78,9,Russell Allen
+1977/78,11,"Mark Palios 3, Ronnie Moore, Russell Allen"
+1977/78,12,"Steve Peplow, Ronnie Moore"
+1977/78,14,Ronnie Moore
+1977/78,15,"Dave Philpotts, Bobby Tynan"
+1977/78,16,Ronnie Moore
+1977/78,18,"Eddie Flood, Mark Palios, Ronnie Moore, Russell Allen, John James"
+1977/78,19,"Mark Palios, Russell Allen"
+1977/78,20,Ronnie Moore
+1977/78,21,Russell Allen
+1977/78,22,John James
+1977/78,24,Mark Palios
+1977/78,25,"Steve Peplow 2, Ronnie Moore 2"
+1977/78,26,Bobby Tynan 3
+1977/78,27,Ronnie Moore
+1977/78,28,"Steve Peplow, Russell Allen"
+1977/78,30,Ronnie Moore
+1977/78,31,"Ronnie Moore, Bobby Tynan"
+1977/78,33,"Mark Palios, Ronnie Moore"
+1977/78,37,Bobby Tynan
+1977/78,38,Russell Allen
+1977/78,41,"Clive Evans, Steve Peplow, Ronnie Moore"
+1977/78,43,Russell Allen
+1977/78,45,Bobby Tynan
+1977/78,46,Steve Peplow
+1977/78,47,"Ronnie Moore, Russell Allen"
+1977/78,49,"Eddie Cliff, Russell Allen"
+1977/78,50,Ronnie Moore
+1978/79,1,Hughie McAuley
+1978/79,2,Tommy O'Neil
+1978/79,3,Steve Peplow
+1978/79,4,Steve Peplow
+1978/79,5,Eddie Cliff
+1978/79,7,Steve Peplow
+1978/79,8,"Clive Evans, Ronnie Moore 2"
+1978/79,10,"Ronnie Moore, Clive Evans"
+1978/79,13,"Tommy O'Neil, John Bramhall, Ronnie Moore 3, Steve Peplow"
+1978/79,14,"Clive Evans, John Bramhall"
+1978/79,16,Ronnie Moore
+1978/79,18,Tommy O'Neil
+1978/79,20,Steve Peplow
+1978/79,21,"Ronnie Moore, Hughie McAuley"
+1978/79,23,Ronnie Moore
+1978/79,25,"Steve Craven, Steve Peplow"
+1978/79,27,"Clive Evans, Steve Peplow"
+1978/79,28,"Les Parry, Ronnie Moore"
+1978/79,29,Clive Evans
+1978/79,30,John Kerr
+1978/79,31,John Kerr
+1978/79,32,Dennis Postlewhite
+1978/79,36,"Clive Evans, OG"
+1978/79,37,"John Kerr, Mark Palios"
+1978/79,38,John Kerr
+1978/79,40,Clive Evans
+1978/79,41,Clive Evans
+1978/79,44,Steve Craven
+1978/79,45,Clive Evans
+1978/79,46,"Clive Evans, John Kerr"
+1978/79,47,John Thomas
+1978/79,49,John Kerr
+1978/79,50,John Thomas
+1978/79,51,Steve Peplow
+1979/80,1,"Steve Peplow, Jim Lumby"
+1979/80,2,Steve Peplow
+1979/80,3,"Steve Craven, John Kerr"
+1979/80,4,"Elfyn Edwards, Jim Lumby"
+1979/80,9,"Steve Craven, Jim Lumby"
+1979/80,10,"Tommy O'Neil, Steve Craven, John Kerr, Steve Peplow"
+1979/80,11,John Kerr
+1979/80,14,John Kerr
+1979/80,15,Steve Craven
+1979/80,16,"Tommy O'Neil 2, Steve Peplow"
+1979/80,18,Clive Evans
+1979/80,19,Tommy O'Neil
+1979/80,20,Tommy O'Neil
+1979/80,22,Kenny Beamish
+1979/80,23,Kenny Beamish
+1979/80,24,"Clive Evans 2, Tommy O'Neil 2, Jim Lumby 3, Kenny Beamish, OG"
+1979/80,25,"Clive Evans, Jim Lumby"
+1979/80,26,Kenny Beamish
+1979/80,27,"Clive Evans, Steve Peplow"
+1979/80,28,Kenny Beamish
+1979/80,29,OG
+1979/80,31,"Kenny Beamish 3, Steve Peplow"
+1979/80,32,Steve Peplow
+1979/80,33,"Steve Craven, Kenny Beamish"
+1979/80,34,"Clive Evans 2, John Kelly 2, Kenny Beamish"
+1979/80,35,Steve Peplow
+1979/80,36,John Bramhall
+1979/80,37,Tommy O'Neil
+1979/80,39,Tommy O'Neil
+1979/80,41,"John Kelly, Kenny Beamish"
+1979/80,42,Clive Evans
+1979/80,43,John Kerr
+1979/80,47,"Eddie Flood, John Kelly"
+1979/80,49,Tommy O'Neil
+1979/80,50,John Kerr
+1979/80,51,Steve Peplow
 1980/81,1,"Elfyn Edwards, John Kelly, Steve Craven"
 1980/81,3,Jim Lumby
 1980/81,6,Clive Evans
