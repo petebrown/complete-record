@@ -232,7 +232,7 @@ Campbell,Johnny,Johnny Campbell,1926,1926/27,Campbell
 Campbell,Johnny,Johnny Campbell,1927,1927/28,Campbell
 Campbell,Johnny,Johnny Campbell,1928,1928/29,Campbell
 Campbell,Johnny,Johnny Campbell,1929,1929/30,Campbell
-Campbell,Les,Les Campbell,1961,1961/62,Campbell
+Campbell,Les,Les Campbell,1961,1961/62,Campbell L
 Campbell,Les,Les Campbell,1962,1962/63,Campbell
 Campbell,Les,Les Campbell,1963,1963/64,Campbell
 Campbell,Tommy,Tommy Campbell,1961,1961/62,Campbell
@@ -344,7 +344,7 @@ Curnow,Jack,Jack Curnow,1938,1938/39,Curnow
 Curran,Frank,Frank Curran,1947,1947/48,Curran
 Curtis,Charlie,Charlie Curtis,1934,1934/35,Curtis
 Curtis,Charlie,Charlie Curtis,1935,1935/36,Curtis
-D'arcy,Frank,Frank D'arcy,1972,1972/73,D'arcy
+D'Arcy,Frank,Frank D'Arcy,1972,1972/73,D'Arcy
 Dale,Dickie,Dickie Dale,1931,1931/32,Dale
 Dalton,Tim,Tim Dalton,1986,1986/87,Dalton
 Davies,Dai,Dai Davies,1983,1983/84,Davies
@@ -718,10 +718,10 @@ Jackson,George,George Jackson,1927,1927/28,Jackson
 Jackson,George,George Jackson,1928,1928/29,Jackson
 Jackson,George,George Jackson,1929,1929/30,Jackson
 Jackson,Jimmy,Jimmy Jackson,1924,1924/25,Jackson
-Jackson,Peter,Peter Jackson,1961,1961/62,Jackson
-Jackson,Peter,Peter Jackson,1962,1962/63,Jackson
-Jackson,Peter,Peter Jackson,1963,1963/64,Jackson
-Jackson,Peter,Peter Jackson,1964,1964/65,Jackson
+Jackson,Peter,Peter Jackson,1961,1961/62,Jackson D
+Jackson,Peter,Peter Jackson,1962,1962/63,Jackson D
+Jackson,Peter,Peter Jackson,1963,1963/64,Jackson D
+Jackson,Peter,Peter Jackson,1964,1964/65,Jackson P
 Jackson,Wiliam,Wiliam Jackson,1951,1951/52,Jackson
 Jackson,Wiliam,Wiliam Jackson,1952,1952/53,Jackson
 Jackson,Wiliam,Wiliam Jackson,1953,1953/54,Jackson
@@ -829,14 +829,14 @@ King,Alan,Alan King,1969,1969/70,King A
 King,Alan,Alan King,1970,1970/71,King A
 King,Alan,Alan King,1971,1971/72,King A
 King,Herbert,Herbert King,1937,1937/38,King
-King,Johnny,Johnny King,1960,1960/61,King
-King,Johnny,Johnny King,1961,1961/62,King
-King,Johnny,Johnny King,1962,1962/63,King
-King,Johnny,Johnny King,1963,1963/64,King
-King,Johnny,Johnny King,1964,1964/65,King
-King,Johnny,Johnny King,1965,1965/66,King
-King,Johnny,Johnny King,1966,1966/67,King
-King,Johnny,Johnny King,1967,1967/68,King
+King,Johnny,Johnny King,1960,1960/61,King J
+King,Johnny,Johnny King,1961,1961/62,King J
+King,Johnny,Johnny King,1962,1962/63,King J
+King,Johnny,Johnny King,1963,1963/64,King J
+King,Johnny,Johnny King,1964,1964/65,King J
+King,Johnny,Johnny King,1965,1965/66,King J
+King,Johnny,Johnny King,1966,1966/67,King J
+King,Johnny,Johnny King,1967,1967/68,King J
 Kinsella,Pat,Pat Kinsella,1966,1966/67,Kinsella
 Kitching,Harry,Harry Kitching,1931,1931/32,Kitching
 Knapp,Tony,Tony Knapp,1969,1969/70,Knapp
@@ -1084,9 +1084,9 @@ Moore,Eric,Eric Moore,1957,1957/58,Moore
 Moore,Ian,Ian Moore,1994,1994/95,Moore
 Moore,Ian,Ian Moore,1995,1995/96,Moore
 Moore,Ian,Ian Moore,1996,1996/97,Moore
-Moore,Malcolm,Malcolm Moore,1970,1970/71,Moore
-Moore,Malcolm,Malcolm Moore,1971,1971/72,Moore
-Moore,Malcolm,Malcolm Moore,1972,1972/73,Moore
+Moore,Malcolm,Malcolm Moore,1970,1970/71,Moore M
+Moore,Malcolm,Malcolm Moore,1971,1971/72,Moore M
+Moore,Malcolm,Malcolm Moore,1972,1972/73,Moore M
 Moore,Patrick,Patrick Moore,1930,1930/31,Moore
 Moore,Ronnie,Ronnie Moore,1971,1971/72,Moore
 Moore,Ronnie,Ronnie Moore,1972,1972/73,Moore
@@ -1433,7 +1433,7 @@ Spencer,Reg,Reg Spencer,1938,1938/39,Spencer
 Spencer,Teddy,Teddy Spencer,1932,1932/33,Spencer
 Spencer,Teddy,Teddy Spencer,1933,1933/34,Spencer
 Spink,Tony,Tony Spink,1956,1956/57,Spink
-StJohn,Ian,Ian StJohn,1972,1972/73,StJohn
+St John,Ian,Ian St John,1972,1972/73,St John
 Stanley,Graham,Graham Stanley,1965,1965/66,Stanley
 Steel,Jim,Jim Steel,1987,1987/88,Steel
 Steel,Jim,Jim Steel,1988,1988/89,Steel
@@ -1461,15 +1461,15 @@ Stevens,Gary,Gary Stevens,1994,1994/95,Stevens
 Stevens,Gary,Gary Stevens,1995,1995/96,Stevens
 Stevens,Gary,Gary Stevens,1996,1996/97,Stevens
 Stevenson,Willie,Willie Stevenson,1973,1973/74,Stevenson
-Storton,Stan,Stan Storton,1966,1966/67,Storton
-Storton,Stan,Stan Storton,1967,1967/68,Storton
-Storton,Stan,Stan Storton,1968,1968/69,Storton
-Storton,Stan,Stan Storton,1969,1969/70,Storton
-Storton,Trevor,Trevor Storton,1967,1967/68,Storton
-Storton,Trevor,Trevor Storton,1968,1968/69,Storton
-Storton,Trevor,Trevor Storton,1969,1969/70,Storton
-Storton,Trevor,Trevor Storton,1970,1970/71,Storton
-Storton,Trevor,Trevor Storton,1971,1971/72,Storton
+Storton,Stan,Stan Storton,1966,1966/67,Storton S
+Storton,Stan,Stan Storton,1967,1967/68,Storton S
+Storton,Stan,Stan Storton,1968,1968/69,Storton S
+Storton,Stan,Stan Storton,1969,1969/70,Storton S
+Storton,Trevor,Trevor Storton,1967,1967/68,Storton T
+Storton,Trevor,Trevor Storton,1968,1968/69,Storton T
+Storton,Trevor,Trevor Storton,1969,1969/70,Storton T
+Storton,Trevor,Trevor Storton,1970,1970/71,Storton T
+Storton,Trevor,Trevor Storton,1971,1971/72,Storton T
 Stott,Tom,Tom Stott,1921,1921/22,Stott
 Stuart,Eddie,Eddie Stuart,1964,1964/65,Stuart
 Stuart,Eddie,Eddie Stuart,1965,1965/66,Stuart
@@ -1609,10 +1609,10 @@ Williams,John,John Williams,1981,1981/82,Williams J
 Williams,John,John Williams,1982,1982/83,Williams
 Williams,John,John Williams,1983,1983/84,Williams J
 Williams,John,John Williams,1984,1984/85,Williams
-Williams,Keith,Keith Williams,1957,1957/58,Williams
-Williams,Keith,Keith Williams,1958,1958/59,Williams
-Williams,Keith,Keith Williams,1959,1959/60,Williams
-Williams,Keith,Keith Williams,1960,1960/61,Williams
+Williams,Keith,Keith Williams,1957,1957/58,Williams K
+Williams,Keith,Keith Williams,1958,1958/59,Williams K
+Williams,Keith,Keith Williams,1959,1959/60,Williams K
+Williams,Keith,Keith Williams,1960,1960/61,Williams K
 Williams,Ray,Ray Williams,1951,1951/52,Williams
 Williams,Ray,Ray Williams,1952,1952/53,Williams
 Williams,Ray,Ray Williams,1953,1953/54,Williams
