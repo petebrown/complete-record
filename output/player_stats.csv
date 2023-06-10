@@ -138,7 +138,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 102,49,Curnow,Jack,31-Jan-10,1910-01-31,1,1910,0,1,G,1937,1938,52,0,0,4,0,0,0,0,0,0,0,0,56,0,0,Blackpool,Hull City,0
 102,50,Curran,Frank,31-May-17,1917-05-31,2,1917,0,1,IF,1947,1947,17,0,7,0,0,0,0,0,0,0,0,0,17,0,7,Bristol Rovers,Shrewsbury Town,0
 102,51,Curtis,Charlie,NA,NA,NA,NA,0,1,WH,1934,1935,21,0,0,4,0,0,0,0,0,0,0,0,25,0,0,Stoke City,Boston Town,0
-102,52,D'arcy,Frank,08-Dec-46,1946-12-08,4,1946,0,1,FB,1972,1972,7,1,1,0,0,0,1,0,0,0,0,0,8,1,1,Everton,NA,0
+102,52,D'Arcy,Frank,08-Dec-46,1946-12-08,4,1946,0,1,FB,1972,1972,7,1,1,0,0,0,1,0,0,0,0,0,8,1,1,Everton,NA,0
 102,53,Dale,Dickie,21-May-96,1896-05-21,2,1896,0,1,CH,1931,1931,7,0,0,3,0,0,0,0,0,0,0,0,10,0,0,West Bromwich Albion,Crook Town,0
 102,54,Dalton,Tim,14-Oct-65,1965-10-14,4,1965,0,1,G,1986,1986,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,Bradford City,NA,1
 102,55,Davies,Dai,01-Apr-48,1948-04-01,2,1948,0,1,G,1983,1983,42,0,0,2,0,0,2,0,0,5,0,0,51,0,0,Swansea City,Bangor City,0
@@ -552,7 +552,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 107,23,Spencer,Reg,01-Dec-08,1908-12-01,4,1908,0,1,LH,1931,1938,235,0,3,21,0,0,0,0,0,0,0,0,256,0,3,Local,NA,0
 107,24,Spencer,Teddy,NA,NA,NA,NA,0,1,IL,1932,1933,15,0,2,1,0,2,0,0,0,0,0,0,16,0,4,Aston Villa,Leamington Town,0
 107,25,Spink,Tony,16-Nov-29,1929-11-16,4,1929,0,1,CF,1956,1956,7,0,3,1,0,0,0,0,0,0,0,0,8,0,3,Sunderland,NA,0
-107,26,StJohn,Ian,07-Jun-38,1938-06-07,2,1938,0,1,I CF,1972,1972,9,0,1,2,0,0,0,0,0,0,0,0,11,0,1,Coventry City,Portsmouth,0
+107,26,St John,Ian,07-Jun-38,1938-06-07,2,1938,0,1,I CF,1972,1972,9,0,1,2,0,0,0,0,0,0,0,0,11,0,1,Coventry City,Portsmouth,0
 107,27,Stanley,Graham,27-Jan-38,1938-01-27,1,1938,0,1,I WH,1965,1965,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,Bolton Wanderers,NA,0
 107,28,Steel,Jim,04-Dec-59,1959-12-04,4,1959,0,1,CF,1987,1991,167,13,29,7,1,2,16,2,6,20,0,10,210,16,47,Wrexham,Retired,0
 107,29,Steele,Percy,26-Dec-23,1923-12-26,4,1923,0,1,FB,1945,1956,311,0,0,27,0,0,0,0,0,0,0,0,338,0,0,Carlton,Burscough,0
