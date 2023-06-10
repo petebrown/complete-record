@@ -1,4 +1,649 @@
 season,game_no,scorers
+1921/22,1,"Tom Stuart, Charles Milnes, Fred Groves, John Ford"
+1921/22,2,John Prentice
+1921/22,5,"Denis Bullough, John Prentice"
+1921/22,6,"Fred Groves, Denis Bullough"
+1921/22,7,Denis Bullough
+1921/22,8,"Fred Groves 2, Denis Bullough, Charlie Cunningham 4"
+1921/22,9,"Johnny Campbell, John Ford, Fred Groves, Charlie Cunningham"
+1921/22,12,Fred Groves 2
+1921/22,13,"Fred Cook, Denis Bullough, John Prentice 2"
+1921/22,14,"Fred Cook, Denis Bullough"
+1921/22,16,Denis Bullough
+1921/22,19,"Harold Hilton, Charlie Cunningham"
+1921/22,20,John Prentice
+1921/22,21,"James Roberts, Evan Lloyd"
+1921/22,22,Harold Hilton
+1921/22,23,"Jimmy Moreton, John Ford"
+1921/22,27,Tom Stuart
+1921/22,28,"Joe Mercer, Jimmy Moreton, David Fulton, OG"
+1921/22,30,"Tom Stuart, David Fulton"
+1921/22,32,"John Ford, David Fulton, OG"
+1921/22,34,"Jimmy Moreton, Evan Lloyd"
+1921/22,38,"Tom Stuart, Billy Rainford 2"
+1921/22,39,"Johnny Campbell, Charles Milnes, Jimmy Moreton, Billy Rainford"
+1922/23,1,Bernard Sharkey
+1922/23,2,Bob Thompson
+1922/23,3,"Bob Thompson, Ernest Phillips, Jimmy Moreton, Bernard Sharkey"
+1922/23,4,Billy Rainford
+1922/23,5,Billy Rainford
+1922/23,6,"Billy Rainford, Jabez Evans"
+1922/23,11,"Jimmy Moreton, OG"
+1922/23,12,Jabez Evans
+1922/23,17,"Bob Thompson, Bernard Sharkey"
+1922/23,18,Fred Hayes
+1922/23,22,James Robinson
+1922/23,23,"Johnny Campbell, Sammy Beswick, Harold Hilton 2, Jabez Evans"
+1922/23,25,"George Crowther, Jabez Evans 2"
+1922/23,26,"Sammy Beswick, OG"
+1922/23,28,Bob Thompson
+1922/23,29,Sammy Beswick
+1922/23,30,"Sammy Beswick, George Crowther"
+1922/23,32,Stan Sayer
+1922/23,33,"Sammy Beswick 2, Stan Sayer 2"
+1922/23,34,"Sammy Beswick, Stan Sayer 2, John Lomax"
+1922/23,35,"Johnny Campbell, Stan Sayer"
+1922/23,36,"Stan Sayer, John Lomax"
+1922/23,37,Stan Sayer
+1922/23,38,"Bob Thompson, Sammy Beswick, Stan Sayer"
+1922/23,39,OG
+1923/24,1,"Johnny Campbell, Stan Sayer"
+1923/24,4,"Stan Sayer, Bert Cartman 2"
+1923/24,5,Stan Sayer
+1923/24,6,Sammy Beswick
+1923/24,7,"Jack Brown 2, Stan Sayer"
+1923/24,8,Stan Sayer
+1923/24,10,Stan Sayer
+1923/24,11,Bert Cartman
+1923/24,12,Stan Sayer
+1923/24,13,Jack Brown
+1923/24,14,Stan Sayer
+1923/24,15,Harold Hilton
+1923/24,17,Jack Brown 2
+1923/24,18,Stan Sayer 3
+1923/24,22,"Johnny Campbell, Stan Sayer"
+1923/24,23,Stan Sayer
+1923/24,24,"Stan Sayer, Bert Cartman"
+1923/24,25,Fred Halstead
+1923/24,26,Tom Stuart
+1923/24,27,"Johnny Campbell, Sammy Beswick"
+1923/24,28,Tom Stuart
+1923/24,29,"Johnny Campbell, Stan Sayer"
+1923/24,30,Jimmy Moreton
+1923/24,31,Bert Cartman
+1923/24,32,Harry Littlehales
+1923/24,33,Stan Sayer
+1923/24,34,Jimmy Moreton
+1923/24,35,Harry Littlehales 2
+1923/24,36,Stan Sayer
+1923/24,37,"Jack Brown, Harry Littlehales, OG"
+1923/24,39,"Jimmy Moreton 2, Stan Sayer, Harry Littlehales"
+1923/24,40,"Jack Brown, Stan Sayer, Harry Littlehales"
+1923/24,41,"Jack Brown 2, Harry Littlehales"
+1923/24,45,"Jack Brown, Bert Cartman"
+1924/25,1,"Johnny Campbell, Harry Littlehales"
+1924/25,3,Jack Brown
+1924/25,5,Dixie Dean
+1924/25,8,"Jimmy Moreton, Dixie Dean"
+1924/25,9,Dixie Dean
+1924/25,10,Dixie Dean 2
+1924/25,11,"Stan Sayer, Dixie Dean 3"
+1924/25,12,Dixie Dean
+1924/25,14,Bert Cartman
+1924/25,15,"Johnny Campbell, Harry Littlehales"
+1924/25,16,"Tom Stuart, Harry Littlehales"
+1924/25,17,Stan Sayer
+1924/25,19,"Jack Brown, Dixie Dean 2, Harry Littlehales 2"
+1924/25,20,"Dixie Dean 2, Stan Sayer"
+1924/25,22,Dixie Dean 2
+1924/25,23,Dixie Dean
+1924/25,25,Harry Littlehales
+1924/25,27,"Billy Fogg, Dixie Dean 2, Harry Littlehales 2"
+1924/25,28,Dixie Dean
+1924/25,29,"Billy Fogg, Dixie Dean 3"
+1924/25,31,Dixie Dean
+1924/25,32,Harry Littlehales
+1924/25,33,Dixie Dean 3
+1924/25,34,Dixie Dean
+1924/25,35,"Fred Halstead, Billy Fogg, Ellis Rimmer"
+1924/25,36,"Tom Stuart, Harry Littlehales"
+1924/25,38,Harry Littlehales
+1924/25,39,"Stan Sayer, Bert Cartman"
+1924/25,40,Tom Stuart
+1924/25,41,Jimmy Jackson
+1924/25,42,"Tom Stuart, Jack Brown"
+1924/25,43,"Billy Fogg, Stan Sayer"
+1924/25,44,Billy Fogg
+1925/26,1,"Billy Roberts, Fred Marquis"
+1925/26,3,"Vince Matthews, Billy Chalmers"
+1925/26,4,"Vince Matthews, Bob White, Fred Marquis"
+1925/26,6,Fred Marquis 2
+1925/26,7,"Bob White, Fred Marquis 2"
+1925/26,11,"Tom Stuart, Fred Marquis, Bob White 2, Norman Proctor"
+1925/26,13,"Fred Marquis, Bob White"
+1925/26,14,Billy Chalmers
+1925/26,15,"Bob White, Billy Chalmers"
+1925/26,16,"Fred Marquis, Bob White"
+1925/26,18,Norman Proctor
+1925/26,19,Norman Proctor
+1925/26,21,"Fred Marquis, Norman Proctor, Billy Chalmers"
+1925/26,22,Fred Marquis 2
+1925/26,23,"Sammy Beswick, Fred Marquis, Norman Proctor"
+1925/26,24,Billy Fogg
+1925/26,25,Fred Marquis
+1925/26,26,"Bob White, Norman Proctor"
+1925/26,27,"Johnny Campbell, Bob White"
+1925/26,28,Bob White 2
+1925/26,30,"Sammy Beswick 2, Bert Cartman"
+1925/26,31,"Tom Stuart, Bob White"
+1925/26,32,Jimmy Moreton
+1925/26,33,"Fred Marquis, Billy Charlton 2"
+1925/26,34,Fred Marquis 2
+1925/26,35,"Fred Marquis, Billy Charlton"
+1925/26,36,"Tom Stuart, Bert Cartman, OG"
+1925/26,37,"Fred Marquis, Harry Littlehales, Norman Proctor, Bert Cartman"
+1925/26,38,"Fred Marquis, Harry Littlehales 2"
+1925/26,39,Harry Littlehales
+1925/26,42,Fred Marquis
+1925/26,43,"Fred Marquis, Norman Proctor 2"
+1925/26,44,"Bob White, Norman Proctor 3"
+1926/27,1,"Fred Marquis, Billy Charlton, Bert Cartman"
+1926/27,2,Billy Charlton
+1926/27,3,"Fred Marquis 2, Billy Charlton 2"
+1926/27,4,"Billy Charlton, Bert Cartman"
+1926/27,6,"Norman Proctor, Bert Cartman, OG"
+1926/27,7,Harry Littlehales
+1926/27,9,OG
+1926/27,10,Billy Charlton
+1926/27,11,Billy Charlton
+1926/27,12,"Fred Marquis, Billy Charlton, OG"
+1926/27,13,Fred Marquis
+1926/27,14,Jack Flanagan 3
+1926/27,15,Billy Charlton
+1926/27,16,Jack Flanagan
+1926/27,17,Fred Marquis
+1926/27,18,Harry Littlehales
+1926/27,19,Bert Cartman
+1926/27,20,"Jack Flanagan, Ellis Rimmer"
+1926/27,21,"Fred Marquis, Jack Flanagan, Ellis Rimmer"
+1926/27,22,"Jack Flanagan, Tommy Jones"
+1926/27,23,"Ginger Lewis, Jack Flanagan 5, OG"
+1926/27,24,"Jack Flanagan, Tommy Jones"
+1926/27,25,"Vince Matthews, Bob White, Norman Proctor, Jack Flanagan 2, Tommy Jones 2, Ellis Rimmer"
+1926/27,27,Ellis Rimmer
+1926/27,28,Jack Flanagan
+1926/27,29,"Bob White, Jack Flanagan 2"
+1926/27,30,Ellis Rimmer
+1926/27,31,"Jack Flanagan, Tommy Jones"
+1926/27,32,Ellis Rimmer
+1926/27,33,"Bob White, Fred Marquis, Jack Flanagan"
+1926/27,34,"Jack Flanagan, Tommy Jones, Ellis Rimmer"
+1926/27,35,Tommy Jones
+1926/27,36,Ellis Rimmer
+1926/27,39,"Fred Marquis, Jack Flanagan, Ellis Rimmer 2"
+1926/27,40,Jack Flanagan 2
+1926/27,42,"Billy Charlton 2, Tommy Jones"
+1926/27,43,"Fred Marquis 2, Jack Flanagan, Tommy Jones 3"
+1926/27,44,"Jack Flanagan, Bert Cartman"
+1927/28,1,Jack Flanagan
+1927/28,2,Billy Charlton
+1927/28,3,"Pongo Waring 2, Tommy Jones"
+1927/28,4,"Ginger Lewis, Ellis Rimmer"
+1927/28,5,"Billy Charlton, Pongo Waring"
+1927/28,6,Pongo Waring 2
+1927/28,7,Pongo Waring
+1927/28,9,"Bert Cartman, Billy Charlton, Pongo Waring 2, Ellis Rimmer"
+1927/28,10,"Billy Charlton 2, Harry Littlehales"
+1927/28,11,"Billy Charlton, Ellis Rimmer"
+1927/28,12,"Pongo Waring, Ellis Rimmer"
+1927/28,14,"Billy Charlton 2, Pongo Waring"
+1927/28,15,"Billy Charlton 2, Pongo Waring"
+1927/28,16,"Bert Cartman, Pongo Waring 3, Ellis Rimmer"
+1927/28,17,"Jack Bamber, Ellis Rimmer 2"
+1927/28,18,Harry Littlehales
+1927/28,19,Pongo Waring
+1927/28,20,Ellis Rimmer
+1927/28,21,Harry Littlehales
+1927/28,22,"Harry Littlehales, Ellis Rimmer"
+1927/28,23,"Bert Cartman, Tommy Jones, Pongo Waring 6, Harry Littlehales 2, OG"
+1927/28,26,"Fred Bedford, Billy Charlton, Pongo Waring, Harry Littlehales, Ellis Rimmer 2"
+1927/28,27,"Fred Bedford, Billy Charlton"
+1927/28,28,"Billy Charlton, Pongo Waring 2, Harry Littlehales"
+1927/28,29,"Billy Charlton, Jack Flanagan, Harry Littlehales"
+1927/28,30,"Tommy Jones 2, Billy Charlton, Jack Flanagan, Fred Urmson"
+1927/28,31,Harry Littlehales
+1927/28,32,"Harry Littlehales, Jack Flanagan, Harry Bevan"
+1927/28,33,"Billy Charlton, Jack Flanagan"
+1927/28,34,Tommy Jones
+1927/28,35,"Billy Charlton 3, Jack Flanagan, Harry Littlehales"
+1927/28,36,"Tommy Jones 2, Billy Charlton, Jack Flanagan 3, Harry Littlehales"
+1927/28,37,"Jack Flanagan, Harry Bevan, Fred Urmson"
+1927/28,38,"Tommy Jones, Billy Charlton, Harry Littlehales"
+1927/28,39,"Billy Charlton, Jack Flanagan"
+1927/28,42,"Tommy Jones 2, Billy Charlton 2, Jack Flanagan"
+1927/28,44,"Jack Flanagan, Harry Littlehales"
+1927/28,45,Sammy Beswick 2
+1928/29,1,Tommy Jones
+1928/29,2,Harry Littlehales
+1928/29,3,"Jack Flanagan, Percy Richards"
+1928/29,4,Billy Charlton
+1928/29,5,Harry Littlehales
+1928/29,6,Billy Charlton
+1928/29,8,"Billy Charlton 2, Harry Littlehales"
+1928/29,9,Fred Urmson
+1928/29,10,"Ginger Lewis, Billy Charlton, Jack Flanagan"
+1928/29,11,Jack Bamber
+1928/29,12,Harry Littlehales
+1928/29,13,"Billy Charlton 2, Sammy Beswick 2, Harry Littlehales, Bert Cartman"
+1928/29,14,Sammy Beswick 2
+1928/29,15,"Harry Littlehales 4, Bert Cartman 2"
+1928/29,16,"Jack Flanagan, Sammy Beswick"
+1928/29,17,"Tommy Jones, Harry Littlehales, OG"
+1928/29,19,"Tommy Jones, Sammy Beswick"
+1928/29,20,Sammy Beswick
+1928/29,21,Sammy Beswick
+1928/29,22,"Bert Cartman, Sammy Beswick"
+1928/29,23,Bert Cartman
+1928/29,25,Sammy Beswick
+1928/29,26,Bert Cartman 2
+1928/29,27,Harry Littlehales
+1928/29,28,Teddy Barton
+1928/29,29,Jack Flanagan
+1928/29,30,Ginger Lewis
+1928/29,31,"Billy Charlton, Fred Urmson"
+1928/29,33,"Tommy Jones, Billy Charlton 3, Sammy Beswick"
+1928/29,34,"Robert Gray, Sammy Beswick"
+1928/29,35,"Billy Charlton, Sammy Beswick 2, OG"
+1928/29,36,"Billy Charlton, Sammy Beswick 2"
+1928/29,37,"Tommy Jones, Harry Littlehales"
+1928/29,38,Fred Urmson
+1928/29,39,Fred Urmson
+1928/29,40,"Bert Cartman, Sammy Beswick, Harry Littlehales, Fred Urmson"
+1928/29,41,"Tommy Jones, Sammy Beswick"
+1928/29,42,Billy Charlton
+1928/29,43,"Tommy Jones, Billy Charlton"
+1928/29,44,"Tommy Naylor, Billy Charlton, Bill Ridding"
+1929/30,1,"Tommy Naylor, Sammy Meston, Billy Charlton, Archie Waterston 2"
+1929/30,2,Archie Waterston 3
+1929/30,3,Sammy Meston
+1929/30,4,Billy Charlton
+1929/30,5,"Billy Charlton, Archie Waterston 3, Reg Cropper"
+1929/30,6,"Ginger Lewis, Archie Waterston 2"
+1929/30,8,"Billy Charlton, Reg Cropper 2"
+1929/30,10,"Billy Charlton, Archie Waterston"
+1929/30,11,"Bert Cartman, Archie Waterston"
+1929/30,13,Billy Charlton
+1929/30,14,"Billy Charlton 2, Archie Waterston, Bert Cartman"
+1929/30,15,Bill Ridding 2
+1929/30,16,"Billy Charlton 2, Archie Waterston"
+1929/30,17,"Sammy Meston, Archie Waterston"
+1929/30,21,"Bill Ridding, Fred Urmson 2"
+1929/30,24,"Bert Cartman, Fred Urmson"
+1929/30,25,"Billy Charlton 2, Archie Waterston"
+1929/30,26,"Ginger Lewis, Billy Charlton, Archie Waterston"
+1929/30,27,"Bert Cartman, Billy Charlton"
+1929/30,28,"Bill Ridding, Reg Cropper"
+1929/30,29,"Billy Charlton 2, Bill Ridding 3, Fred Urmson 2"
+1929/30,30,Bill Ridding
+1929/30,31,"Billy Charlton, Bill Ridding 4"
+1929/30,32,Billy Charlton
+1929/30,33,"Sammy Meston 2, Bert Cartman 2"
+1929/30,34,Archie Waterston
+1929/30,35,"Teddy Barton, Sammy Meston 2"
+1929/30,36,Sammy Meston
+1929/30,37,"Billy Charlton, Archie Waterston, Fred Urmson"
+1929/30,38,"Billy Charlton, Fred Urmson"
+1929/30,39,"Sammy Meston, Fred Urmson"
+1929/30,41,Sammy Meston
+1929/30,43,Fred Urmson
+1929/30,44,Farewell Watts
+1930/31,1,"Farewell Watts 2, Jack Kennedy"
+1930/31,2,"Ernie Dixon, Jack Kennedy"
+1930/31,3,"Farewell Watts 2, Ernie Dixon"
+1930/31,4,Ernie Dixon
+1930/31,5,"Sammy Meston, Ernie Dixon"
+1930/31,6,"Sammy Meston 2, Farewell Watts 2"
+1930/31,7,"Farewell Watts 2, Ernie Dixon, Jack Kennedy 3, OG"
+1930/31,8,"Ernie Dixon, Jack Kennedy"
+1930/31,9,"Jack Kennedy, Fred Urmson"
+1930/31,10,"Farewell Watts, Ernie Dixon, Jack Kennedy"
+1930/31,11,"Farewell Watts, Jack Kennedy"
+1930/31,12,Jack Kennedy
+1930/31,13,"Sammy Meston, Farewell Watts 2, Ernie Dixon 2, Jack Kennedy 2"
+1930/31,14,"Farewell Watts, Jack Kennedy 2"
+1930/31,15,"Farewell Watts 3, Ernie Dixon 2"
+1930/31,16,"Sammy Meston, Jack Kennedy 2"
+1930/31,17,"Ginger Lewis, Farewell Watts, Ernie Dixon, Fred Urmson"
+1930/31,18,"Farewell Watts, Fred Urmson"
+1930/31,20,"Farewell Watts, Ernie Dixon, Jack Kennedy 2"
+1930/31,22,"Farewell Watts 2, Ernie Dixon 2, Jack Kennedy 2"
+1930/31,23,"Farewell Watts, Jack Kennedy 3"
+1930/31,24,"Ginger Lewis, Farewell Watts, Ernie Dixon 2, Jack Kennedy"
+1930/31,25,Farewell Watts
+1930/31,26,Ernie Dixon
+1930/31,27,"Farewell Watts, Ernie Dixon 3, Jack Kennedy 4"
+1930/31,28,"Sammy Meston, Ernie Dixon 2"
+1930/31,30,"Jack Kennedy, Fred Urmson"
+1930/31,31,"Sammy Meston, Farewell Watts, Ernie Dixon"
+1930/31,32,Jack Kennedy
+1930/31,33,"Farewell Watts, Ernie Dixon 2"
+1930/31,34,"Ernie Dixon, Jack Kennedy 2, Fred Urmson"
+1930/31,35,"Farewell Watts, Ernie Dixon 2, Jack Kennedy, Fred Urmson"
+1930/31,36,Ernie Dixon 2
+1930/31,37,"Sammy Meston, Farewell Watts, Fred Urmson"
+1930/31,38,Fred Urmson 2
+1930/31,40,"Ernie Dixon, Jack Kennedy"
+1930/31,41,Teddy Barton
+1930/31,43,Jack Kennedy
+1946/47,1,Harold Atkinson
+1946/47,2,"Harold Bell, Harold Atkinson"
+1946/47,3,Harold Bridges
+1946/47,4,"Llew Ashcroft, James Williamson"
+1946/47,5,"Harold Atkinson 2, James Williamson"
+1946/47,6,James Williamson
+1946/47,7,Harold Atkinson 2
+1946/47,8,Kinear Burns
+1946/47,9,OG
+1946/47,10,"Kinear Burns, Harold Atkinson"
+1946/47,14,"Des Harlock, Harold Atkinson 2, Benny Jones"
+1946/47,15,"Abe Rosenthal, Benny Jones"
+1946/47,17,Des Harlock
+1946/47,18,"Ten Salmon, Benny Jones"
+1946/47,19,"Kinear Burns, Harold Atkinson, Abe Rosenthal"
+1946/47,20,"Kinear Burns, Harold Atkinson 3, Benny Jones"
+1946/47,21,Abe Rosenthal
+1946/47,23,"Benny Jones, Ron Rice"
+1946/47,24,"Benny Jones 2, Charles Birmingham"
+1946/47,25,Benny Jones
+1946/47,26,Harold Atkinson
+1946/47,27,"Harold Atkinson 2, Alex Alexander"
+1946/47,28,Abe Rosenthal 2
+1946/47,29,Benny Jones
+1946/47,30,Llew Ashcroft 3
+1946/47,31,"Harold Atkinson, Benny Jones"
+1946/47,32,"Harold Atkinson, Abe Rosenthal"
+1946/47,34,Harold Atkinson
+1946/47,35,"Harold Atkinson 2, Abe Rosenthal, Benny Jones"
+1946/47,37,"Benny Jones, William Cartwright"
+1946/47,38,Harold Atkinson
+1946/47,39,"Alan Cox, Abe Rosenthal, Benny Jones"
+1946/47,41,Benny Jones
+1947/48,1,"Frank Curran, Benny Jones"
+1947/48,2,Benny Jones
+1947/48,3,"Harold Atkinson, Benny Jones"
+1947/48,4,Harold Atkinson
+1947/48,5,"Harold Atkinson 2, Frank Curran"
+1947/48,6,"Des Harlock, Harold Atkinson, Frank Curran"
+1947/48,7,"Gillie Alldis, Harold Atkinson 2, Cliff Leeming"
+1947/48,8,Benny Jones
+1947/48,9,Des Harlock
+1947/48,11,"Des Harlock, Harry Lamb, Harold Bridges, Benny Jones"
+1947/48,12,Harold Bridges
+1947/48,14,Frank Curran 2
+1947/48,16,"Frank Curran, Harold Bridges"
+1947/48,18,"Des Harlock, Harold Bridges"
+1947/48,19,"Harold Bridges, Cliff Leeming"
+1947/48,21,"Harold Atkinson, Frank Curran"
+1947/48,23,"John Connor, Harold Atkinson, Harold Bridges"
+1947/48,26,"Harry Lamb, OG"
+1947/48,28,"Harry Lamb, Harold Atkinson, Harold Bridges 2"
+1947/48,29,"Des Harlock, Harold Atkinson"
+1947/48,30,Harold Bridges
+1947/48,31,"Harry Lamb, Harold Atkinson"
+1947/48,32,Harold Atkinson 2
+1947/48,33,Harry Lamb 2
+1947/48,38,Harold Atkinson 2
+1947/48,40,Alex Alexander
+1947/48,41,Alan Cox
+1947/48,44,John Connor
+1948/49,1,Harold Atkinson
+1948/49,4,"Harry Lamb, Harold Atkinson"
+1948/49,5,"Harold Atkinson, Alex Alexander"
+1948/49,6,"Andrew Jack 2, Stewie Williamson"
+1948/49,7,"Andrew Jack, Stewie Williamson"
+1948/49,8,Stewie Williamson
+1948/49,10,Harry Lamb
+1948/49,12,"Harold Atkinson, Stewie Williamson"
+1948/49,13,Stewie Williamson
+1948/49,16,Stewie Williamson
+1948/49,17,"Harold Atkinson, OG"
+1948/49,18,"Harry Gould 2, Gillie Alldis"
+1948/49,19,Harry Gould
+1948/49,20,"Seamus McBennett, James Pollard"
+1948/49,21,John Barrie
+1948/49,22,"Bill Bainbridge, OG"
+1948/49,23,"Bill Bainbridge, Harry Eastham"
+1948/49,24,"John Barrie, Harold Atkinson"
+1948/49,25,Bill Bainbridge
+1948/49,27,Bill Bainbridge
+1948/49,30,"Len Kieran, Gillie Alldis"
+1948/49,31,"Bill Bainbridge, Harold Atkinson 2"
+1948/49,32,"Harold Atkinson, Gillie Alldis"
+1948/49,36,Harold Atkinson 2
+1948/49,38,John Connor
+1948/49,41,"Bill Bainbridge, John Barrie"
+1948/49,42,Bill Bainbridge
+1948/49,43,Stewie Williamson
+1949/50,2,Bill Bainbridge 2
+1949/50,3,"Bill Bainbridge, James McKay"
+1949/50,4,Bill Bainbridge 2
+1949/50,5,Harry Eastham
+1949/50,7,Harold Atkinson
+1949/50,8,Stewie Williamson 2
+1949/50,10,"Harry Eastham, Archie Wood"
+1949/50,11,Bill Bainbridge
+1949/50,12,Bill Bainbridge
+1949/50,13,"Des Harlock, Bill Bainbridge, Harold Atkinson, Archie Wood"
+1949/50,14,"Bill Bainbridge, Archie Wood"
+1949/50,15,Harold Atkinson
+1949/50,16,"Des Harlock, Bill Bainbridge"
+1949/50,17,"Johnny Wheeler, Archie Wood"
+1949/50,20,"Harry Lamb, Bill Bainbridge"
+1949/50,22,Stewie Williamson
+1949/50,25,"Johnny Wheeler, Harry Lamb, Archie Wood 2"
+1949/50,27,Bill Bainbridge
+1949/50,29,"Harold Atkinson 2, Abe Rosenthal"
+1949/50,30,OG
+1949/50,31,"Johnny Wheeler, Bill Bainbridge"
+1949/50,32,Stewie Williamson
+1949/50,33,Stewie Williamson
+1949/50,35,"Bill Bainbridge, OG"
+1949/50,36,Abe Rosenthal
+1949/50,38,"Bill Bainbridge, Harold Atkinson"
+1949/50,39,"Bill Bainbridge, Abe Rosenthal"
+1949/50,41,"Des Harlock, Bill Bainbridge"
+1949/50,42,Bill Bainbridge 2
+1949/50,43,Harold Atkinson
+1950/51,1,"Johnny Wheeler, Bill Bainbridge 2, Abe Rosenthal 4"
+1950/51,2,"Bill Bainbridge, Abe Rosenthal"
+1950/51,3,Bill Bainbridge
+1950/51,4,"Abe Rosenthal, Lloyd Iceton 2"
+1950/51,5,Harry Eastham
+1950/51,6,"Des Harlock, Lloyd Iceton"
+1950/51,7,Bill Bainbridge
+1950/51,8,"Bill Bainbridge, Lloyd Iceton"
+1950/51,9,Johnny Wheeler
+1950/51,10,Abe Rosenthal 2
+1950/51,11,"Johnny Wheeler, Bill Bainbridge"
+1950/51,12,"Johnny Wheeler, Abe Rosenthal, Stewie Williamson 2"
+1950/51,13,Abe Rosenthal
+1950/51,14,Abe Rosenthal
+1950/51,15,"Johnny Wheeler, Abe Rosenthal"
+1950/51,17,"Harold Bell, Johnny Wheeler, Abe Rosenthal"
+1950/51,18,"Des Harlock, Johnny Wheeler, Abe Rosenthal"
+1950/51,19,Len Kieran
+1950/51,20,"Johnny Wheeler, Stewie Williamson, Bill Bainbridge, Lloyd Iceton 2"
+1950/51,22,Bill Bainbridge
+1950/51,23,"Bill Bainbridge, Tom Doonan"
+1950/51,24,"Bill Bainbridge, Tom Doonan, Stewie Williamson"
+1950/51,25,Bill Bainbridge
+1950/51,26,"Des Harlock 2, Bill Bainbridge, Stewie Williamson"
+1950/51,27,"Des Harlock, Bill Bainbridge 2, Harry Eastham"
+1950/51,28,Bill Bainbridge
+1950/51,29,Abe Rosenthal
+1950/51,30,Stewie Williamson
+1950/51,31,"Des Harlock, Bill Bainbridge, Vince Dillon"
+1950/51,33,Bill Bainbridge 2
+1950/51,35,Len Kieran
+1950/51,36,Vince Dillon
+1950/51,37,Abe Rosenthal 2
+1950/51,38,Vince Dillon
+1950/51,39,"Vince Dillon, Lloyd Iceton, OG"
+1950/51,40,"Harry Eastham, Vince Dillon 2"
+1950/51,41,"Ralph Millington, Harry Eastham, Lloyd Iceton"
+1950/51,42,Abe Rosenthal
+1950/51,43,Harry Eastham
+1950/51,44,Vince Dillon 2
+1950/51,46,Vince Dillon
+1950/51,47,"Len Kieran, Des Harlock"
+1950/51,48,Harold Bell
+1951/52,1,"Tommy Tilston 2, Bill Bainbridge, Abe Rosenthal"
+1951/52,2,Tommy Tilston
+1951/52,4,Bill Bainbridge 2
+1951/52,5,"Harold Bell, Stewie Williamson, Tommy Tilston"
+1951/52,6,Tommy Tilston
+1951/52,7,Stewie Williamson
+1951/52,8,"Tommy Tilston, Abe Rosenthal, OG"
+1951/52,9,Stewie Williamson
+1951/52,11,"Tommy Tilston, Harold Atkinson, Harry Eastham"
+1951/52,13,"Tommy Tilston 2, Harold Atkinson"
+1951/52,14,Harold Atkinson
+1951/52,15,Vince Dillon
+1951/52,17,Tommy Tilston
+1951/52,18,Vince Dillon 2
+1951/52,19,"Harold Atkinson 3, Lloyd Iceton"
+1951/52,21,"Bill Bainbridge, Lloyd Iceton"
+1951/52,22,OG
+1951/52,23,Harold Atkinson
+1951/52,25,"Ray Davies, Harold Atkinson 2"
+1951/52,27,"Ray Davies, Tommy Tilston"
+1951/52,28,"William Gibson, Abe Rosenthal"
+1951/52,29,Abe Rosenthal 2
+1951/52,30,"Bill Bainbridge, Tommy Tilston 3, Lloyd Iceton"
+1951/52,31,"Ray Williams, Bill Bainbridge, Tommy Tilston 2, Abe Rosenthal"
+1951/52,32,"Tommy Tilston, Abe Rosenthal"
+1951/52,33,Bill Bainbridge
+1951/52,35,"Stewie Williamson, Bill Bainbridge 2, Tommy Tilston, Kenny McDevitt"
+1951/52,37,"Kenny McDevitt, Lloyd Iceton 2"
+1951/52,38,"Bill Bainbridge, Harold Atkinson"
+1951/52,39,Harold Atkinson 2
+1951/52,41,Vince Dillon
+1951/52,42,"Bill Bainbridge, Harold Atkinson"
+1951/52,43,"Harold Atkinson 2, Kenny McDevitt"
+1951/52,44,Bill Bainbridge
+1951/52,46,"Ray Davies 2, Harry Eastham, Harold Atkinson"
+1951/52,47,Ray Davies 3
+1951/52,48,Kenny McDevitt
+1951/52,50,"Ray Davies, Vince Dillon 2"
+1951/52,51,"Vince Dillon 2, Lloyd Iceton"
+1951/52,53,Bill Bainbridge
+1952/53,4,Harold Atkinson
+1952/53,7,"Harry Eastham, Lloyd Iceton"
+1952/53,8,"Ray Davies 2, Harry Lamb, Cyril Done"
+1952/53,9,Cyril Done 3
+1952/53,10,Harry Lamb
+1952/53,11,"Ray Davies, OG"
+1952/53,12,Cyril Done
+1952/53,13,Tom Mycock
+1952/53,14,"Ray Davies, Lloyd Iceton"
+1952/53,16,Kenny McDevitt 2
+1952/53,17,"Kenny McDevitt, Cyril Done, Lloyd Iceton"
+1952/53,19,"Ray Davies, Harold Atkinson 2, Kenny McDevitt, Lloyd Iceton"
+1952/53,20,"Harold Atkinson 6, Cyril Done 2"
+1952/53,22,Cyril Done 2
+1952/53,23,Ray Williams
+1952/53,24,"Cyril Done, Ray Williams"
+1952/53,26,"Bill Bainbridge, Cyril Done"
+1952/53,27,Ray Davies
+1952/53,28,Lloyd Iceton
+1952/53,29,Cyril Done
+1952/53,32,"Cyril Done, Kenny McDevitt"
+1952/53,33,"Cyril Done 3, OG"
+1952/53,35,"Des Harlock, Harold Atkinson, Cyril Done"
+1952/53,37,"Kenny McDevitt, Harold Atkinson, Cyril Done, Lloyd Iceton"
+1952/53,40,Harold Atkinson
+1952/53,41,"Ray Williams, Harry Eastham, Lloyd Iceton"
+1952/53,42,Cyril Done
+1952/53,43,"Ray Davies, Cyril Done"
+1952/53,44,Cyril Done 2
+1952/53,46,"Bill Bainbridge, Cyril Done"
+1952/53,47,Cyril Done
+1952/53,48,"Cyril Done, OG"
+1952/53,49,"Ray Davies, Bill Bainbridge 2, Wiliam Jackson"
+1952/53,50,Bill Bainbridge
+1953/54,1,"Cyril Done, Lloyd Iceton"
+1953/54,2,Cyril Done
+1953/54,3,Cyril Done
+1953/54,4,"Kenny McDevitt, Bill Bainbridge, Harold Atkinson, Cyril Done 2"
+1953/54,7,Cyril Done
+1953/54,8,"Kenny McDevitt, Cyril Done 3, Tom Mycock, OG"
+1953/54,9,Cyril Done
+1953/54,11,Ray Davies
+1953/54,12,"Kenny McDevitt, Cyril Done"
+1953/54,13,Cyril Done 2
+1953/54,14,Ray Williams
+1953/54,16,Kenny McDevitt
+1953/54,17,Harold Atkinson 2
+1953/54,18,"Ray Davies, Harold Atkinson"
+1953/54,20,Cyril Done 2
+1953/54,21,Ralph Millington
+1953/54,22,Cyril Done
+1953/54,23,"Ray Williams, Cyril Done"
+1953/54,24,"Ray Williams 2, Cyril Done 3"
+1953/54,27,Charlie Jolley 2
+1953/54,28,Harold Atkinson 3
+1953/54,29,Ray Williams
+1953/54,30,"Bill Bainbridge, Cyril Done"
+1953/54,31,Harold Atkinson
+1953/54,33,Cyril Done
+1953/54,34,Cyril Done
+1953/54,35,"Ray Williams, Cyril Done"
+1953/54,37,Bill Bainbridge
+1953/54,38,Bill Bainbridge
+1953/54,39,"Harold Atkinson, Don Woan"
+1953/54,40,"Harold Atkinson, Tommy Williams"
+1953/54,42,Harold Atkinson
+1953/54,43,"Cyril Done, Don Woan"
+1953/54,44,Cyril Done
+1953/54,45,Cyril Done
+1953/54,46,"Ray Williams, Bill Bainbridge, Cyril Done 2"
+1953/54,47,Harold Atkinson
+1953/54,49,Cyril Done
+1953/54,50,Cyril Done
+1953/54,51,Cyril Done
+1954/55,1,OG
+1954/55,2,Arthur Walls
+1954/55,3,"Cyril Done, Abe Rosenthal"
+1954/55,4,Cyril Done 2
+1954/55,5,"Arthur Walls, Cyril Done, OG"
+1954/55,6,Kenny McDevitt
+1954/55,10,Abe Rosenthal
+1954/55,11,Cyril Done
+1954/55,12,Sammy Speakman
+1954/55,14,"Cyril Done, Abe Rosenthal"
+1954/55,15,Cyril Done
+1954/55,16,Cyril Done
+1954/55,17,"Kenny McDevitt, Cyril Done"
+1954/55,18,Cyril Done 3
+1954/55,19,Cyril Done
+1954/55,20,"Cyril Done 2, Abe Rosenthal"
+1954/55,23,Cyril Done 2
+1954/55,24,Harold Atkinson
+1954/55,25,Ralph Millington
+1954/55,27,"Ray Davies, Ray Williams"
+1954/55,28,"Kenny McDevitt 2, Mike Fleming"
+1954/55,29,Ray Williams 2
+1954/55,30,Derek Jones
+1954/55,32,"Bill Lamont, Kenny McDevitt, Ray Williams"
+1954/55,35,Harold Atkinson 2
+1954/55,36,Mike Fleming
+1954/55,37,Bill Lamont
+1954/55,39,"Kenny McDevitt, Harold Bell"
+1954/55,40,Harold Bell 2
+1954/55,42,"Bill Lamont, Harold Atkinson 3, Harold Bell, Mike Fleming"
+1954/55,46,Kenny McDevitt
+1954/55,47,Arthur Walls
+1954/55,48,Harold Bell
 1955/56,2,"Harold Bell, Mike Fleming, Gerard Tansey"
 1955/56,4,Noel Kelly
 1955/56,7,"Ray Davies, Sammy Speakman 2, OG"

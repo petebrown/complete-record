@@ -240,6 +240,13 @@ Carlson,George,George Carlson,1947,1947/48,Carlson
 Carlson,George,George Carlson,1948,1948/49,Carlson
 Carmody,Mike,Mike Carmody,1986,1986/87,Carmody
 Carter,Joseph,Joseph Carter,1936,1936/37,Carter
+Cartman,Bert,Bert Cartman,1923,1923/24,Cartman
+Cartman,Bert,Bert Cartman,1924,1924/25,Cartman
+Cartman,Bert,Bert Cartman,1925,1925/26,Cartman
+Cartman,Bert,Bert Cartman,1926,1926/27,Cartman
+Cartman,Bert,Bert Cartman,1927,1927/28,Cartman
+Cartman,Bert,Bert Cartman,1928,1928/29,Cartman
+Cartman,Bert,Bert Cartman,1929,1929/30,Cartman
 Cartwright,William,William Cartwright,1946,1946/47,Cartwright
 Cartwright,William,William Cartwright,1947,1947/48,Cartwright
 Carvell,Arthur,Arthur Carvell,1932,1932/33,Carvell
@@ -519,13 +526,6 @@ Garnett,Shaun,Shaun Garnett,1992,1992/93,Garnett
 Garnett,Shaun,Shaun Garnett,1993,1993/94,Garnett
 Garnett,Shaun,Shaun Garnett,1994,1994/95,Garnett
 Garnett,Shaun,Shaun Garnett,1995,1995/96,Garnett
-Gartman,Bert,Bert Gartman,1923,1923/24,Gartman
-Gartman,Bert,Bert Gartman,1924,1924/25,Gartman
-Gartman,Bert,Bert Gartman,1925,1925/26,Gartman
-Gartman,Bert,Bert Gartman,1926,1926/27,Gartman
-Gartman,Bert,Bert Gartman,1927,1927/28,Gartman
-Gartman,Bert,Bert Gartman,1928,1928/29,Gartman
-Gartman,Bert,Bert Gartman,1929,1929/30,Gartman
 Gaskell,Alec,Alec Gaskell,1957,1957/58,Gaskell
 Gibson,William,William Gibson,1951,1951/52,Gibson
 Gibson,William,William Gibson,1952,1952/53,Gibson
@@ -554,7 +554,7 @@ Gray,Albert,Albert Gray,1934,1934/35,Gray
 Gray,Albert,Albert Gray,1935,1935/36,Gray
 Gray,Matthew,Matthew Gray,1927,1927/28,Gray
 Gray,Robert,Robert Gray,1927,1927/28,Gray
-Gray,Robert,Robert Gray,1928,1928/29,Gray
+Gray,Robert,Robert Gray,1928,1928/29,Gray R
 Green,Johnny,Johnny Green,1958,1958/59,Green
 Greenwood,Roy,Roy Greenwood,1983,1983/84,Greenwood
 Grierson,Darrell,Darrell Grierson,1986,1986/87,Grierson
@@ -613,7 +613,7 @@ Hay,Alan,Alan Hay,1986,1986/87,Hay
 Hayes,Charlie,Charlie Hayes,1921,1921/22,Hayes
 Hayes,Charlie,Charlie Hayes,1922,1922/23,Hayes
 Hayes,Charlie,Charlie Hayes,1923,1923/24,Hayes
-Hayes,Fred,Fred Hayes,1922,1922/23,Hayes
+Hayes,Fred,Fred Hayes,1922,1922/23,Hayes F
 Hayes,Fred,Fred Hayes,1923,1923/24,Hayes
 Hayes,John,John Hayes,1923,1923/24,Hayes
 Heap,Stuart,Stuart Heap,1984,1984/85,Heap
@@ -717,7 +717,7 @@ Jackson,George,George Jackson,1926,1926/27,Jackson
 Jackson,George,George Jackson,1927,1927/28,Jackson
 Jackson,George,George Jackson,1928,1928/29,Jackson
 Jackson,George,George Jackson,1929,1929/30,Jackson
-Jackson,Jimmy,Jimmy Jackson,1924,1924/25,Jackson
+Jackson,Jimmy,Jimmy Jackson,1924,1924/25,Jackson J
 Jackson,Peter,Peter Jackson,1961,1961/62,Jackson P
 Jackson,Peter,Peter Jackson,1962,1962/63,Jackson P
 Jackson,Peter,Peter Jackson,1963,1963/64,Jackson P
@@ -790,8 +790,8 @@ Kennedy,Andy,Andy Kennedy,1930,1930/31,Kennedy
 Kennedy,David,David Kennedy,1967,1967/68,Kennedy
 Kennedy,David,David Kennedy,1968,1968/69,Kennedy
 Kennedy,David,David Kennedy,1969,1969/70,Kennedy
-Kennedy,Jack,Jack Kennedy,1930,1930/31,Kennedy
-Kennedy,Jack,Jack Kennedy,1931,1931/32,Kennedy
+Kennedy,Jack,Jack Kennedy,1930,1930/31,Kennedy J
+Kennedy,Jack,Jack Kennedy,1931,1931/32,Kennedy J
 Kenny,Billy,Billy Kenny,1974,1974/75,Kenny
 Kenny,Billy,Billy Kenny,1975,1975/76,Kenny
 Kenny,Billy,Billy Kenny,1976,1976/77,Kenny
@@ -1351,7 +1351,7 @@ Robertson,Teddie,Teddie Robertson,1967,1967/68,Robertson
 Robertson,Teddie,Teddie Robertson,1968,1968/69,Robertson
 Robertson,William,William Robertson,1936,1936/37,Robertson
 Robinson,Alfred,Alfred Robinson,1921,1921/22,Robinson
-Robinson,James,James Robinson,1922,1922/23,Robinson
+Robinson,James,James Robinson,1922,1922/23,Robinson J
 Robinson,James,James Robinson,1923,1923/24,Robinson
 Robinson,Liam,Liam Robinson,1985,1985/86,Robinson
 Rodaway,Billy,Billy Rodaway,1984,1984/85,Rodaway
@@ -1632,7 +1632,7 @@ Williams,Tommy,Tommy Williams,1953,1953/54,Williams T
 Williams,Tommy,Tommy Williams,1954,1954/55,Williams
 Williams,Tommy,Tommy Williams,1955,1955/56,Williams
 Williams,Tommy,Tommy Williams,1956,1956/57,Williams T
-Williamson,James,James Williamson,1946,1946/47,Williamson
+Williamson,James,James Williamson,1946,1946/47,Williamson J
 Williamson,Stewie,Stewie Williamson,1945,1945/46,Williamson
 Williamson,Stewie,Stewie Williamson,1946,1946/47,Williamson
 Williamson,Stewie,Stewie Williamson,1947,1947/48,Williamson
