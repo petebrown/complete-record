@@ -1,7 +1,7 @@
 surname,forename,player_name,ssn,season,disam_name
 A'Court,Alan,Alan A'Court,1964,1964/65,A'Court
 A'Court,Alan,Alan A'Court,1965,1965/66,A'Court
-Adams,Arthur,Arthur Adams,1932,1932/33,Adams
+Adams,Arthur,Arthur Adams,1932,1932/33,Adams A
 Adams,Edward,Edward Adams,1929,1929/30,Adams
 Adams,Edward,Edward Adams,1930,1930/31,Adams
 Adams,Edward,Edward Adams,1931,1931/32,Adams
@@ -930,10 +930,10 @@ MacDonald,John,John MacDonald,1950,1950/51,MacDonald
 MacDonald,John,John MacDonald,1951,1951/52,MacDonald
 MacDonald,Willie,Willie MacDonald,1934,1934/35,MacDonald
 MacDonald,Willie,Willie MacDonald,1935,1935/36,MacDonald
-MacKay,William,William MacKay,1933,1933/34,MacKay
 MacNamee,John,John MacNamee,1967,1967/68,MacNamee
 MacNamee,John,John MacNamee,1968,1968/69,MacNamee
 MacNamee,John,John MacNamee,1969,1969/70,MacNamee
+Mackay,William,William Mackay,1933,1933/34,Mackay
 Maddocks,Emlyn,Emlyn Maddocks,1936,1936/37,Maddocks
 Maher,Aiden,Aiden Maher,1971,1971/72,Maher
 Maher,Cyril,Cyril Maher,1936,1936/37,Maher
@@ -1361,13 +1361,13 @@ Rogers,Alan,Alan Rogers,1996,1996/97,Rogers
 Roper,William,William Roper,1932,1932/33,Roper
 Roper,William,William Roper,1933,1933/34,Roper
 Roper,William,William Roper,1934,1934/35,Roper
+Rosenthal,Abe,Abe Rosenthal,1938,1938/39,Rosenthal
 Rosenthal,Abe,Abe Rosenthal,1945,1945/46,Rosenthal
 Rosenthal,Abe,Abe Rosenthal,1946,1946/47,Rosenthal
 Rosenthal,Abe,Abe Rosenthal,1949,1949/50,Rosenthal
 Rosenthal,Abe,Abe Rosenthal,1950,1950/51,Rosenthal
 Rosenthal,Abe,Abe Rosenthal,1951,1951/52,Rosenthal
 Rosenthal,Abe,Abe Rosenthal,1954,1954/55,Rosenthal
-Rosenthal,Are,Are Rosenthal,1938,1938/39,Rosenthal
 Rothwell,Peter,Peter Rothwell,1923,1923/24,Rothwell
 Rothwell,Peter,Peter Rothwell,1924,1924/25,Rothwell
 Rowe,Graham,Graham Rowe,1970,1970/71,Rowe
@@ -1423,15 +1423,15 @@ Speakman,Sammy,Sammy Speakman,1954,1954/55,Speakman
 Speakman,Sammy,Sammy Speakman,1955,1955/56,Speakman
 Spence,James,James Spence,1930,1930/31,Spence
 Spencer,Reg,Reg Spencer,1931,1931/32,Spencer
-Spencer,Reg,Reg Spencer,1932,1932/33,Spencer
+Spencer,Reg,Reg Spencer,1932,1932/33,Spencer R
 Spencer,Reg,Reg Spencer,1933,1933/34,Spencer
-Spencer,Reg,Reg Spencer,1934,1934/35,Spencer
-Spencer,Reg,Reg Spencer,1935,1935/36,Spencer
+Spencer,Reg,Reg Spencer,1934,1934/35,Spencer R
+Spencer,Reg,Reg Spencer,1935,1935/36,Spencer R
 Spencer,Reg,Reg Spencer,1936,1936/37,Spencer
 Spencer,Reg,Reg Spencer,1937,1937/38,Spencer
 Spencer,Reg,Reg Spencer,1938,1938/39,Spencer
-Spencer,Teddy,Teddy Spencer,1932,1932/33,Spencer
-Spencer,Teddy,Teddy Spencer,1933,1933/34,Spencer
+Spencer,Teddy,Teddy Spencer,1932,1932/33,Spencer E
+Spencer,Teddy,Teddy Spencer,1933,1933/34,Spencer E
 Spink,Tony,Tony Spink,1956,1956/57,Spink
 St John,Ian,Ian St John,1972,1972/73,St John
 Stanley,Graham,Graham Stanley,1965,1965/66,Stanley
@@ -1594,7 +1594,7 @@ Wilkinson,Barry,Barry Wilkinson,1963,1963/64,Wilkinson
 Williams,Gary,Gary Williams,1976,1976/77,Williams
 Williams,Gary,Gary Williams,1982,1982/83,Williams
 Williams,Gary,Gary Williams,1983,1983/84,Williams G
-Williams,Gary,Gary Williams,1984,1984/85,Williams
+Williams,Gary,Gary Williams,1984,1984/85,Williams G
 Williams,Gary,Gary Williams,1985,1985/86,Williams G
 Williams,Gary,Gary Williams,1986,1986/87,Williams G
 Williams,Gary,Gary Williams,1987,1987/88,Williams
@@ -1608,7 +1608,7 @@ Williams,John,John Williams,1980,1980/81,Williams J
 Williams,John,John Williams,1981,1981/82,Williams J
 Williams,John,John Williams,1982,1982/83,Williams
 Williams,John,John Williams,1983,1983/84,Williams J
-Williams,John,John Williams,1984,1984/85,Williams
+Williams,John,John Williams,1984,1984/85,Williams J
 Williams,Keith,Keith Williams,1957,1957/58,Williams K
 Williams,Keith,Keith Williams,1958,1958/59,Williams K
 Williams,Keith,Keith Williams,1959,1959/60,Williams K

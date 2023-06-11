@@ -12,20 +12,20 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 101,11,Allen,Russell,09-Jan-54,1954-01-09,1,1954,0,1,F,1973,1977,137,19,42,4,1,1,9,0,3,0,0,0,150,20,46,West Bromwich Albion,Mansfield,0
 101,12,Almond,John,NA,NA,4,1915,0,1,OL,1936,1936,22,0,5,1,0,0,0,0,0,0,0,0,23,0,5,Stoke City,Shrewsbury Town,0
 101,13,Amery,Charlie,16-Sep-10,1910-09-16,3,1910,0,1,LB,1935,1937,47,0,0,2,0,0,0,0,0,0,0,0,49,0,0,New Brighton,Stockport County,0
-101,14,Anders,Jimmy,NA,NA,NA,NA,0,1,OL,1961,1961,8,0,1,0,0,0,0,0,0,0,0,0,8,0,1,Bradford Park Avenue,NA,0
-101,15,Anderson,Doug,08-Mar-28,1928-03-08,1,1928,0,1,OL,1984,1986,125,1,15,8,0,2,5,1,1,7,0,2,145,2,20,Oldham Athletic,Plymouth Argyle,0
-101,16,Anderson,Ted,29-Aug-63,1963-08-29,3,1963,0,1,WH,1937,1938,31,0,0,1,0,0,0,0,0,0,0,0,32,0,0,Chester,World War 2,0
+101,14,Anders,Jimmy,08-Mar-28,1928-03-08,NA,NA,0,1,OL,1961,1961,8,0,1,0,0,0,0,0,0,0,0,0,8,0,1,Bradford Park Avenue,NA,0
+101,15,Anderson,Doug,29-Aug-63,1963-08-29,1,1928,0,1,OL,1984,1986,125,1,15,8,0,2,5,1,1,7,0,2,145,2,20,Oldham Athletic,Plymouth Argyle,0
+101,16,Anderson,Ted,17-Jul-11,1911-07-17,3,1963,0,1,WH,1937,1938,31,0,0,1,0,0,0,0,0,0,0,0,32,0,0,Chester,World War 2,0
 101,17,Anderson,Ted,17-Jul-11,1911-07-17,3,1911,0,2,WH,1945,1947,42,0,0,5,0,0,0,0,0,0,0,0,47,0,0,World War 2,NA,0
-101,18,Arnell,Alan,17-Jul-11,1911-07-17,3,1911,0,1,CF,1960,1962,68,0,34,2,0,1,1,0,3,0,0,0,71,0,38,Liverpool,Halifax Town,0
-101,19,Ashcroft,Billy,25-Nov-33,1933-11-25,4,1933,0,1,CD,1985,1985,16,7,2,2,1,0,2,0,0,2,1,0,22,9,2,FC Twente,NA,0
-101,20,Ashcroft,Llew,01-Oct-52,1952-10-01,4,1952,0,1,OR,1945,1946,20,0,4,3,0,2,0,0,0,0,0,0,23,0,6,Flint Town,NA,0
-101,21,Ashworth,Barry,10-Jul-21,1921-07-10,3,1921,0,1,RH,1966,1966,21,0,3,2,0,0,1,0,1,0,0,0,24,0,4,Hartlepools United,Chester,0
-101,22,Aspinall,John,15-Aug-42,1942-08-15,3,1942,0,1,MF,1982,1984,100,7,25,6,0,2,7,0,1,6,0,1,119,7,29,Local,Altrincham,0
+101,18,Arnell,Alan,25-Nov-33,1933-11-25,3,1911,0,1,CF,1960,1962,68,0,34,2,0,1,1,0,3,0,0,0,71,0,38,Liverpool,Halifax Town,0
+101,19,Ashcroft,Billy,01-Oct-52,1952-10-01,4,1933,0,1,CD,1985,1985,16,7,2,2,1,0,2,0,0,2,1,0,22,9,2,FC Twente,NA,0
+101,20,Ashcroft,Llew,10-Jul-21,1921-07-10,4,1952,0,1,OR,1945,1946,20,0,4,3,0,2,0,0,0,0,0,0,23,0,6,Flint Town,NA,0
+101,21,Ashworth,Barry,15-Aug-42,1942-08-15,3,1921,0,1,RH,1966,1966,21,0,3,2,0,0,1,0,1,0,0,0,24,0,4,Hartlepools United,Chester,0
+101,22,Aspinall,John,15-Mar-59,1959-03-15,3,1942,0,1,MF,1982,1984,100,7,25,6,0,2,7,0,1,6,0,1,119,7,29,Local,Altrincham,0
 101,23,Aspinall,John,15-Mar-59,1959-03-15,1,1959,0,2,MF,1987,1987,11,1,1,0,0,0,0,0,0,1,0,0,12,1,1,Bangor City,Bangor City,0
-101,24,Atkinson,Harold,15-Mar-59,1959-03-15,1,1959,0,1,CF,1945,1954,185,0,91,12,0,13,0,0,0,0,0,0,197,0,104,Carlton,Chesterfield,0
-101,25,Bainbridge,Bill,28-Jul-25,1925-07-28,3,1925,0,1,IR,1948,1953,168,0,64,14,0,4,0,0,0,0,0,0,182,0,68,Bury,Ellesmere Port Town,0
-101,26,Baker,Horace,09-Mar-22,1922-03-09,1,1922,0,1,OR,1934,1935,23,0,10,2,0,2,0,0,0,0,0,0,25,0,12,Port Vale,Shrewsbury Town,0
-101,27,Baldwin,Edmund,01-Sep-10,1910-09-01,3,1910,0,1,CF,1921,1921,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0
+101,24,Atkinson,Harold,28-Jul-25,1925-07-28,1,1959,0,1,CF,1945,1954,185,0,91,12,0,13,0,0,0,0,0,0,197,0,104,Carlton,Chesterfield,0
+101,25,Bainbridge,Bill,09-Mar-22,1922-03-09,3,1925,0,1,IR,1948,1953,168,0,64,14,0,4,0,0,0,0,0,0,182,0,68,Bury,Ellesmere Port Town,0
+101,26,Baker,Horace,01-Sep-10,1910-09-01,1,1922,0,1,OR,1934,1935,23,0,10,2,0,2,0,0,0,0,0,0,25,0,12,Port Vale,Shrewsbury Town,0
+101,27,Baldwin,Edmund,,,3,1910,0,1,CF,1921,1921,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0
 101,28,Bamber,Jack,11-Apr-95,1895-04-11,2,1895,0,1,CH,1927,1929,86,0,1,3,0,1,0,0,0,0,0,0,89,0,2,Leicester City,Prescot Cables,0
 101,29,Barnett,Graham,17-May-36,1936-05-17,2,1936,0,1,IF,1959,1960,32,0,11,0,0,0,0,0,0,0,0,0,32,0,11,Port Vale,Halifax Town,0
 101,30,Barrett,Arthur,21-Dec-27,1927-12-21,4,1927,0,1,HB,1946,1946,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Local,NA,0
@@ -34,7 +34,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 101,33,Bauress,Gary,19-Jan-71,1971-01-19,1,1971,0,1,CH,1989,1989,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,YTS,NA,0
 101,34,Bavin,John,25-May-21,1921-05-25,2,1921,0,1,FB,1948,1948,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Arbroath,NA,0
 101,35,Beamish,Kenny,25-Aug-47,1947-08-25,3,1947,0,1,F,1965,1971,176,2,49,20,0,7,11,1,7,0,0,0,207,3,63,Local,Brighton & Hove Albion,0
-101,36,Beamish,Kenny,25-Au9-47,1947-09-25,3,1947,0,2,F,1979,1980,57,2,15,5,0,3,4,0,0,0,0,0,66,2,18,Bury,Swindon Twn,0
+101,36,Beamish,Kenny,25-Aug-47,1947-08-25,3,1947,0,2,F,1979,1980,57,2,15,5,0,3,4,0,0,0,0,0,66,2,18,Bury,Swindon Twn,0
 101,37,Bedford,Fred,25-Jun-02,1902-06-25,2,1902,0,1,OR,1927,1927,3,0,2,0,0,0,0,0,0,0,0,0,3,0,2,Lancaster Town,Morecambe,0
 101,38,Bell,Bunny,10-Apr-11,1911-04-10,2,1911,0,1,CF,1930,1935,114,0,102,13,0,11,0,0,0,0,0,0,127,0,113,Carlton,Everton,0
 101,39,Bell,Graham,30-Mar-55,1955-03-30,1,1955,0,1,MF,1986,1986,41,1,4,2,0,0,2,0,0,2,0,0,47,1,4,Bolton Wanderers,Hyde United,0
@@ -355,7 +355,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 105,2,Lornie,Jack,02-Mar-39,1939-03-02,1,1939,0,1,OR,1964,1965,33,2,6,1,0,0,2,0,0,0,0,0,36,2,6,Carlisle United,NA,0
 105,3,Loyden,Eddie,22-Dec-45,1945-12-22,4,1945,0,1,CF,1972,1973,61,0,22,2,1,0,5,0,3,0,0,0,68,1,25,Chester Highlands Park,NA,0
 105,4,Lumby,Jim,02-Oct-54,1954-10-02,4,1954,0,1,F,1979,1980,43,3,21,6,0,3,8,0,1,0,0,0,57,3,25,Carlisle United,Mansfield Town,0
-105,5,MacKay,William,NA,NA,NA,NA,0,1,OR,1933,1933,7,0,1,0,0,0,0,0,0,0,0,0,7,0,1,Sheffield Wednesday,NA,0
+105,5,Mackay,William,NA,NA,NA,NA,0,1,OR,1933,1933,7,0,1,0,0,0,0,0,0,0,0,0,7,0,1,Sheffield Wednesday,NA,0
 105,6,Maddocks,Emlyn,06-Jul-17,1917-07-06,3,1917,0,1,CF,1936,1936,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Denbigh,NA,0
 105,7,Maher,Aiden,01-Dec-46,1946-12-01,4,1946,0,1,OL,1971,1971,2,5,1,0,0,0,1,0,0,0,0,0,3,5,1,Plymouth Argyle,NA,0
 105,8,Maher,Cyril,NA,NA,2,1918,0,1,OR,1936,1936,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,South Liverpool,NA,0
@@ -510,9 +510,9 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 106,69,Robinson,James,08-Jan-98,1898-01-08,1,1898,0,1,OL,1922,1923,7,0,1,1,0,0,0,0,0,0,0,0,8,0,1,Manchester United,NA,0
 106,70,Robinson,Liam,29-Dec-65,1965-12-29,4,1965,0,1,s,1985,1985,4,0,3,0,0,0,0,0,0,0,0,0,4,0,3,Huddersfield Town,NA,1
 106,71,Rodaway,Billy,26-Sep-54,1954-09-26,3,1954,0,1,MF,1984,1985,55,3,5,6,0,1,3,0,0,3,0,0,67,3,6,Blackpool,Burnley,0
-106,72,Rogers,Alan,03-Jan-77,1977-01-03,1,1977,0,1,LB,1995,1996,53,4,2,1,0,0,1,0,0,0,0,0,55,4,2,YTS,NottinRham Forest,0
+106,72,Rogers,Alan,03-Jan-77,1977-01-03,1,1977,0,1,LB,1995,1996,53,4,2,1,0,0,1,0,0,0,0,0,55,4,2,YTS,Nottingham Forest,0
 106,73,Roper,William,NA,NA,2,1914,0,1,G,1932,1934,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Liverpool,South Liverpool,0
-106,74,Rosenthal,Are,12-Oct-21,1921-10-12,4,1921,0,1,IF,1938,1938,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Liverpool,World War 2,0
+106,74,Rosenthal,Abe,12-Oct-21,1921-10-12,4,1921,0,1,IF,1938,1938,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Liverpool,World War 2,0
 106,75,Rosenthal,Abe,12-Oct-21,1921-10-12,4,1921,0,2,IF,1945,1946,26,0,8,5,0,4,0,0,0,0,0,0,31,0,12,World War 2,Bradford City,0
 106,76,Rosenthal,Abe,12-Oct-21,1921-10-12,4,1921,0,3,IF,1949,1951,69,0,24,6,0,4,0,0,0,0,0,0,75,0,28,Oldham Athletic,Bradford City,0
 106,77,Rosenthal,Abe,12-Oct-21,1921-10-12,4,1921,0,4,IF,1954,1954,21,0,3,2,0,1,0,0,0,0,0,0,23,0,4,Bradford City,Bradford City,0
