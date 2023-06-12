@@ -1155,6 +1155,17 @@ season,game_no,player_name,goals_scored
 1938/39,38,Billy Eden,2
 1938/39,39,Robert Thomas,1
 1938/39,43,Jack Kearns,1
+1945/46,1,Abe Rosenthal,1
+1945/46,2,Llew Ashcroft,2
+1945/46,2,Abe Rosenthal,2
+1945/46,2,Harold Atkinson,1
+1945/46,2,Stewie Williamson,1
+1945/46,3,Harold Atkinson,1
+1945/46,3,Harold Bell,1
+1945/46,3,Abe Rosenthal,1
+1945/46,5,Harry Gould,1
+1945/46,6,Walter Price,1
+1945/46,6,Abe Rosenthal,1
 1946/47,1,Harold Atkinson,1
 1946/47,2,Harold Bell,1
 1946/47,2,Harold Atkinson,1
@@ -3448,8 +3459,6 @@ season,game_no,player_name,goals_scored
 1983/84,53,Ray Woods,1
 1983/84,54,Bobby Hutchinson,1
 1983/84,55,Dave Philpotts,1
-1984/85,1,NA,1
-1984/85,1,NA,1
 1984/85,2,Colin Clarke,1
 1984/85,2,John Clayton,1
 1984/85,3,John Aspinall,2
