@@ -57,7 +57,7 @@ IR,21,21,12,0,7,0,0,0,0,0,0,0,0,0,12,0,7,Pontypridd,Stoke City
 IF,60,63,107,0,36,4,0,0,4,0,1,0,0,0,115,0,37,Hull City,Wigan Athletic
 OR,56,56,21,0,6,1,0,0,0,0,0,0,0,0,22,0,6,Wrexham,Northwich Victoria
 IF,26,26,12,0,0,0,0,0,0,0,0,0,0,0,12,0,0,Cardiff City,Minor/NE
-D,87,87,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Billingham Town,Hartlepoo United
+D,87,87,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Billingham Town,Hartlepool United
 CH,22,24,81,0,2,8,0,0,0,0,0,0,0,0,89,0,2,Hartlepools United,Folkestone Town
 MF,80,84,95,14,6,10,1,0,8,0,0,1,0,0,114,15,6,Swindon Town,Wigan Athletic
 RB,37,38,47,0,1,2,0,0,0,0,0,0,0,0,49,0,1,Chesterfield,Accrington Stanley
@@ -70,7 +70,7 @@ LH,22,23,21,0,0,0,0,0,0,0,0,0,0,0,21,0 ,0,Southend United,""
 LB,86,86,27,1,0,1,1,0,0,0,0,2,0,0,30,2,0,York City,Hill Of Beath
 RB,21,23,24,0,0,2,0,0,0,0,0,0,0,0,26,0 ,0,Buckley Town,Mold
 IL,22,23,11,0,1,0,0,0,0,0,0,0,0,0,11,0,1,Port Vale,""
-IF,23,23,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Liverpoool Badgers,""
+IF,23,23,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Liverpool Badgers,""
 F,84,84,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,Clitheroe,""
 G,61,63,58,0,0,1,0,0,3,0,0,0,0,0,62,0,0,Bury,Rochdale
 M,84,84,6,11,0,1,1,0,1,1,0,1,3,0,9,16,0,Wrexham,BK46/Finland

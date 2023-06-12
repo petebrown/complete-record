@@ -1,11 +1,11 @@
 position,ssn_join,ssn_lve,lge_apps,lge_sub,lge_gls,fac_apps,fac_sub,fac_gls,lc_apps,lc_sub,lc_gls,other_apps,other_sub,other_gls,total_apps,total_subs,total_gls,prev_club,next_club
-LB,21,21,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,Local,New Briohton
+LB,21,21,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,Local,New Brighton
 G,87,87,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,Manchester City (loan),""
 G,88,96,344,0,0,19,0,0,34,0,0,34,1,0,431,1,0,Manchester City,""
 FB,91,93,91,1,1,7,0,0,10,0,1,5,0,0,113,1,2,Marine,Sheffield Wednesday
 MF,93,96,117,5,7,4,1,1,11,0,0,2,0,0,134,6,8,Newcastle United,""
 OR,27,27,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Gillingham,Darlington
-MF,78,79,74,0,10,5,0,2,6,0,1,0,0,0,85,0,13,Southport,Halifac Town
+MF,78,79,74,0,10,5,0,2,6,0,1,0,0,0,85,0,13,Southport,Halifax Town
 G,86,86,15,0,0,0,0,0,0,0,0,0,0,0,15,0,0,Blackpool (loan),""
 G,86,87,38,0,0,2,0,0,2,0,0,2,0,0,44,0,0,Blackpool,ICI Thornton
 CH,38,38,17,0,0,0,0,0,0,0,0,0,0,0,17,0,0,Port Vale,""
@@ -18,7 +18,7 @@ MF,73,79,177,13,25,8,0,0,16,1,0,0,0,0,201,14,25,Local,Crewe Alexandra
 MF,82,84,55,4,7,3,0,0,1,1,0,4,3,1,63,8,8,Crewe Alexandra,Bangor City
 CF,55,56,4,0,3,0,0,0,0,0,0,0,0,0,4,0,3,Local,""
 RB,64,66,105,0,2,6,0,1,5,0,0,0,0,0,116,0,3,Everton,Bury
-OL,67,67,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Blackpool,Haifax Town
+OL,67,67,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Blackpool,Halifax Town
 CD,72,83,254,4,4,13,0,0,18,0,0,0,0,0,285,4,4,Local,""
 WH,46,48,10,0,0,0,0,0,0,0,0,0,0,0,10,0,0,Local,""
 G,46,60,439,0.,0,25,0,0,3,0,0,0,0,0,467,0,0,Army,Northwich Victoria
@@ -42,7 +42,7 @@ OL,21,21,23,0,3,2,0,2,0,0,0,0,0,0,25,0,5,Swansea Town,Hurst
 CF,46,46,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,St Annes,""
 CF,60,60,3,0,2,0,0,0,0,0,0,0,0,0,3,0,2,Aston Villa,Hartlepools United
 CH,46,46,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Local,Rochdale
-MF,62,69,176,2,29,16,0,0,12,0,2,0,0,0,204,2,31,Liverpool,Elesmere Port Town
+MF,62,69,176,2,29,16,0,0,12,0,2,0,0,0,204,2,31,Liverpool,Ellesmere Port Town
 FB,72,73,13,1,0,0,0,0,0,0,0,0,0,0,13,1,0,Everton,Southport
 MF,92,92,15,0,2,0,0,0,0,0,0,0,0,0,15,0,2,Middlesbrough (loan),""
 MF,93,94,18,0,0,1,0,0,1,0,0,0,1,0,20,1,0,Middlesbrough,""
