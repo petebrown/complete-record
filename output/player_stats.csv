@@ -299,7 +299,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 104,34,Jolley,Charlie,03-Mar-36,1936-03-03,1,1936,0,1,CF,1953,1954,6,0,2,0,0,0,0,0,0,0,0,0,6,0,2,Liverpool,Chester,0
 104,35,Jones,Benny,23-Mar-20,1920-03-23,1,1920,0,1,W,1945,1947,54,0,19,5,0,0,0,0,0,0,0,0,59,0,19,Ellesmere Port Town,Chelsea,0
 104,36,Jones,Derek,24-Apr-29,1929-04-24,2,1929,0,1,FB,1953,1960,155,0,19,8,0,0,2,0,0,0,0,0,165,0,19,Ellesmere Port Town,Runcorn,0
-104,37,Jones,Gary,11-May-75,1975-05-11,2,1975,0,1,CF,1993,1996,38,41,12,2,1,0,4,2,2,1,0,0,45,44,14,YTS,NA,0
+104,37,Jones,Gary,10-May-75,1975-05-10,2,1975,0,1,CF,1993,1996,38,41,12,2,1,0,4,2,2,1,0,0,45,44,14,YTS,NA,0
 104,38,Jones,Gwyn,NA,NA,1,1912,0,1,LB,1938,1938,16,0,0,1,0,0,0,0,0,0,0,0,17,0,0,Stockport County,Walsall,0
 104,39,Jones,Lee,29-May-73,1973-05-29,2,1973,0,1,F,1996,1996,8,0,5,0,0,0,0,0,0,0,0,0,8,0,5,Liverpool,NA,1
 104,40,Jones,Les,09-Nov-40,1940-11-09,4,1940,0,1,IR,1962,1964,68,0,29,6,0,2,2,0,0,0,0,0,76,0,31,Bolton Wanderers,Chester,0
