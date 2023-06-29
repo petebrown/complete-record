@@ -188,8 +188,8 @@ Briggs,Arthur,Arthur Briggs,1931,1931/32,Briggs
 Brodie,Eric,Eric Brodie,1969,1969/70,Brodie
 Brodie,Eric,Eric Brodie,1970,1970/71,Brodie
 Brodie,Eric,Eric Brodie,1971,1971/72,Brodie
-Brown,Andy,Andy Brown,1982,1982/83,Brown
-Brown,Dave,Dave Brown,1982,1982/83,Brown
+Brown,Andy,Andy Brown,1982,1982/83,Brown A
+Brown,Dave,Dave Brown,1982,1982/83,Brown D
 Brown,Jack,Jack Brown,1923,1923/24,Brown
 Brown,Jack,Jack Brown,1924,1924/25,Brown
 Brown,Jock,Jock Brown,1960,1960/61,Brown
@@ -609,12 +609,12 @@ Harvey,Jimmy,Jimmy Harvey,1991,1991/92,Harvey
 Hawarden,Andrew,Andrew Hawarden,1922,1922/23,Hawarden
 Hawarden,Andrew,Andrew Hawarden,1923,1923/24,Hawarden
 Hay,Alan,Alan Hay,1986,1986/87,Hay
-Hayes,Charlie,Charlie Hayes,1921,1921/22,Hayes
-Hayes,Charlie,Charlie Hayes,1922,1922/23,Hayes
-Hayes,Charlie,Charlie Hayes,1923,1923/24,Hayes
+Hayes,Charlie,Charlie Hayes,1921,1921/22,Hayes C
+Hayes,Charlie,Charlie Hayes,1922,1922/23,Hayes C
+Hayes,Charlie,Charlie Hayes,1923,1923/24,Hayes C
 Hayes,Fred,Fred Hayes,1922,1922/23,Hayes F
-Hayes,Fred,Fred Hayes,1923,1923/24,Hayes
-Hayes,John,John Hayes,1923,1923/24,Hayes
+Hayes,Fred,Fred Hayes,1923,1923/24,Hayes F
+Hayes,John,John Hayes,1923,1923/24,Hayes J
 Heap,Stuart,Stuart Heap,1984,1984/85,Heap
 Heath,John,John Heath,1961,1961/62,Heath
 Heath,John,John Heath,1962,1962/63,Heath
@@ -1348,7 +1348,7 @@ Robertson,Teddie,Teddie Robertson,1966,1966/67,Robertson
 Robertson,Teddie,Teddie Robertson,1967,1967/68,Robertson
 Robertson,Teddie,Teddie Robertson,1968,1968/69,Robertson
 Robertson,William,William Robertson,1936,1936/37,Robertson
-Robinson,Alfred,Alfred Robinson,1921,1921/22,Robinson
+Robinson,Alfred,Alfred Robinson,1921,1921/22,Robinson A
 Robinson,James,James Robinson,1922,1922/23,Robinson J
 Robinson,James,James Robinson,1923,1923/24,Robinson
 Robinson,Liam,Liam Robinson,1985,1985/86,Robinson
@@ -1589,7 +1589,7 @@ Whyte,Crawford,Crawford Whyte,1936,1936/37,Whyte
 Wilde,Leslie,Leslie Wilde,1923,1923/24,Wilde
 Wilkinson,Barry,Barry Wilkinson,1963,1963/64,Wilkinson
 Williams,Gary,Gary Williams,1976,1976/77,Williams
-Williams,Gary,Gary Williams,1982,1982/83,Williams
+Williams,Gary,Gary Williams,1982,1982/83,Williams G
 Williams,Gary,Gary Williams,1983,1983/84,Williams G
 Williams,Gary,Gary Williams,1984,1984/85,Williams G
 Williams,Gary,Gary Williams,1985,1985/86,Williams G
@@ -1603,7 +1603,7 @@ Williams,John,John Williams,1978,1978/79,Williams J
 Williams,John,John Williams,1979,1979/80,Williams J
 Williams,John,John Williams,1980,1980/81,Williams J
 Williams,John,John Williams,1981,1981/82,Williams J
-Williams,John,John Williams,1982,1982/83,Williams
+Williams,John,John Williams,1982,1982/83,Williams J
 Williams,John,John Williams,1983,1983/84,Williams J
 Williams,John,John Williams,1984,1984/85,Williams J
 Williams,Keith,Keith Williams,1957,1957/58,Williams K
