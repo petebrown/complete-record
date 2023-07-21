@@ -8851,13 +8851,13 @@ season,game_no,player_name,shirt_no,role,on_for,off_for
 1998/99,4,McGreal,4,starter,,
 1998/99,4,Hill,5,starter,,
 1998/99,4,Irons,6,starter,,
-1998/99,4,Mahon,7,starter,,13
+1998/99,4,Mahon,7,starter,,15
 1998/99,4,Mellon,8,starter,,
 1998/99,4,Jones G,9,starter,,
 1998/99,4,Parkinson,10,starter,,12
 1998/99,4,Jones L,11,starter,,
 1998/99,4,Morrissey,12,sub,10,
-1998/99,4,Koumas,15,sub,,
+1998/99,4,Koumas,15,sub,15,
 1998/99,5,Simonsen,1,starter,,
 1998/99,5,Frail,2,starter,,
 1998/99,5,Thompson,3,starter,,
@@ -8922,10 +8922,10 @@ season,game_no,player_name,shirt_no,role,on_for,off_for
 1998/99,9,Santos,8,starter,,
 1998/99,9,Jones G,9,starter,,12
 1998/99,9,Parkinson,10,starter,,
-1998/99,9,Mellon,11,starter,,13
+1998/99,9,Mellon,11,starter,,15
 1998/99,9,Jones L,12,sub,9,
 1998/99,9,Morrissey,14,sub,7,
-1998/99,9,Mahon,15,sub,,
+1998/99,9,Mahon,15,sub,15,
 1998/99,10,Simonsen,1,starter,,
 1998/99,10,Allen,2,starter,,
 1998/99,10,Hill,3,starter,,
@@ -8947,12 +8947,12 @@ season,game_no,player_name,shirt_no,role,on_for,off_for
 1998/99,11,Challinor,5,starter,,
 1998/99,11,Irons,6,starter,,
 1998/99,11,Koumas,7,starter,,
-1998/99,11,Santos,8,starter,,13
+1998/99,11,Santos,8,starter,,15
 1998/99,11,Parkinson,9,starter,,
 1998/99,11,O'Brien,10,starter,,
 1998/99,11,Mahon,11,starter,,12
 1998/99,11,Jones L,12,sub,11,
-1998/99,11,Jones G,15,sub,,
+1998/99,11,Jones G,15,sub,15,
 1998/99,12,Achterberg,1,starter,,
 1998/99,12,Allen,2,starter,,
 1998/99,12,Hill,3,starter,,
@@ -9049,18 +9049,18 @@ season,game_no,player_name,shirt_no,role,on_for,off_for
 1998/99,18,Morrissey,14,sub,9,
 1998/99,19,Achterberg,1,starter,,
 1998/99,19,Allen,2,starter,,
-1998/99,19,Thompson,3,starter,,13
+1998/99,19,Thompson,3,starter,,15
 1998/99,19,McGreal,4,starter,,
 1998/99,19,Hill,5,starter,,
 1998/99,19,Irons,6,starter,,
-1998/99,19,Koumas,7,starter,,14
+1998/99,19,Koumas,7,starter,,16
 1998/99,19,Santos,8,starter,,
 1998/99,19,Jones G,9,starter,,
 1998/99,19,Mellon,10,starter,,12
 1998/99,19,Kelly,11,starter,,
 1998/99,19,O'Brien,12,sub,10,
-1998/99,19,Challinor,15,sub,,
-1998/99,19,Parkinson,16,sub,,
+1998/99,19,Challinor,15,sub,15,
+1998/99,19,Parkinson,16,sub,16,
 1998/99,20,Achterberg,1,starter,,
 1998/99,20,Allen,2,starter,,
 1998/99,20,Thompson,3,starter,,14
@@ -9230,11 +9230,11 @@ season,game_no,player_name,shirt_no,role,on_for,off_for
 1998/99,32,Mahon,7,starter,,
 1998/99,32,Santos,8,starter,,
 1998/99,32,Jones G,9,starter,,
-1998/99,32,Mellon,10,starter,,13
+1998/99,32,Mellon,10,starter,,16
 1998/99,32,Taylor,11,starter,,14
 1998/99,32,Morrissey,12,sub,3,
 1998/99,32,Parkinson,14,sub,11,
-1998/99,32,Jones L,16,sub,,
+1998/99,32,Jones L,16,sub,16,
 1998/99,33,Coyne,1,starter,,
 1998/99,33,Allen,2,starter,,
 1998/99,33,Thompson,3,starter,,
