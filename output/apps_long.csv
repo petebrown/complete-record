@@ -7230,15 +7230,14 @@ season,game_no,player_name,shirt_no,role,on_for,off_for
 1995/96,37,Thomas,3,starter,,
 1995/96,37,Rogers,4,starter,,13
 1995/96,37,Garnett,5,starter,,
-1995/96,37,Cook,6,starter,,14
+1995/96,37,Cook,6,starter,,12
 1995/96,37,Brannan,7,starter,,
 1995/96,37,Aldridge,8,starter,,
 1995/96,37,Moore,9,starter,,
 1995/96,37,Nevin,10,starter,,
 1995/96,37,Branch,11,starter,,14
-1995/96,37,Irons,12,sub,,
+1995/96,37,Irons,12,sub,6,
 1995/96,37,Higgins,13,sub,4,
-1995/96,37,Bennett,14,sub,6,
 1995/96,37,Bennett,14,sub,11,
 1995/96,38,Coyne,1,starter,,
 1995/96,38,Stevens,2,starter,,12
