@@ -908,7 +908,7 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1993/94,59,1994-05-18,Pat Nevin,10,starter,,89
 1993/94,59,1994-05-18,Ian Muir,12,sub,55,
 1993/94,59,1994-05-18,Martin Jones,14,sub,89,
-1994/95,1,1994-08-13,Shaun Garnett,5,starter
+1994/95,1,1994-08-13,Shaun Garnett,5,starter,,55
 1994/95,1,1994-08-13,Ian Muir,12,sub,55,
 1994/95,2,1994-08-20,Dave Higgins,2,starter
 1994/95,2,1994-08-20,Tony Thomas,11,starter
@@ -1031,6 +1031,6 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1995/96,37,1996-03-03,Alan Rogers,4,starter,,90
 1995/96,37,1996-03-03,Paul Cook,6,starter,,68
 1995/96,37,1996-03-03,Graham Branch,11,starter,,87
-1995/96,37,1996-03-03,Kenny Irons,12,sub,68
-1995/96,37,1996-03-03,Dave Higgins,13,sub,90
-1995/96,37,1996-03-03,Gary Bennett,14,sub,87
+1995/96,37,1996-03-03,Kenny Irons,12,sub,68,
+1995/96,37,1996-03-03,Dave Higgins,13,sub,90,
+1995/96,37,1996-03-03,Gary Bennett,14,sub,87,
