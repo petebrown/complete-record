@@ -450,7 +450,7 @@ Evans,Herbie,Herbie Evans,1926,1926/27,Evans
 Evans,Herbie,Herbie Evans,1927,1927/28,Evans
 Evans,Jabez,Jabez Evans,1922,1922/23,Evans
 Evans,Jabez,Jabez Evans,1923,1923/24,Evans
-Evans,Jabez,Jabez Evans,1924,1924/25,Evans
+Evans,Jabez,Jabez Evans,1924,1924/25,Evans J
 Fagan,Kit,Kit Fagan,1971,1971/72,Fagan
 Fagan,Kit,Kit Fagan,1972,1972/73,Fagan
 Fagan,Kit,Kit Fagan,1973,1973/74,Fagan
@@ -551,8 +551,8 @@ Gray,Albert,Albert Gray,1932,1932/33,Gray
 Gray,Albert,Albert Gray,1933,1933/34,Gray
 Gray,Albert,Albert Gray,1934,1934/35,Gray
 Gray,Albert,Albert Gray,1935,1935/36,Gray
-Gray,Matthew,Matthew Gray,1927,1927/28,Gray
-Gray,Robert,Robert Gray,1927,1927/28,Gray
+Gray,Matthew,Matthew Gray,1927,1927/28,Gray M
+Gray,Robert,Robert Gray,1927,1927/28,Gray R
 Gray,Robert,Robert Gray,1928,1928/29,Gray R
 Green,Johnny,Johnny Green,1958,1958/59,Green
 Greenwood,Roy,Roy Greenwood,1983,1983/84,Greenwood
@@ -704,8 +704,8 @@ Irons,Kenny,Kenny Irons,1994,1994/95,Irons
 Irons,Kenny,Kenny Irons,1995,1995/96,Irons
 Irons,Kenny,Kenny Irons,1996,1996/97,Irons
 Jack,Andrew,Andrew Jack,1948,1948/49,Jack
-Jackson,Archie,Archie Jackson,1928,1928/29,Jackson
-Jackson,Archie,Archie Jackson,1929,1929/30,Jackson
+Jackson,Archie,Archie Jackson,1928,1928/29,Jackson A
+Jackson,Archie,Archie Jackson,1929,1929/30,Jackson A
 Jackson,David,David Jackson,1961,1961/62,Jackson D
 Jackson,David,David Jackson,1962,1962/63,Jackson D
 Jackson,George,George Jackson,1923,1923/24,Jackson G
@@ -784,7 +784,7 @@ Kelly,John,John Kelly,1981,1981/82,Kelly
 Kelly,Noel,Noel Kelly,1955,1955/56,Kelly
 Kelly,Noel,Noel Kelly,1956,1956/57,Kelly
 Kelly,Robert,Robert Kelly,1984,1984/85,Kelly
-Kennedy,Andy,Andy Kennedy,1930,1930/31,Kennedy
+Kennedy,Andy,Andy Kennedy,1930,1930/31,Kennedy A
 Kennedy,David,David Kennedy,1967,1967/68,Kennedy
 Kennedy,David,David Kennedy,1968,1968/69,Kennedy
 Kennedy,David,David Kennedy,1969,1969/70,Kennedy
@@ -878,8 +878,8 @@ Lewis,Ginger,Ginger Lewis,1930,1930/31,Lewis
 Lewis,Ginger,Ginger Lewis,1931,1931/32,Lewis
 Lewis,Ginger,Ginger Lewis,1932,1932/33,Lewis
 Lewis,Ginger,Ginger Lewis,1933,1933/34,Lewis
-Lewis,Joseph,Joseph Lewis,1923,1923/24,Lewis
-Lewis,Joseph,Joseph Lewis,1924,1924/25,Lewis
+Lewis,Joseph,Joseph Lewis,1923,1923/24,Lewis Jos
+Lewis,Joseph,Joseph Lewis,1924,1924/25,Lewis Jos
 Lewis,Norman,Norman Lewis,1936,1936/37,Lewis
 Lewis,Norman,Norman Lewis,1937,1937/38,Lewis
 Lewis,Norman,Norman Lewis,1938,1938/39,Lewis
@@ -1239,9 +1239,9 @@ Parry,Les,Les Parry,1983,1983/84,Parry
 Payne,Albert,Albert Payne,1946,1946/47,Payne
 Payne,Albert,Albert Payne,1947,1947/48,Payne
 Payne,Albert,Albert Payne,1948,1948/49,Payne
-Payne,George,George Payne,1946,1946/47,Payne
-Payne,George,George Payne,1947,1947/48,Payne
-Payne,George,George Payne,1948,1948/49,Payne
+Payne,George,George Payne,1946,1946/47,Payne G
+Payne,George,George Payne,1947,1947/48,Payne G
+Payne,George,George Payne,1948,1948/49,Payne G
 Payne,George,George Payne,1949,1949/50,Payne
 Payne,George,George Payne,1950,1950/51,Payne
 Payne,George,George Payne,1951,1951/52,Payne
@@ -1420,14 +1420,14 @@ Smith,William,William Smith,1938,1938/39,Smith
 Speakman,Sammy,Sammy Speakman,1954,1954/55,Speakman
 Speakman,Sammy,Sammy Speakman,1955,1955/56,Speakman
 Spence,James,James Spence,1930,1930/31,Spence
-Spencer,Reg,Reg Spencer,1931,1931/32,Spencer
+Spencer,Reg,Reg Spencer,1931,1931/32,Spencer R
 Spencer,Reg,Reg Spencer,1932,1932/33,Spencer R
-Spencer,Reg,Reg Spencer,1933,1933/34,Spencer
+Spencer,Reg,Reg Spencer,1933,1933/34,Spencer R
 Spencer,Reg,Reg Spencer,1934,1934/35,Spencer R
 Spencer,Reg,Reg Spencer,1935,1935/36,Spencer R
-Spencer,Reg,Reg Spencer,1936,1936/37,Spencer
-Spencer,Reg,Reg Spencer,1937,1937/38,Spencer
-Spencer,Reg,Reg Spencer,1938,1938/39,Spencer
+Spencer,Reg,Reg Spencer,1936,1936/37,Spencer R
+Spencer,Reg,Reg Spencer,1937,1937/38,Spencer R
+Spencer,Reg,Reg Spencer,1938,1938/39,Spencer R
 Spencer,Teddy,Teddy Spencer,1932,1932/33,Spencer E
 Spencer,Teddy,Teddy Spencer,1933,1933/34,Spencer E
 Spink,Tony,Tony Spink,1956,1956/57,Spink
@@ -1621,7 +1621,7 @@ Williams,Ray,Ray Williams,1958,1958/59,Williams R
 Williams,Tommy,Tommy Williams,1946,1946/47,Williams
 Williams,Tommy,Tommy Williams,1947,1947/48,Williams
 Williams,Tommy,Tommy Williams,1948,1948/49,Williams
-Williams,Tommy,Tommy Williams,1949,1949/50,Williams
+Williams,Tommy,Tommy Williams,1949,1949/50,Williams T
 Williams,Tommy,Tommy Williams,1950,1950/51,Williams
 Williams,Tommy,Tommy Williams,1951,1951/52,Williams
 Williams,Tommy,Tommy Williams,1952,1952/53,Williams
