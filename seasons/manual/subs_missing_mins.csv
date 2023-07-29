@@ -1269,8 +1269,8 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1988/89,46,1989-03-11,Dave Martindale,12,sub,,
 1988/89,46,1989-03-11,Mark Hughes,5,starter,,
 1988/89,46,1989-03-11,Eddie Murray,14,sub,,
-1988/89,48,1989-03-17,Mark Hughes,5,starter,,
-1988/89,48,1989-03-17,Eddie Murray,12,sub,,
+1988/89,48,1989-03-17,Mark Hughes,5,starter,,65
+1988/89,48,1989-03-17,Eddie Murray,12,sub,65 ,
 1988/89,49,1989-03-20,Dave Martindale,4,starter,,
 1988/89,49,1989-03-20,Eddie Bishop,12,sub,,
 1988/89,49,1989-03-20,Johnny Morrissey,7,starter,,

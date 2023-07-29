@@ -3,7 +3,7 @@ game_date,player_name,red_cards,min_so
 1988-10-24,Mark Hughes,1.0,73.0
 1988-11-12,Johnny Morrissey,1.0,
 1989-02-18,Johnny Morrissey,1.0,71.0
-1989-03-17,Eddie Bishop,1.0,
+1989-03-13,Eddie Bishop,1.0,
 1991-10-12,Dave Higgins,1.0,71.0
 1991-12-28,John Aldridge,1.0,55.0
 1992-12-16,Neil McNabb,1.0,80.0
@@ -14,5 +14,4 @@ game_date,player_name,red_cards,min_so
 1993-05-18,Eric Nixon,1.0,90.0
 1993-08-28,Chris Malkin,1.0,30.0
 1993-08-28,Ian Nolan,1.0,85.0
-1994-02-23,John McGreal,0.0,
 1997-01-14,John Aldridge,1.0,75.0
