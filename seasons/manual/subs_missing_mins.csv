@@ -1,12 +1,12 @@
 season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
-1965/66,2,1965-08-23,Mandy Hill,7,starter,,
-1965/66,2,1965-08-23,Jack Lornie,12,sub,,
-1965/66,14,1965-10-15,Eddie Stuart,5,starter,,
-1965/66,14,1965-10-15,Johnny King,12,sub,,
-1965/66,28,1966-01-08,Barry Dyson,9,starter,,
-1965/66,28,1966-01-08,Graham Stanley,12,sub,,
-1965/66,29,1966-01-14,Joe Pritchard,4,starter,,
-1965/66,29,1966-01-14,Jack Lornie,12,sub,,
+1965/66,2,1965-08-23,Mandy Hill,7,starter,,75
+1965/66,2,1965-08-23,Jack Lornie,12,sub,75,
+1965/66,14,1965-10-15,Eddie Stuart,5,starter,,82
+1965/66,14,1965-10-15,Johnny King,12,sub,82,
+1965/66,28,1966-01-08,Barry Dyson,9,starter,,73
+1965/66,28,1966-01-08,Graham Stanley,12,sub,73,
+1965/66,29,1966-01-14,Joe Pritchard,4,starter,,60
+1965/66,29,1966-01-14,Jack Lornie,12,sub,60,
 1965/66,44,1966-04-23,Jack Lornie,8,starter,,
 1965/66,44,1966-04-23,Barrie Martin,12,sub,,
 1966/67,2,1966-08-24,Roy Sinclair,11,starter,,
@@ -1184,9 +1184,9 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1988/89,2,1988-08-29,Dave Martindale,4,starter,,
 1988/89,2,1988-08-29,Kenny McKenna,12,sub,,
 1988/89,4,1988-09-05,Dave Higgins,2,starter,,50.0
-1988/89,4,1988-09-05,Mark McCarrick,14,sub,,
+1988/89,4,1988-09-05,Mark McCarrick,14,sub,90,
 1988/89,4,1988-09-05,Ronnie Moore,5,starter,,
-1988/89,4,1988-09-05,Kenny McKenna,12,sub,50.0,
+1988/89,4,1988-09-05,Kenny McKenna,12,sub,,
 1988/89,6,1988-09-16,Dave Martindale,4,starter,,
 1988/89,6,1988-09-16,Gary Williams,14,sub,,
 1988/89,6,1988-09-16,Mark Hughes,5,starter,,
@@ -2205,8 +2205,8 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1995/96,50,1996-04-30,Alan Rogers,3,starter,,
 1995/96,50,1996-04-30,Ian Moore,13,sub,,
 1995/96,50,1996-04-30,John Aldridge,8,starter,,
-1995/96,51,1996-05-05,Kenny Irons,11,starter,,
-1995/96,51,1996-05-05,Ian Moore,12,sub,,
+1995/96,51,1996-05-05,Kenny Irons,11,starter,,76
+1995/96,51,1996-05-05,Ian Moore,12,sub,76,
 1996/97,1,1996-08-17,Johnny Morrissey,7,starter,,
 1996/97,1,1996-08-17,Pat Nevin,12,sub,,
 1996/97,1,1996-08-17,John Aldridge,8,starter,,
