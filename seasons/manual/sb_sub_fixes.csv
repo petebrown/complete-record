@@ -95,10 +95,10 @@ game_date,shirt_no,player_name,on_for,off_for,min_on,min_off
 2008-10-28,9,Ian Moore,,16.0,,81.0
 2008-10-28,2,Godwin Antwi,5.0,,90.0,
 2008-10-28,5,Ian Goodison,,2.0,,90.0
-2010-08-21,19,Kayleden Brown,6.0,,46.0,
+2010-08-21,19,Kayleden Brown,6.0,,46.0,
 2010-08-21,6,Paul McLaren,,19.0,,46.0
-2010-08-21,25,Joss Labadie,15.0,,63.0,
-2010-08-21,15,Ryan Fraughan,,25.0,,63.0
+2010-08-21,15,Ryan Fraughan,25.0,,63.0,
+2010-08-21,25,Joss Labadie,,15.0,,63.0
 2010-08-21,26,Adam McGurk,9.0,,68.0,
 2010-08-21,9,Ian Moore,,26.0,,68.0
 2012-11-16,11,Adam McGurk,,16.0,,90.0
