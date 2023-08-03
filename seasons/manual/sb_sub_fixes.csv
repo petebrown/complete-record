@@ -1,8 +1,16 @@
 game_date,shirt_no,player_name,on_for,off_for,min_on,min_off
 1999-08-07,29,Michael Black,7.0,,80.0,
 1999-08-07,7,Alan Mahon,,29.0,,80.0
+1999-08-07,9,David Kelly,14.0,,80.0,
+1999-08-07,14,Andy Parkinson,,9.0,,80.0
+1999-11-12,3,Andy Thompson,31.0,,79.0,
+1999-11-12,31,Steve Yates,,3.0,,79.0
 1999-11-12,10,Scott Taylor,14.0,,90.0,
 1999-11-12,14,Andy Parkinson,,10.0,,90.0
+2000-01-08,7,Alan Mahon,17,,50.0,
+2000-01-08,17,Jason Koumas,,7.0,,50.0
+2000-01-08,10,Scott Taylor,9.0,,79.0,
+2000-01-08,9,David Kelly,,10.0,,79.0
 2000-01-08,18,Stephen Frail,14.0,,90.0,
 2000-01-08,14,Andy Parkinson,,18.0,,90.0
 2000-09-12,10,Scott Taylor,,14.0,,66.0
@@ -22,15 +30,11 @@ game_date,shirt_no,player_name,on_for,off_for,min_on,min_off
 2000-12-02,16,Jason Koumas,,2.0,,90.0
 2000-12-02,8,Nick Henry,25.0,,77.0,
 2001-01-01,14,Reuben Hazell,18.0,,66.0,
-2002-01-01,18,Richard Hinds,,14.0,,66.0
-2002-01-01,7,Wayne Gill,16.0,,90.0,
-2002-01-01,16,Jason Koumas,,7.0,,90.0
-2002-01-01,10,Scott Taylor,11.0,,72.0,
-2002-01-01,11,Stuart Barlow,,10.0,,72.0
-2002-04-10,11,Stuart Barlow,4.0,,66.0,
-2002-04-10,4,Wayne Allison,,11.0,,66.0
-2002-04-10,9,Andy Parkinson,33.0,,90.0,
-2002-04-10,33,Seyni N'Diaye,,9.0,,90.0
+2001-01-01,18,Richard Hinds,,14.0,,66.0
+2001-01-01,7,Wayne Gill,16.0,,90.0,
+2001-01-01,16,Jason Koumas,,7.0,,90.0
+2001-01-01,10,Scott Taylor,11.0,,72.0,
+2001-01-01,11,Stuart Barlow,,10.0,,72.0
 2003-03-04,12,Andy Parkinson,15.0,,90.0,
 2003-03-04,7,Jason Price,,20.0,,69.0
 2003-03-04,15,Iain Hume,,12.0,,90.0
