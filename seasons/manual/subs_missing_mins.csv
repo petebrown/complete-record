@@ -2201,8 +2201,8 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1995/96,49,1996-04-27,Ian Moore,13,sub,86.0,
 1995/96,49,1996-04-27,Pat Nevin,9,starter,,16.0
 1995/96,49,1996-04-27,Alan Morgan,14,sub,16.0,
-1995/96,50,1996-04-30,Alan Rogers,3,starter,62.0,
-1995/96,50,1996-04-30,Alan Morgan,14,sub,,62.0
+1995/96,50,1996-04-30,Alan Rogers,3,starter,,62
+1995/96,50,1996-04-30,Alan Morgan,14,sub,62,
 1995/96,50,1996-04-30,John Aldridge,8,starter,,85.0
 1995/96,50,1996-04-30,Ian Moore,13,sub,85.0,
 1995/96,51,1996-05-05,Kenny Irons,11,starter,,76.0
