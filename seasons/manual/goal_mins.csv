@@ -115,6 +115,11 @@ game_date,player_name,goal_min,penalty
 1995-02-25,Pat Nevin,49,
 1995-02-25,Ian Muir,79,
 1995-02-25,John Aldridge,90,
+1995-12-02,Gary Jones,1,
+1995-12-02,Gary Bennett,2,
+1995-12-09,Ian Moore,81,
+1995-12-26,John Aldridge,67,
+1995-12-26,John Aldridge,71,
 1996-01-13,Ian Moore,85,
 1996-01-20,John Aldridge,55,
 1996-02-10,John Aldridge,76,
@@ -145,5 +150,3 @@ game_date,player_name,goal_min,penalty
 1996-04-27,John Aldridge,46,
 1996-05-05,Kenny Irons,37,
 1996-05-05,John Aldridge,57,pen
-1995-12-26,John Aldridge,67,
-1995-12-26,John Aldridge,71,
