@@ -9,9 +9,9 @@ game_date,player_name,yellow_cards
 1987-02-14,Andy Thorpe,1
 1987-02-14,Steve Mungall,1
 1987-02-14,Johnny Morrissey,1
-1987-03-21,Alan Hay,1
-1987-03-21,Graham Bell,1
 1987-03-21,Steve Vickers,1
+1987-03-21,Graham Bell,1
+1987-03-21,Alan Hay,1
 1987-08-18,Dave Martindale,1
 1987-09-15,Steve Mungall,1
 1987-09-15,Mark McCarrick,1
@@ -21,8 +21,8 @@ game_date,player_name,yellow_cards
 1988-11-12,Dave Higgins,1
 1988-11-12,Johnny Morrissey,1
 1989-02-18,Dave Higgins,1
-1990-02-06,Johnny Morrissey,1
 1990-02-06,Dave Higgins,1
+1990-02-06,Johnny Morrissey,1
 1990-02-17,Neil McNab,1
 1990-02-17,Mark McCarrick,1
 1990-04-16,Tony Thomas,1
@@ -32,8 +32,8 @@ game_date,player_name,yellow_cards
 1990-05-27,Steve Vickers,1
 1990-09-01,Jim Steel,1
 1990-09-01,Ian Muir,1
-1990-12-29,Eric Nixon,1
 1990-12-29,Dave Higgins,1
+1990-12-29,Eric Nixon,1
 1991-02-26,Jim Steel,1
 1991-02-26,Tony Thomas,1
 1991-03-05,Tony Thomas,1
@@ -43,10 +43,10 @@ game_date,player_name,yellow_cards
 1991-08-27,Dave Higgins,1
 1991-08-27,Neil McNab,1
 1991-10-04,Neil McNab,1
-1991-10-12,Dave Martindale,1
-1991-10-12,Kenny Irons,1
 1991-10-12,Ged Brannan,1
 1991-10-12,Steve Vickers,1
+1991-10-12,Dave Martindale,1
+1991-10-12,Kenny Irons,1
 1992-01-04,Kenny Irons,1
 1992-04-04,Tony Thomas,1
 1992-04-04,Jim Steel,1
@@ -55,9 +55,9 @@ game_date,player_name,yellow_cards
 1993-08-28,Eric Nixon,1
 1993-08-28,Dave Higgins,1
 1993-08-28,John Aldridge,1
-1994-02-05,Dave Higgins,1
-1994-02-05,Ian Nolan,1
 1994-02-05,Mark Hughes,1
+1994-02-05,Ian Nolan,1
+1994-02-05,Dave Higgins,1
 1994-02-23,John McGreal,1
 1994-04-12,Ged Brannan,1
 1994-04-12,John McGreal,1
@@ -68,8 +68,8 @@ game_date,player_name,yellow_cards
 1995-11-25,Tony Thomas,1
 1995-12-02,Tony Thomas,1
 1995-12-02,Shaun Garnett,1
-1995-12-09,Shaun Teale,1
 1995-12-09,Ian Moore,1
+1995-12-09,Shaun Teale,1
 1995-12-16,Shaun Teale,1
 1995-12-16,Danny Coyne,1
 1995-12-16,Ged Brannan,1
@@ -80,8 +80,8 @@ game_date,player_name,yellow_cards
 1996-02-03,Dave Higgins,1
 1996-02-10,Steve Mungall,1
 1996-02-17,Graham Branch,1
-1996-02-20,Shaun Garnett,1
 1996-02-20,Shaun Teale,1
+1996-02-20,Shaun Garnett,1
 1996-02-24,Shaun Teale,1
 1996-03-16,Tony Thomas,1
 1996-03-23,Ian Moore,1
@@ -92,6 +92,6 @@ game_date,player_name,yellow_cards
 1996-04-08,Ged Brannan,1
 1996-04-13,Johnny Morrissey,1
 1996-04-13,Gary Stevens,1
-1996-04-27,Paul Cook,1
 1996-04-27,Alan Morgan,1
+1996-04-27,Paul Cook,1
 1996-04-30,John Aldridge,1
