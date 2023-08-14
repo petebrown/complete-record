@@ -140,6 +140,9 @@ game_date,player_name,goal_min,penalty
 1995-10-07,John Aldridge,3,
 1995-10-14,Ian Moore,58,
 1995-10-14,Gary Bennett,90,pen
+1995-10-21,Ian Moore,42,
+1995-10-21,Gary Bennett,80,
+1995-10-21,Ian Moore,90,
 1995-10-24,Ian Moore,75,
 1995-10-29,Ian Moore,46,
 1995-11-04,Pat Nevin,13,
@@ -186,6 +189,3 @@ game_date,player_name,goal_min,penalty
 1996-04-27,John Aldridge,46,
 1996-05-05,Kenny Irons,37,
 1996-05-05,John Aldridge,57,pen
-1995-10-21,Ian Moore,42,
-1995-10-21,Gary Bennett,80,
-1995-10-21,Ian Moore,90,
