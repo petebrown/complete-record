@@ -37764,12 +37764,12 @@ season,game_no,player_name,shirt_no,role,on_for,off_for
 1994/95,52,Moore,4,starter,,
 1994/95,52,Higgins,5,starter,,
 1994/95,52,O'Brien,6,starter,,
-1994/95,52,Muir,7,starter,,
+1994/95,52,Muir,7,starter,,12
 1994/95,52,Aldridge,8,starter,,
 1994/95,52,McGreal,9,starter,,
 1994/95,52,Jones G,10,starter,,14
 1994/95,52,Nevin,11,starter,,
-1994/95,52,Kenworthy,12,sub,,
+1994/95,52,Kenworthy,12,sub,7,
 1994/95,52,Brannan,14,sub,10,
 1994/95,53,Nixon,1,starter,,
 1994/95,53,Stevens,2,starter,,
