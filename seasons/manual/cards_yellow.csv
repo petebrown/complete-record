@@ -1,4 +1,6 @@
 game_date,player_name
+1984-05-21,Dave Higgins
+1984-05-21,Steve Mungall
 1986-09-27,Andy Thorpe
 1986-09-27,Ronnie Moore
 1986-09-27,Mark Hughes
@@ -9,9 +11,9 @@ game_date,player_name
 1987-02-14,Andy Thorpe
 1987-02-14,Steve Mungall
 1987-02-14,Johnny Morrissey
-1987-03-21,Graham Bell
 1987-03-21,Alan Hay
 1987-03-21,Steve Vickers
+1987-03-21,Graham Bell
 1987-08-18,Dave Martindale
 1987-09-15,Mark McCarrick
 1987-09-15,Steve Mungall
@@ -23,8 +25,8 @@ game_date,player_name
 1989-02-18,Dave Higgins
 1990-02-06,Dave Higgins
 1990-02-06,Johnny Morrissey
-1990-02-17,Neil McNab
 1990-02-17,Mark McCarrick
+1990-02-17,Neil McNab
 1990-04-16,Tony Thomas
 1990-04-23,Tony Thomas
 1990-05-05,Ian Muir
@@ -38,10 +40,10 @@ game_date,player_name
 1991-02-26,Tony Thomas
 1991-03-05,Tony Thomas
 1991-06-01,Chris Malkin
-1991-08-27,Tony Thomas
-1991-08-27,Kenny Irons
 1991-08-27,Neil McNab
 1991-08-27,Dave Higgins
+1991-08-27,Tony Thomas
+1991-08-27,Kenny Irons
 1991-10-04,Neil McNab
 1991-10-12,Kenny Irons
 1991-10-12,Dave Martindale
@@ -52,12 +54,12 @@ game_date,player_name
 1992-04-04,Jim Steel
 1993-01-02,Neil McNab
 1993-03-06,Ged Brannan
+1993-08-28,Eric Nixon
 1993-08-28,John Aldridge
 1993-08-28,Dave Higgins
-1993-08-28,Eric Nixon
-1994-02-05,Ian Nolan
 1994-02-05,Mark Hughes
 1994-02-05,Dave Higgins
+1994-02-05,Ian Nolan
 1994-02-23,John McGreal
 1994-04-12,Ged Brannan
 1994-04-12,John McGreal
@@ -71,8 +73,8 @@ game_date,player_name
 1995-08-29,Gary Bennett
 1995-08-29,Shaun Garnett
 1995-09-09,Shaun Teale
-1995-09-12,Ged Brannan
 1995-09-12,Liam O'Brien
+1995-09-12,Ged Brannan
 1995-09-16,Ian Moore
 1995-09-16,Gary Bennett
 1995-09-23,Kenny Irons
@@ -87,8 +89,8 @@ game_date,player_name
 1995-11-19,John McGreal
 1995-11-19,Gary Bennett
 1995-11-22,Tony Thomas
-1995-11-25,Tony Thomas
 1995-11-25,Shaun Garnett
+1995-11-25,Tony Thomas
 1995-12-02,Shaun Garnett
 1995-12-02,Tony Thomas
 1995-12-09,Ian Moore
@@ -115,6 +117,6 @@ game_date,player_name
 1996-04-08,Ged Brannan
 1996-04-13,Johnny Morrissey
 1996-04-13,Gary Stevens
-1996-04-27,Paul Cook
 1996-04-27,Alan Morgan
+1996-04-27,Paul Cook
 1996-04-30,John Aldridge
