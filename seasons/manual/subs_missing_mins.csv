@@ -7,8 +7,8 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1965/66,28,1966-01-08,Graham Stanley,12,sub,73.0,
 1965/66,29,1966-01-14,Joe Pritchard,4,starter,,60.0
 1965/66,29,1966-01-14,Jack Lornie,12,sub,60.0,
-1965/66,44,1966-04-23,Jack Lornie,8,starter,,
-1965/66,44,1966-04-23,Barrie Martin,12,sub,,
+1965/66,44,1966-04-23,Jack Lornie,8,starter,,68
+1965/66,44,1966-04-23,Barrie Martin,12,sub,68,
 1966/67,2,1966-08-24,Jimmy Harris,12,sub,,
 1966/67,2,1966-08-24,Roy Sinclair,11,starter,,
 1966/67,6,1966-09-10,Barry Ashworth,4,starter,,
@@ -1963,10 +1963,10 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1994/95,4,1994-08-27,John McGreal,14,sub,46.0,
 1994/95,4,1994-08-27,Pat Nevin,10,starter,,75
 1994/95,4,1994-08-27,Ian Muir,12,sub,75.0,
-1994/95,6,1994-09-03,Steve Mungall,12,sub,,
-1994/95,6,1994-09-03,Johnny Morrissey,7,starter,,
-1994/95,6,1994-09-03,Gary Jones,14,sub,,
-1994/95,6,1994-09-03,Shaun Garnett,5,starter,,
+1994/95,6,1994-09-03,Steve Mungall,12,sub,81,
+1994/95,6,1994-09-03,Johnny Morrissey,7,starter,,77
+1994/95,6,1994-09-03,Gary Jones,14,sub,77,
+1994/95,6,1994-09-03,Shaun Garnett,5,starter,,81
 1994/95,7,1994-09-06,Ian Moore,12,sub,79.0,
 1994/95,7,1994-09-06,Shaun Garnett,5,starter,,79
 1994/95,8,1994-09-10,Johnny Morrissey,7,starter,,80
