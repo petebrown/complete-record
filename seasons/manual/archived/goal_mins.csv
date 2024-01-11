@@ -1,8 +1,6 @@
 game_date,player_name,goal_min,penalty
 1964-09-04,John Manning,60,
 1984-05-21,Dave Philpotts,74,pen
-1984-11-10,Colin Clarke,39,
-1984-11-10,John Clayton,76,
 1986-09-27,Johnny Morrissey,50,
 1986-09-27,Gary Williams,54,
 1986-10-11,Steve Vickers,44,
@@ -300,3 +298,5 @@ game_date,player_name,goal_min,penalty
 1996-04-27,John Aldridge,46,
 1996-05-05,Kenny Irons,37,
 1996-05-05,John Aldridge,57,pen
+1984-11-10,Colin Clarke,39,
+1984-11-10,John Clayton,76,
