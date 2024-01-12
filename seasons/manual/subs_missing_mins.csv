@@ -1403,8 +1403,8 @@ season,game_no,game_date,player_name,shirt_no,role,min_on,min_off
 1989/90,41,1990-02-17,Eddie Bishop,12,sub,,
 1989/90,43,1990-02-23,Dave Martindale,14,sub,,
 1989/90,43,1990-02-23,Tony Thomas,11,starter,,
-1989/90,44,1990-03-03,Dave Martindale,14,sub,,
-1989/90,44,1990-03-03,Ian Muir,10,starter,,
+1989/90,44,1990-03-03,Dave Martindale,14,sub,75,
+1989/90,44,1990-03-03,Ian Muir,10,starter,,75
 1989/90,45,1990-03-06,Mark McCarrick,3,starter,,
 1989/90,45,1990-03-06,Dave Martindale,12,sub,,
 1989/90,46,1990-03-09,Tony Thomas,11,starter,,
