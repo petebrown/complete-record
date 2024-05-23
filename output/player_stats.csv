@@ -76,7 +76,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 101,75,Burke,Marshall,26-Mar-59,1959-03-26,1,1959,0,1,D,1984,1984,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Scarborough,NA,1
 101,76,Burns,Kinear,24-Sep-23,1923-09-24,3,1923,0,1,OR,1946,1946,14,0,4,0,0,0,0,0,0,0,0,0,14,0,4,Southport,NA,0
 101,77,Burrows,Wilf,NA,NA,1,1902,0,1,G,1926,1930,49,0,0,0,0,0,0,0,0,0,0,0,49,0,0,Selby Town,Wrexham,0
-101,78,Butler,Charles,20-Mar-08,1908-03-20,1,1908,0,1,fR,1936,1936,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Oldham Athletic,Cork City,0
+101,78,Butler,Charles,20-Mar-08,1908-03-20,1,1908,0,1,IR,1936,1936,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Oldham Athletic,Cork City,0
 101,79,Byrne,John,25-May-39,1939-05-25,2,1939,0,1,OL,1961,1961,27,0,4,1,0,0,1,0,0,0,0,0,29,0,4,Queen Of The South,Hibernian,0
 101,80,Byrne,John,24-Mar-49,1949-03-24,1,1949,0,1,OR,1968,1968,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Cammell Laird,NA,0
 101,81,Byrom,Tom,17-Mar-20,1920-03-17,1,1920,0,1,WH,1946,1946,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Heswall,NA,0
@@ -471,7 +471,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 106,30,Philpotts,Dave,31-Mar-54,1954-03-31,1,1954,0,2,CH,1983,1984,36,0,6,2,0,0,2,0,0,5,0,1,45,0,7,USA,NA,0
 106,31,Philpotts,John,NA,NA,NA,NA,0,1,OR,1945,1945,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0
 106,32,Pike,Martin,21-Oct-64,1964-10-21,4,1964,0,1,LB,1989,1989,2,0,0,1,0,0,2,0,0,0,0,0,5,0,0,Sheffield United,NA,1
-106,33,Platt,Dick,NA,NA,NA,NA,0,1,RB·,1932,1936,173,0,0,16,0,0,0,0,0,0,0,0,189,0,0,Huyton Quarry,Northampton Town,0
+106,33,Platt,Dick,NA,NA,NA,NA,0,1,RB,1932,1936,173,0,0,16,0,0,0,0,0,0,0,0,189,0,0,Huyton Quarry,Northampton Town,0
 106,34,Platt,John,22-Aug-54,1954-08-22,3,1954,0,1,G,1984,1984,8,0,0,1,0,0,0,0,0,1,0,0,10,0,0,Bolton Wanderers,NA,1
 106,35,Pointon,Ray,06-Nov-47,1947-11-06,4,1947,0,1,FB,1967,1970,41,6,0,0,0,0,7,0,0,0,0,0,48,6,0,Local,NA,0
 106,36,Pollard,James,04-Jun-20,1920-06-04,2,1920,0,1,OL,1947,1948,24,0,1,2,0,0,0,0,0,0,0,0,26,0,1,Newport County,Wigan Athletic,0
@@ -552,8 +552,8 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 107,23,Spencer,Reg,01-Dec-08,1908-12-01,4,1908,0,1,LH,1931,1938,235,0,3,21,0,0,0,0,0,0,0,0,256,0,3,Local,NA,0
 107,24,Spencer,Teddy,NA,NA,NA,NA,0,1,IL,1932,1933,15,0,2,1,0,2,0,0,0,0,0,0,16,0,4,Aston Villa,Leamington Town,0
 107,25,Spink,Tony,16-Nov-29,1929-11-16,4,1929,0,1,CF,1956,1956,7,0,3,1,0,0,0,0,0,0,0,0,8,0,3,Sunderland,NA,0
-107,26,St John,Ian,07-Jun-38,1938-06-07,2,1938,0,1,I CF,1972,1972,9,0,1,2,0,0,0,0,0,0,0,0,11,0,1,Coventry City,Portsmouth,0
-107,27,Stanley,Graham,27-Jan-38,1938-01-27,1,1938,0,1,I WH,1965,1965,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,Bolton Wanderers,NA,0
+107,26,St John,Ian,07-Jun-38,1938-06-07,2,1938,0,1,CF,1972,1972,9,0,1,2,0,0,0,0,0,0,0,0,11,0,1,Coventry City,Portsmouth,0
+107,27,Stanley,Graham,27-Jan-38,1938-01-27,1,1938,0,1,WH,1965,1965,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,Bolton Wanderers,NA,0
 107,28,Steel,Jim,04-Dec-59,1959-12-04,4,1959,0,1,CF,1987,1991,167,13,29,7,1,2,16,2,6,20,0,10,210,16,47,Wrexham,Retired,0
 107,29,Steele,Percy,26-Dec-23,1923-12-26,4,1923,0,1,FB,1945,1956,311,0,0,27,0,0,0,0,0,0,0,0,338,0,0,Carlton,Burscough,0
 107,30,Stephens,Terry,05-Nov-35,1935-11-05,4,1935,0,1,IF,1955,1956,15,0,5,0,0,0,0,0,0,0,0,0,15,0,5,Everton,Ellesmere Port Town,0
