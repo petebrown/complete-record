@@ -92,7 +92,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 102,3,Cartwright,William,11-Jun-22,1922-06-11,2,1922,0,1,CH,1946,1947,9,0,1,0,0,0,0,0,0,0,0,0,9,0,1,Local,NA,0
 102,4,Carvell,Arthur,26-May-11,1911-05-26,2,1911,0,1,LB,1932,1932,11,0,0,0,0,0,0,0,0,0,0,0,11,0,0,Planter's FC,NA,0
 102,5,Casey,Gerry,25-Aug-41,1941-08-25,3,1941,0,1,HB,1967,1969,49,3,5,3,2,0,7,0,1,0,0,0,59,5,6,Holyhead Town,NA,0
-102,6,Cassidy,James,NA,NA,NA,NA,0,1,IL,1937,1938,51,0,9,1,0,0,0,0,0,0,0,0,52,0,9,Manchester City,Dundalk,0
+102,6,Cassidy,James,03-Aug-1911,1911-08-03,3,1911,0,1,IL,1937,1938,51,0,9,1,0,0,0,0,0,0,0,0,52,0,9,Manchester City,Dundalk,0
 102,7,Chadwick,Harold,25-Jan-19,1919-01-25,1,1919,0,1,OR,1947,1948,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,Rochdale,Goslings,0
 102,8,Challinor,Dave,02-Oct-75,1975-10-02,4,1975,0,1,CD,1996,1996,4,1,0,0,0,0,0,0,0,0,0,0,4,1,0,Bromborough Pool,NA,0
 102,9,Chalmers,Billy,03-Apr-01,1901-04-03,2,1901,0,1,OL,1925,1925,23,0,4,2,0,0,0,0,0,0,0,0,25,0,4,Liverpool,NA,0
@@ -142,7 +142,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 102,53,Dale,Dickie,21-May-96,1896-05-21,2,1896,0,1,CH,1931,1931,7,0,0,3,0,0,0,0,0,0,0,0,10,0,0,West Bromwich Albion,Crook Town,0
 102,54,Dalton,Tim,14-Oct-65,1965-10-14,4,1965,0,1,G,1986,1986,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,Bradford City,NA,1
 102,55,Davies,Dai,01-Apr-48,1948-04-01,2,1948,0,1,G,1983,1983,42,0,0,2,0,0,2,0,0,5,0,0,51,0,0,Swansea City,Bangor City,0
-102,56,Davies,Ernie,NA,NA,NA,NA,0,1,RH,1936,1938,44,0,1,1,0,0,0,0,0,0,0,0,45,0,1,Heswall,York City,0
+102,56,Davies,Ernie,31-Jan-1916,1916-01-31,1,1916,0,1,RH,1936,1938,44,0,1,1,0,0,0,0,0,0,0,0,45,0,1,Heswall,York City,0
 102,57,Davies,Keith,19-Feb-34,1934-02-19,1,1934,0,1,IF,1953,1953,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Local,NA,0
 102,58,Davies,Ray,03-Oct-31,1931-10-03,4,1931,0,1,IF,1951,1957,120,0,28,16,0,1,0,0,0,0,0,0,136,0,29,Local,NA,0
 102,59,Davis,Samuel,25-May-00,1900-05-25,2,1900,0,1,RB,1925,1925,5,0,0,0,0,0,0,0,0,0,0,0,5,0,0,Stoke City,Accrington Stanley,0
@@ -300,7 +300,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 104,35,Jones,Benny,23-Mar-20,1920-03-23,1,1920,0,1,W,1945,1947,54,0,19,5,0,0,0,0,0,0,0,0,59,0,19,Ellesmere Port Town,Chelsea,0
 104,36,Jones,Derek,24-Apr-29,1929-04-24,2,1929,0,1,FB,1953,1960,155,0,19,8,0,0,2,0,0,0,0,0,165,0,19,Ellesmere Port Town,Runcorn,0
 104,37,Jones,Gary,10-May-75,1975-05-10,2,1975,0,1,CF,1993,1996,38,41,12,2,1,0,4,2,2,1,0,0,45,44,14,YTS,NA,0
-104,38,Jones,Gwyn,NA,NA,1,1912,0,1,LB,1938,1938,16,0,0,1,0,0,0,0,0,0,0,0,17,0,0,Stockport County,Walsall,0
+104,38,Jones,Gwyn,21-Feb-1912,1912-02-21,1,1912,0,1,LB,1938,1938,16,0,0,1,0,0,0,0,0,0,0,0,17,0,0,Stockport County,Walsall,0
 104,39,Jones,Lee,29-May-73,1973-05-29,2,1973,0,1,F,1996,1996,8,0,5,0,0,0,0,0,0,0,0,0,8,0,5,Liverpool,NA,1
 104,40,Jones,Les,09-Nov-40,1940-11-09,4,1940,0,1,IR,1962,1964,68,0,29,6,0,2,2,0,0,0,0,0,76,0,31,Bolton Wanderers,Chester,0
 104,41,Jones,Martin,27-Mar-75,1975-03-27,1,1975,0,1,G,1993,1993,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,YTS,NA,0
@@ -309,7 +309,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 104,44,Jones,Tommy,06-Dec-09,1909-12-06,4,1909,0,1,OR,1926,1928,90,0,28,2,0,0,0,0,0,0,0,0,92,0,28,Mid-Rhondda,Sheffield Wednesday,0
 104,45,Joy,Brian,26-Feb-51,1951-02-26,1,1951,0,1,FB,1970,1970,21,0,1,3,0,0,4,0,0,0,0,0,28,0,1,Torquay United,Doncaster Rovers,0
 104,46,Kearney,Sidney,28-Mar-17,1917-03-28,1,1917,0,1,IL,1937,1938,9,0,2,0,0,0,0,0,0,0,0,0,9,0,2,Leicester City,Accrington Stanley,0
-104,47,Kearns,Jack,NA,NA,NA,1915,1,1,RB,1938,1938,21,0,1,1,0,0,0,0,0,0,0,0,22,0,1,Wolves,NA,0
+104,47,Kearns,Jack,04-Jan-1914,1914-01-04,1,1914,0,1,RB,1938,1938,21,0,1,1,0,0,0,0,0,0,0,0,22,0,1,Wolves,NA,0
 104,48,Kelly,Charles,14-Jun-94,1894-06-14,2,1894,0,1,IR,1927,1927,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Stoke City,NA,0
 104,49,Kelly,John,20-Oct-60,1960-10-20,4,1960,0,1,IF,1979,1981,55,9,9,1,0,0,7,0,2,0,0,0,63,9,11,Cammell Laird,Preston North End,0
 104,50,Kelly,Noel,28-Dec-21,1921-12-28,4,1921,0,1,IF,1955,1956,52,0,7,2,0,0,0,0,0,0,0,0,54,0,7,Nottingham Forest,Ellesmere Port Town,0
@@ -594,7 +594,7 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 107,65,Urmson,Fred,26-Nov-07,1907-11-26,4,1907,0,1,OL,1927,1935,310,0,94,23,0,13,0,0,0,0,0,0,333,0,107,Atherton,Exeter City,0
 107,66,Veitch,Tommy,16-Oct-49,1949-10-16,4,1949,0,1,MF,1972,1974,76,3,5,4,1,0,6,0,0,0,0,0,86,4,5,Heart of Midlothian,Halifax Town,0
 107,67,Vickers,Steve,13-Oct-67,1967-10-13,4,1967,0,1,CD,1985,1993,317,1,11,19,0,3,20,1,5,29,0,1,385,2,20,Spennymoor United,Middlesbrough,0
-107,68,Walkden,Edgar,NA,NA,NA,NA,0,1,CH,1938,1938,21,0,0,0,0,0,0,0,0,0,0,0,21,0,0,Everton,NA,0
+107,68,Walkden,Edgar,04-Nov-1914,1914-11-04,4,1914,0,1,CH,1938,1938,21,0,0,0,0,0,0,0,0,0,0,0,21,0,0,Everton,NA,0
 107,69,Walls,Arthur,15-Jan-31,1931-01-15,1,1931,0,1,F,1954,1955,22,0,6,0,0,0,0,0,0,0,0,0,22,0,6,Airdrie,Macclesfield,0
 107,70,Waring,Pongo,12-Oct-06,1906-10-12,4,1906,0,1,CF,1927,1927,24,0,23,3,0,1,0,0,0,0,0,0,27,0,24,Tranmere Celtic,Aston Villa,0
 107,71,Waring,Pongo,12-Oct-06,1906-10-12,4,1906,0,2,CF,1936,1938,74,0,42,4,0,1,0,0,0,0,0,0,78,0,43,Wolves,Accrington Stanley,0
