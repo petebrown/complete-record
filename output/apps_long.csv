@@ -30970,11 +30970,11 @@ season,game_no,player_name,shirt_no,role,on_for,off_for
 1985/86,5,Rodaway,5,starter,,
 1985/86,5,Mungall,6,starter,,
 1985/86,5,Muir,7,starter,,
-1985/86,5,Train,8,starter,,
+1985/86,5,Train,8,starter,,12
 1985/86,5,Worthington,9,starter,,
 1985/86,5,Ashcroft,10,starter,,
 1985/86,5,Anderson,11,starter,,
-1985/86,5,Miller,12,sub,,
+1985/86,5,Miller,12,sub,8,
 1985/86,6,Adkins,1,starter,,
 1985/86,6,Sinclair,2,starter,,
 1985/86,6,Burgess,3,starter,,
