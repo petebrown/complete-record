@@ -13,8 +13,8 @@ game_date,shirt_no,player_name,on_for,off_for,min_on,min_off
 2000-01-08,9,David Kelly,,10.0,,79.0
 2000-01-08,18,Stephen Frail,14.0,,90.0,
 2000-01-08,14,Andy Parkinson,,18.0,,90.0
-2000-09-12,10,Scott Taylor,,14.0,,66.0
-2000-09-12,14,Andy Parkinson,10.0,,66.0,
+2000-09-12,10,Scott Taylor,,9.0,,66.0
+2000-09-12,9,Andy Parkinson,10.0,,66.0,
 2000-09-12,8,Nick Henry,,11.0,,82.0
 2000-09-12,26,Sean Flynn,,12.0,,90.0
 2000-09-12,12,Alan Morgan,26.0,,90.0,
@@ -38,9 +38,9 @@ game_date,shirt_no,player_name,on_for,off_for,min_on,min_off
 2003-03-04,12,Andy Parkinson,15.0,,90.0,
 2003-03-04,7,Jason Price,,20.0,,69.0
 2003-03-04,15,Iain Hume,,12.0,,90.0
-2003-03-04,16,Alex Hay,,11.0,,68.0
+2003-03-04,16,Alex Hay,,25.0,,68.0
 2003-03-04,20,Ryan Taylor,7.0,,69.0,
-2003-03-04,11,Shane Nicholson,16.0,,68.0,
+2003-03-04,25,Shane Nicholson,16.0,,68.0,
 2003-11-08,10,Gary Jones,14.0,,81.0,
 2003-11-08,14,Eugene Dadi,,10.0,,81.0
 2003-11-08,11,Shane Nicholson,7.0,,90.0,
@@ -55,9 +55,9 @@ game_date,shirt_no,player_name,on_for,off_for,min_on,min_off
 2004-08-24,8,Mark Rankine,,18.0,,80.0
 2004-08-24,19,Steven Jennings,20.0,,90.0,
 2004-08-24,20,David Beresford,,19.0,,90.0
-2005-10-18,10,Chris Greenacre,,12.0,,86.0
+2005-10-18,10,Chris Greenacre,,28.0,,86.0
 2005-10-18,11,Sam Aiston,,9.0,,90.0
-2005-10-18,12,Steve Davies,10.0,,86.0,
+2005-10-18,28,Steve Davies,10.0,,86.0,
 2005-10-18,9,Calvin Zola,11.0,,90.0,
 2005-12-20,22,Paul Brown,11.0,,82.0,
 2005-12-20,11,Sam Aiston,,22.0,,82.0
