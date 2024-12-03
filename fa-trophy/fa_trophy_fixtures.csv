@@ -83,12 +83,12 @@ game_date,shirt_no,player_name,role,min_off,min_on,off_for,on_for
 2017-03-11,5,Steve McNulty,starter,,,,
 2017-03-11,6,Michael Ihiekwe,starter,,,,
 2017-03-11,22,Adam Buxton,starter,54,,2,
-2017-03-11,4,Steven Jennings,starter,11,,46,
+2017-03-11,4,Steven Jennings,starter,46,,11,
 2017-03-11,8,Jay Harris,starter,,,,
 2017-03-11,24,Jeff Hughes,starter,,,,
 2017-03-11,3,Liam Ridehalgh,starter,,,,
 2017-03-11,9,Andy Cook,starter,,,,
-2017-03-11,10,James Norwood,starter,19,,70,
+2017-03-11,10,James Norwood,starter,70,,19,
 2017-03-11,2,Lee Vaughan,sub,,54,,22
 2017-03-11,11,Connor Jennings,sub,,46,,4
 2017-03-11,19,Andy Mangan,sub,,70,,10
@@ -162,7 +162,7 @@ game_date,shirt_no,player_name,role,min_off,min_on,off_for,on_for
 2015-10-27,15,Martin Riley,starter,,,
 2015-10-27,24,Steve McNulty,starter,,,
 2015-10-27,16,Matt Hill,starter,,,
-2015-10-27,7,Marlon Jackson,starter,82,,
+2015-10-27,7,Marlon Jackson,starter,82,2,
 2015-10-27,8,Jay Harris,starter,,,
 2015-10-27,4,Steven Jennings,starter,,,
 2015-10-27,3,Liam Ridehalgh,starter,,,
