@@ -225,8 +225,8 @@ page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,
 103,50,Griffiths,Clive,22-Jan-55,1955-01-22,1,1955,0,1,CD,1975,1976,59,0,0,2,0,0,0,0,0,0,0,0,61,0,0,Manchester United,Chicago Stings,0
 103,51,Griffiths,David,25-May-51,1951-05-25,2,1951,0,1,FB,1969,1969,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,Local,NA,0
 103,52,Griffiths,Ian,17-Apr-60,1960-04-17,2,1960,0,1,OL,1978,1982,110,6,5,9,0,1,10,0,0,0,0,0,129,6,6,Local,Rochdale,0
-103,53,Griffiths,John,NA,NA,NA,1918,1,1,OL,1936,1938,16,0,1,0,0,0,0,0,0,0,0,0,16,0,1,Chester,NA,0
-103,54,Griffiths,Joe,NA,NA,NA,1892,1,1,OL,1924,1924,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,Stockport County,NA,0
+103,53,Griffiths,Joe,NA,NA,NA,1892,1,1,OL,1924,1924,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,Stockport County,NA,0
+103,54,Griffiths,John,30-Jun-1916,1916-06-30,2,1916,0,1,OL,1936,1938,16,0,1,0,0,0,0,0,0,0,0,0,16,0,1,Chester,NA,0
 103,55,Groves,Fred,06-May-92,1892-05-06,2,1892,0,1,IR,1921,1921,12,0,7,0,0,0,0,0,0,0,0,0,12,0,7,Pontypridd,Stoke City,0
 103,56,Gubbins,Ralph,31-Jan-32,1932-01-31,1,1932,0,1,IF,1960,1963,107,0,36,4,0,0,4,0,1,0,0,0,115,0,37,Hull City,Wigan Athletic,0
 103,57,Gwatkin,Phil,05-Aug-29,1929-08-05,3,1929,0,1,OR,1956,1956,21,0,6,1,0,0,0,0,0,0,0,0,22,0,6,Wrexham,Northwich Victoria,0
