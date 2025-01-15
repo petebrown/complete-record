@@ -1,7 +1,6 @@
 page,row,surname,forename,date_of_birth,dob,dob_qtr,dob_yr,dob_yr_is_est,period,position,ssn_join,ssn_lve,lge_apps,lge_sub,lge_gls,fac_apps,fac_sub,fac_gls,lc_apps,lc_sub,lc_gls,other_apps,other_sub,other_gls,total_apps,total_subs,total_gls,prev_club,next_club,is_loan
 101,1,A'Court,Alan,30-Sep-34,1934-09-30,3,1934,0,1,OL,1964,1965,50,0,11,3,0,0,1,0,0,0,0,0,54,0,11,Liverpool,Norwich City,0
-101,2,Adams,Arthur,NA,NA,NA,NA,0,1,OR,1932,1932,3,0,1,1,0,0,0,0,0,0,0,0,4,0,1,NA,NA,0
-101,3,Adams,Edward,12-Nov-08,1908-11-12,4,1908,0,1,OR,1929,1931,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,Bromborough Pool,Bromborough Pool,0
+101,3,Adams,Arthur,12-Nov-08,1908-11-12,4,1908,0,1,OR,1929,1932,6,0,1,1,0,0,0,0,0,0,0,0,7,0,1,Bromborough Pool,Bromborough Pool,0
 101,4,Adkins,Nigel,11-Mar-65,1965-03-11,1,1965,0,1,G,1982,1985,86,0,0,2,0,0,4,0,0,6,0,0,98,0,0,Liverpool,Wigan Athletic,0
 101,5,Alcock,Edward,NA,NA,NA,1914,1,1,OL,1935,1935,5,0,1,0,0,0,0,0,0,0,0,0,5,0,1,Congleton Town,Congleton Town,0
 101,6,Aldridge,John,18-Sep-58,1958-09-18,3,1958,0,1,F,1991,1996,220,14,133,8,1,4,25,0,22,12,0,10,265,15,169,Real Sociedad/Spain,NA,0
